@@ -29,6 +29,9 @@ jobs:
         with:
           node-version: 12.x
       - run: npm run make
+      - name: Checkout repository
+        uses: actions/checkout@v2.3.2
+
       - name: Modifiy the specific files using scripts
         run: |
           --- shell scripts or command lines to execute ---
@@ -44,8 +47,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "jhamadhav"
-          git config --global user.email "jhamadhav28@gmail.com"
+          git config --global user.name "your username"
+          git config --global user.email "your email"
 
           git add -A
           git commit -m "commit message"
