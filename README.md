@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Happiness depends upon ourselves.
-- Aristotle
+We choose our joys and sorrows long before we experience them.
+- Kahlil Gibran
 
-Updated on: [29/9/2021]
+Updated on: [9/29/2021]
 <!-- #quoteEnd -->
 </pre>
