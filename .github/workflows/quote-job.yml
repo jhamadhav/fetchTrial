@@ -1,8 +1,8 @@
-name: Run make
+name: Get quote to README
 on:
   schedule:
-    # Runs "at minute 55 past every hour" (see https://crontab.guru)
-    - cron: '1/5 * * * *'
+    # Runs at midnight everyday
+    - cron: '0 0 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -25,5 +25,5 @@ jobs:
           git config --global user.name "jhamadhav"
           git config --global user.email "jhamadhav28@gmail.com"
           git add -A
-          git commit -m "new quote added"
+          git commit -m "New Quote added"
           git push
