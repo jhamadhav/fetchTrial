@@ -3,5 +3,5 @@ author: 'Madhav Jha'
 description: 'Quote in readme'
 
 runs:
-  using: node14
+  using: node12
   main: index.js
