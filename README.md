@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The minute you settle for less than you deserve, you get even less than you settled for.
-- Maureen Dowd
+The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+- Tony Robbins
 
-Updated on: [9/29/2021]
+Updated on: [9/30/2021]
 <!-- #quoteEnd -->
 </pre>
