@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The way we communicate with others and with ourselves ultimately determines the quality of our lives.
-- Tony Robbins
+It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+- Mignon McLaughlin
 
-Updated on: [9/30/2021]
+Updated on: [10/1/2021]
 <!-- #quoteEnd -->
 </pre>
