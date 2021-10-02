@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
-- Mignon McLaughlin
+Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+- Montesquieu
 
-Updated on: [10/1/2021]
+Updated on: [10/2/2021]
 <!-- #quoteEnd -->
 </pre>
