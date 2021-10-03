@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship is an arrangement by which we undertake to exchange small favors for big ones.
-- Montesquieu
+Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
+- M. Scott Peck
 
-Updated on: [10/2/2021]
+Updated on: [10/3/2021]
 <!-- #quoteEnd -->
 </pre>
