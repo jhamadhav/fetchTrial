@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
-- M. Scott Peck
+I think somehow, we learn who we really are and then live with that decision.
+- Eleanor Roosevelt
 
-Updated on: [10/3/2021]
+Updated on: [10/4/2021]
 <!-- #quoteEnd -->
 </pre>
