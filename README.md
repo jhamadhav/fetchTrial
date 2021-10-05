@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I think somehow, we learn who we really are and then live with that decision.
-- Eleanor Roosevelt
+I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
+- Bernard Shaw
 
-Updated on: [10/4/2021]
+Updated on: [10/5/2021]
 <!-- #quoteEnd -->
 </pre>
