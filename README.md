@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
-- Bernard Shaw
+Wisdom is always an overmatch for strength.
+- Phil Jackson
 
-Updated on: [10/5/2021]
+Updated on: [10/6/2021]
 <!-- #quoteEnd -->
 </pre>
