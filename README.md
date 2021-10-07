@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom is always an overmatch for strength.
-- Phil Jackson
+Sooner or later, those who win are those who think they can.
+- Richard Bach
 
-Updated on: [10/6/2021]
+Updated on: [10/7/2021]
 <!-- #quoteEnd -->
 </pre>
