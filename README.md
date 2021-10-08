@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Sooner or later, those who win are those who think they can.
-- Richard Bach
+You cannot travel the path until you have become the path itself.
+- Buddha
 
-Updated on: [10/7/2021]
+Updated on: [10/8/2021]
 <!-- #quoteEnd -->
 </pre>
