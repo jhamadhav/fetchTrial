@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You cannot travel the path until you have become the path itself.
-- Buddha
+In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+- François de La Rochefoucauld
 
-Updated on: [10/8/2021]
+Updated on: [10/9/2021]
 <!-- #quoteEnd -->
 </pre>
