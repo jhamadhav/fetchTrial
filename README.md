@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He who wishes to secure the good of others, has already secured his own.
+I hear and I forget. I see and I remember. I do and I understand.
 - Confucius
 
-Updated on: [10/10/2021]
+Updated on: [10/11/2021]
 <!-- #quoteEnd -->
 </pre>
