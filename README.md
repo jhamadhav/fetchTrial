@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The power of intuitive understanding will protect you from harm until the end of your days.
-- Laozi
+Kindness is the language which the deaf can hear and the blind can see.
+- Mark Twain
 
-Updated on: [10/14/2021]
+Updated on: [10/15/2021]
 <!-- #quoteEnd -->
 </pre>
