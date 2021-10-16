@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Kindness is the language which the deaf can hear and the blind can see.
-- Mark Twain
+He who lives in harmony with himself lives in harmony with the universe.
+- Marcus Aurelius
 
-Updated on: [10/15/2021]
+Updated on: [10/16/2021]
 <!-- #quoteEnd -->
 </pre>
