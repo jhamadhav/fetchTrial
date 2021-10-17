@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He who lives in harmony with himself lives in harmony with the universe.
-- Marcus Aurelius
+The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+- Anaïs Nin
 
-Updated on: [10/16/2021]
+Updated on: [10/17/2021]
 <!-- #quoteEnd -->
 </pre>
