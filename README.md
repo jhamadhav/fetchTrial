@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
-- Anaïs Nin
+A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+- William C. Menninger
 
-Updated on: [10/17/2021]
+Updated on: [10/18/2021]
 <!-- #quoteEnd -->
 </pre>
