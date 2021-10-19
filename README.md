@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
-- William C. Menninger
+There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+- Albert Einstein
 
-Updated on: [10/18/2021]
+Updated on: [10/19/2021]
 <!-- #quoteEnd -->
 </pre>
