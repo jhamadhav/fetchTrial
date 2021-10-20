@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-- Albert Einstein
+Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+- Steven Van Zandt
 
-Updated on: [10/19/2021]
+Updated on: [10/20/2021]
 <!-- #quoteEnd -->
 </pre>
