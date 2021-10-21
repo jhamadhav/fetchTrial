@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
-- Steven Van Zandt
+The universe is made of stories, not atoms.
+- Muriel Rukeyser
 
-Updated on: [10/20/2021]
+Updated on: [10/21/2021]
 <!-- #quoteEnd -->
 </pre>
