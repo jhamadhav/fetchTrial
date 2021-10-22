@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The universe is made of stories, not atoms.
-- Muriel Rukeyser
+If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+- Margaret Thatcher
 
-Updated on: [10/21/2021]
+Updated on: [10/22/2021]
 <!-- #quoteEnd -->
 </pre>
