@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
-- Margaret Thatcher
+In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
+- Laozi
 
-Updated on: [10/22/2021]
+Updated on: [10/23/2021]
 <!-- #quoteEnd -->
 </pre>
