@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Experience is not what happens to a man. It is what a man does with what happens to him.
-- Aldous Huxley
+No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.
+- W. Clement Stone
 
-Updated on: [10/24/2021]
+Updated on: [10/25/2021]
 <!-- #quoteEnd -->
 </pre>
