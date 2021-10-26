@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.
-- W. Clement Stone
+Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+- William C. Menninger
 
-Updated on: [10/25/2021]
+Updated on: [10/26/2021]
 <!-- #quoteEnd -->
 </pre>
