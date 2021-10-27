@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
-- William C. Menninger
+Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+- Blaise Pascal
 
-Updated on: [10/26/2021]
+Updated on: [10/27/2021]
 <!-- #quoteEnd -->
 </pre>
