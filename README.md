@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
-- Blaise Pascal
+If the stars should appear but one night every thousand years how man would marvel and adore.
+- Ralph Waldo Emerson
 
-Updated on: [10/27/2021]
+Updated on: [10/28/2021]
 <!-- #quoteEnd -->
 </pre>
