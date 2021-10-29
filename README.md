@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If the stars should appear but one night every thousand years how man would marvel and adore.
-- Ralph Waldo Emerson
+Until you make peace with who you are, you will never be content with what you have.
+- Doris Mortman
 
-Updated on: [10/28/2021]
+Updated on: [10/29/2021]
 <!-- #quoteEnd -->
 </pre>
