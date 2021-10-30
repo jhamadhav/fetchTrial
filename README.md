@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Until you make peace with who you are, you will never be content with what you have.
-- Doris Mortman
+Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
+- Barack Obama
 
-Updated on: [10/29/2021]
+Updated on: [10/30/2021]
 <!-- #quoteEnd -->
 </pre>
