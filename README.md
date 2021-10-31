@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
-- Barack Obama
+Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
+- Dale Carnegie
 
-Updated on: [10/30/2021]
+Updated on: [10/31/2021]
 <!-- #quoteEnd -->
 </pre>
