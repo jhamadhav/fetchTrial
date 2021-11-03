@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
-- Immanuel Kant
+Be slow in choosing a friend, slower in changing.
+- Benjamin Franklin
 
-Updated on: [11/2/2021]
+Updated on: [11/3/2021]
 <!-- #quoteEnd -->
 </pre>
