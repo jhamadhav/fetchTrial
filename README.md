@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
-- Katherine Mansfield
+I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+- Leonardo da Vinci
 
-Updated on: [11/5/2021]
+Updated on: [11/6/2021]
 <!-- #quoteEnd -->
 </pre>
