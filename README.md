@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
-- Leonardo da Vinci
+Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+- Robert Louis Stevenson
 
-Updated on: [11/6/2021]
+Updated on: [11/7/2021]
 <!-- #quoteEnd -->
 </pre>
