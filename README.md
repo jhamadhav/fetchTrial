@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
-- Robert Louis Stevenson
+We make our own fortunes and we call them fate.
+- Benjamin Disraeli
 
-Updated on: [11/7/2021]
+Updated on: [11/8/2021]
 <!-- #quoteEnd -->
 </pre>
