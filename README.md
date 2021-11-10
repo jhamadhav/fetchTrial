@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
-- William Hurt
+Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+- Anaïs Nin
 
-Updated on: [11/9/2021]
+Updated on: [11/10/2021]
 <!-- #quoteEnd -->
 </pre>
