@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I believe that every person is born with talent.
-- Maya Angelou
+Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+- Tony Robbins
 
-Updated on: [11/11/2021]
+Updated on: [11/12/2021]
 <!-- #quoteEnd -->
 </pre>
