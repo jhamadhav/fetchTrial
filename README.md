@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is a learning experience, only if you learn.
-- Yogi Berra
+All know the way; few actually walk it.
+- Bodhidharma
 
-Updated on: [11/13/2021]
+Updated on: [11/14/2021]
 <!-- #quoteEnd -->
 </pre>
