@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No man is free who is not master of himself.
-- Epictetus
+The world makes way for the man who knows where he is going.
+- Ralph Waldo Emerson
 
-Updated on: [11/15/2021]
+Updated on: [11/16/2021]
 <!-- #quoteEnd -->
 </pre>
