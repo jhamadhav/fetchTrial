@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The world makes way for the man who knows where he is going.
-- Ralph Waldo Emerson
+Friendship multiplies the good of life and divides the evil.
+- Baltasar Gracián
 
-Updated on: [11/16/2021]
+Updated on: [11/17/2021]
 <!-- #quoteEnd -->
 </pre>
