@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.
-- Buddha
+There is never enough time to do everything, but there is always enough time to do the most important thing.
+- Brian Tracy
 
-Updated on: [11/18/2021]
+Updated on: [11/19/2021]
 <!-- #quoteEnd -->
 </pre>
