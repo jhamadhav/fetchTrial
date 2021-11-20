@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is never enough time to do everything, but there is always enough time to do the most important thing.
-- Brian Tracy
+Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+- Albert Schweitzer
 
-Updated on: [11/19/2021]
+Updated on: [11/20/2021]
 <!-- #quoteEnd -->
 </pre>
