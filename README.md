@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
-- Albert Schweitzer
+Wisdom is the power to put our time and our knowledge to the proper use.
+- Thomas J. Watson
 
-Updated on: [11/20/2021]
+Updated on: [11/21/2021]
 <!-- #quoteEnd -->
 </pre>
