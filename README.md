@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom is the power to put our time and our knowledge to the proper use.
-- Thomas J. Watson
+Wisdom is the supreme part of happiness.
+- Sophocles
 
-Updated on: [11/21/2021]
+Updated on: [11/22/2021]
 <!-- #quoteEnd -->
 </pre>
