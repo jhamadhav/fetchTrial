@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
-- Stephen Hawking
+To change one’s life, start immediately, do it flamboyantly, no exceptions.
+- William James
 
-Updated on: [11/23/2021]
+Updated on: [11/24/2021]
 <!-- #quoteEnd -->
 </pre>
