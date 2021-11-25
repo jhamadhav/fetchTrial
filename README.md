@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To change one’s life, start immediately, do it flamboyantly, no exceptions.
-- William James
+Truth is powerful and it prevails.
+- Sojourner Truth
 
-Updated on: [11/24/2021]
+Updated on: [11/25/2021]
 <!-- #quoteEnd -->
 </pre>
