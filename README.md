@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Truth is powerful and it prevails.
-- Sojourner Truth
+I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+- Everett Dirksen
 
-Updated on: [11/25/2021]
+Updated on: [11/26/2021]
 <!-- #quoteEnd -->
 </pre>
