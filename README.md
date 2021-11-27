@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
-- Everett Dirksen
+Mountains cannot be surmounted except by winding paths.
+- Johann Wolfgang von Goethe
 
-Updated on: [11/26/2021]
+Updated on: [11/27/2021]
 <!-- #quoteEnd -->
 </pre>
