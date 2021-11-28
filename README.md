@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Mountains cannot be surmounted except by winding paths.
-- Johann Wolfgang von Goethe
+Truth is powerful and it prevails.
+- Sojourner Truth
 
-Updated on: [11/27/2021]
+Updated on: [11/28/2021]
 <!-- #quoteEnd -->
 </pre>
