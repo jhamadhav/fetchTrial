@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Truth is powerful and it prevails.
-- Sojourner Truth
+No one has ever become poor by giving.
+- Anne Frank
 
-Updated on: [11/28/2021]
+Updated on: [11/29/2021]
 <!-- #quoteEnd -->
 </pre>
