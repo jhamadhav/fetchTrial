@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No one has ever become poor by giving.
-- Anne Frank
+Whenever something negative happens to you, there is a deep lesson concealed within it.
+- Eckhart Tolle
 
-Updated on: [11/29/2021]
+Updated on: [11/30/2021]
 <!-- #quoteEnd -->
 </pre>
