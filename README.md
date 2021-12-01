@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whenever something negative happens to you, there is a deep lesson concealed within it.
-- Eckhart Tolle
+What we think, we become.
+- Buddha
 
-Updated on: [11/30/2021]
+Updated on: [12/1/2021]
 <!-- #quoteEnd -->
 </pre>
