@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What we think, we become.
-- Buddha
+Friendship is Love without his wings!
+- Lord Byron
 
-Updated on: [12/1/2021]
+Updated on: [12/2/2021]
 <!-- #quoteEnd -->
 </pre>
