@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship is Love without his wings!
-- Lord Byron
+Start with what is right rather than what is acceptable.
+- Franz Kafka
 
-Updated on: [12/2/2021]
+Updated on: [12/3/2021]
 <!-- #quoteEnd -->
 </pre>
