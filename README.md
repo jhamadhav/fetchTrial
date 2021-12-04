@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Start with what is right rather than what is acceptable.
-- Franz Kafka
+Make the most of yourself, for that is all there is of you.
+- Ralph Waldo Emerson
 
-Updated on: [12/3/2021]
+Updated on: [12/4/2021]
 <!-- #quoteEnd -->
 </pre>
