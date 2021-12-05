@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Make the most of yourself, for that is all there is of you.
-- Ralph Waldo Emerson
+Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+- Chanakya
 
-Updated on: [12/4/2021]
+Updated on: [12/5/2021]
 <!-- #quoteEnd -->
 </pre>
