@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The pine stays green in winter... wisdom in hardship.
-- Norman Douglas
+All serious daring starts from within.
+- Harriet Beecher Stowe
 
-Updated on: [12/6/2021]
+Updated on: [12/7/2021]
 <!-- #quoteEnd -->
 </pre>
