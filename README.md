@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All serious daring starts from within.
-- Harriet Beecher Stowe
+A day of worry is more exhausting than a day of work.
+- John Lubbock
 
-Updated on: [12/7/2021]
+Updated on: [12/8/2021]
 <!-- #quoteEnd -->
 </pre>
