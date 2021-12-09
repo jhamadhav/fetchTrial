@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A day of worry is more exhausting than a day of work.
-- John Lubbock
+Whatever happens, take responsibility.
+- Tony Robbins
 
-Updated on: [12/8/2021]
+Updated on: [12/9/2021]
 <!-- #quoteEnd -->
 </pre>
