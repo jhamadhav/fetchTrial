@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whatever happens, take responsibility.
-- Tony Robbins
+A person who never made a mistake never tried anything new.
+- Albert Einstein
 
-Updated on: [12/9/2021]
+Updated on: [12/10/2021]
 <!-- #quoteEnd -->
 </pre>
