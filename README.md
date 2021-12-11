@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A person who never made a mistake never tried anything new.
-- Albert Einstein
+Change your life today. Don't gamble on the future, act now, without delay.
+- Simone de Beauvoir
 
-Updated on: [12/10/2021]
+Updated on: [12/11/2021]
 <!-- #quoteEnd -->
 </pre>
