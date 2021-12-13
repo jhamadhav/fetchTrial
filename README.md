@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
-- Charlotte Perkins Gilman
+The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+- Booker T. Washington
 
-Updated on: [12/12/2021]
+Updated on: [12/13/2021]
 <!-- #quoteEnd -->
 </pre>
