@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
-- Booker T. Washington
+Science gives us knowledge, but only philosophy can give us wisdom.
+- Will Durant
 
-Updated on: [12/13/2021]
+Updated on: [12/14/2021]
 <!-- #quoteEnd -->
 </pre>
