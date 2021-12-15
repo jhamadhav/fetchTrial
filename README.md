@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Science gives us knowledge, but only philosophy can give us wisdom.
-- Will Durant
+The beginning is always today.
+- Mary Wollstonecraft
 
-Updated on: [12/14/2021]
+Updated on: [12/15/2021]
 <!-- #quoteEnd -->
 </pre>
