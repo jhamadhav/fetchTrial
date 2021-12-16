@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The beginning is always today.
-- Mary Wollstonecraft
+Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+- Anaïs Nin
 
-Updated on: [12/15/2021]
+Updated on: [12/16/2021]
 <!-- #quoteEnd -->
 </pre>
