@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
-- Anaïs Nin
+The least of things with a meaning is worth more in life than the greatest of things without it.
+- Carl Jung
 
-Updated on: [12/16/2021]
+Updated on: [12/17/2021]
 <!-- #quoteEnd -->
 </pre>
