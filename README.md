@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The least of things with a meaning is worth more in life than the greatest of things without it.
-- Carl Jung
+I can, therefore I am.
+- Simone Weil
 
-Updated on: [12/17/2021]
+Updated on: [12/18/2021]
 <!-- #quoteEnd -->
 </pre>
