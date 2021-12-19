@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I can, therefore I am.
-- Simone Weil
+Your body is precious. It is our vehicle for awakening. Treat it with care.
+- Buddha
 
-Updated on: [12/18/2021]
+Updated on: [12/19/2021]
 <!-- #quoteEnd -->
 </pre>
