@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Your body is precious. It is our vehicle for awakening. Treat it with care.
-- Buddha
+A thing well said will be wit in all languages.
+- John Dryden
 
-Updated on: [12/19/2021]
+Updated on: [12/20/2021]
 <!-- #quoteEnd -->
 </pre>
