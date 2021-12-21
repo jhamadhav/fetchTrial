@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A thing well said will be wit in all languages.
-- John Dryden
+Just as a candle cannot burn without fire, men cannot live without a spiritual life.
+- Buddha
 
-Updated on: [12/20/2021]
+Updated on: [12/21/2021]
 <!-- #quoteEnd -->
 </pre>
