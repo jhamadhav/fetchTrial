@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
-- Daniel J. Boorstin
+Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+- Brian O'Driscoll
 
-Updated on: [12/22/2021]
+Updated on: [12/23/2021]
 <!-- #quoteEnd -->
 </pre>
