@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
-- Brian O'Driscoll
+True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.
+- Baltasar Gracián
 
-Updated on: [12/23/2021]
+Updated on: [12/24/2021]
 <!-- #quoteEnd -->
 </pre>
