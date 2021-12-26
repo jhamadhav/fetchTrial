@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Kind words can be short and easy to speak, but their echoes are truly endless.
-- Mother Teresa
+Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+- William C. Menninger
 
-Updated on: [12/25/2021]
+Updated on: [12/26/2021]
 <!-- #quoteEnd -->
 </pre>
