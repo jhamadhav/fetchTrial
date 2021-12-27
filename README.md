@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
-- William C. Menninger
+Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+- Elie Wiesel
 
-Updated on: [12/26/2021]
+Updated on: [12/27/2021]
 <!-- #quoteEnd -->
 </pre>
