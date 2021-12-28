@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
-- Elie Wiesel
+Respect should be earned by actions, and not acquired by years.
+- Frank Lloyd Wright
 
-Updated on: [12/27/2021]
+Updated on: [12/28/2021]
 <!-- #quoteEnd -->
 </pre>
