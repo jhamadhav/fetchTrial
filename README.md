@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Respect should be earned by actions, and not acquired by years.
-- Frank Lloyd Wright
+If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+- Barack Obama
 
-Updated on: [12/28/2021]
+Updated on: [12/29/2021]
 <!-- #quoteEnd -->
 </pre>
