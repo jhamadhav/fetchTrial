@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
-- Barack Obama
+Don't be afraid to go out on a limb. That's where the fruit is.
+- H. Jackson Brown Jr.
 
-Updated on: [12/29/2021]
+Updated on: [12/30/2021]
 <!-- #quoteEnd -->
 </pre>
