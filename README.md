@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't be afraid to go out on a limb. That's where the fruit is.
-- H. Jackson Brown Jr.
+Good advice is always certain to be ignored, but that's no reason not to give it.
+- Agatha Christie
 
-Updated on: [12/30/2021]
+Updated on: [12/31/2021]
 <!-- #quoteEnd -->
 </pre>
