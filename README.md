@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good advice is always certain to be ignored, but that's no reason not to give it.
-- Agatha Christie
+We are all something, but none of us are everything.
+- Blaise Pascal
 
-Updated on: [12/31/2021]
+Updated on: [1/1/2022]
 <!-- #quoteEnd -->
 </pre>
