@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We are all something, but none of us are everything.
-- Blaise Pascal
+Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+- J. Willard Marriott
 
-Updated on: [1/1/2022]
+Updated on: [1/2/2022]
 <!-- #quoteEnd -->
 </pre>
