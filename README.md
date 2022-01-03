@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good timber does not grow with ease; the stronger the wind, the stronger the trees.
-- J. Willard Marriott
+Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
+- Laozi
 
-Updated on: [1/2/2022]
+Updated on: [1/3/2022]
 <!-- #quoteEnd -->
 </pre>
