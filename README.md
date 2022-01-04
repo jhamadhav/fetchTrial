@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
-- Laozi
+I want my friend to miss me as long as I miss him.
+- Augustine of Hippo
 
-Updated on: [1/3/2022]
+Updated on: [1/4/2022]
 <!-- #quoteEnd -->
 </pre>
