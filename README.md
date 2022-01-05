@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I want my friend to miss me as long as I miss him.
-- Augustine of Hippo
+Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
+- Mariella Frostrup
 
-Updated on: [1/4/2022]
+Updated on: [1/5/2022]
 <!-- #quoteEnd -->
 </pre>
