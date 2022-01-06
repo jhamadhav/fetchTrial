@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
-- Mariella Frostrup
+Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+- Abraham Lincoln
 
-Updated on: [1/5/2022]
+Updated on: [1/6/2022]
 <!-- #quoteEnd -->
 </pre>
