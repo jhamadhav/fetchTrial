@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
-- Abraham Lincoln
+Try not to become a man of success, but rather try to become a man of value.
+- Albert Einstein
 
-Updated on: [1/6/2022]
+Updated on: [1/7/2022]
 <!-- #quoteEnd -->
 </pre>
