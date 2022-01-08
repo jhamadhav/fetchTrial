@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Try not to become a man of success, but rather try to become a man of value.
-- Albert Einstein
+A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+- Oliver Wendell Holmes Jr.
 
-Updated on: [1/7/2022]
+Updated on: [1/8/2022]
 <!-- #quoteEnd -->
 </pre>
