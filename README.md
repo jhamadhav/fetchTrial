@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I had three chairs in my house; one for solitude, two for friendship, three for society.
-- Henry David Thoreau
+Good thoughts are no better than good dreams, unless they be executed.
+- Ralph Waldo Emerson
 
-Updated on: [1/9/2022]
+Updated on: [1/10/2022]
 <!-- #quoteEnd -->
 </pre>
