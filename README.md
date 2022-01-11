@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good thoughts are no better than good dreams, unless they be executed.
-- Ralph Waldo Emerson
+Those who dream by day are cognizant of many things which escape those who dream only by night.
+- Edgar Allan Poe
 
-Updated on: [1/10/2022]
+Updated on: [1/11/2022]
 <!-- #quoteEnd -->
 </pre>
