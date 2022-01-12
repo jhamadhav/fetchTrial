@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Those who dream by day are cognizant of many things which escape those who dream only by night.
-- Edgar Allan Poe
+Everything has beauty, but not everyone sees it.
+- Confucius
 
-Updated on: [1/11/2022]
+Updated on: [1/12/2022]
 <!-- #quoteEnd -->
 </pre>
