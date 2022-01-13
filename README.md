@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everything has beauty, but not everyone sees it.
-- Confucius
+One today is worth two tomorrows.
+- Benjamin Franklin
 
-Updated on: [1/12/2022]
+Updated on: [1/13/2022]
 <!-- #quoteEnd -->
 </pre>
