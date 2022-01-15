@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
-- Thomas Carlyle
+All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+- Bruce Lee
 
-Updated on: [1/14/2022]
+Updated on: [1/15/2022]
 <!-- #quoteEnd -->
 </pre>
