@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
-- Bruce Lee
+In all chaos there is a cosmos, in all disorder a secret order.
+- Carl Jung
 
-Updated on: [1/15/2022]
+Updated on: [1/16/2022]
 <!-- #quoteEnd -->
 </pre>
