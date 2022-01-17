@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In all chaos there is a cosmos, in all disorder a secret order.
-- Carl Jung
+Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+- Sophocles
 
-Updated on: [1/16/2022]
+Updated on: [1/17/2022]
 <!-- #quoteEnd -->
 </pre>
