@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
-- Sophocles
+Bad times have a scientific value. These are occasions a good learner would not miss.
+- Ralph Waldo Emerson
 
-Updated on: [1/17/2022]
+Updated on: [1/18/2022]
 <!-- #quoteEnd -->
 </pre>
