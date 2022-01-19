@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Bad times have a scientific value. These are occasions a good learner would not miss.
-- Ralph Waldo Emerson
+The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+- Richard Bach
 
-Updated on: [1/18/2022]
+Updated on: [1/19/2022]
 <!-- #quoteEnd -->
 </pre>
