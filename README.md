@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
-- Richard Bach
+Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
+- Margaret Mead
 
-Updated on: [1/19/2022]
+Updated on: [1/20/2022]
 <!-- #quoteEnd -->
 </pre>
