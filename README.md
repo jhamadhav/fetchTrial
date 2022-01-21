@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
-- Margaret Mead
+Mountains cannot be surmounted except by winding paths.
+- Johann Wolfgang von Goethe
 
-Updated on: [1/20/2022]
+Updated on: [1/21/2022]
 <!-- #quoteEnd -->
 </pre>
