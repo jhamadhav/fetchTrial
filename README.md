@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.
-- Don Miguel Ruiz
+If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
+- Henry David Thoreau
 
-Updated on: [1/23/2022]
+Updated on: [1/24/2022]
 <!-- #quoteEnd -->
 </pre>
