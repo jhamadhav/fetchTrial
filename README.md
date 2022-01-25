@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.
-- Henry David Thoreau
+The superior man is modest in his speech but exceeds in his actions.
+- Confucius
 
-Updated on: [1/24/2022]
+Updated on: [1/25/2022]
 <!-- #quoteEnd -->
 </pre>
