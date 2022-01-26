@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The superior man is modest in his speech but exceeds in his actions.
-- Confucius
+Intuition will tell the thinking mind where to look next.
+- Jonas Salk
 
-Updated on: [1/25/2022]
+Updated on: [1/26/2022]
 <!-- #quoteEnd -->
 </pre>
