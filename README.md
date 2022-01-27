@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Intuition will tell the thinking mind where to look next.
-- Jonas Salk
+If we are not fully ourselves, truly in the present moment, we miss everything.
+- Thích Nhất Hạnh
 
-Updated on: [1/26/2022]
+Updated on: [1/27/2022]
 <!-- #quoteEnd -->
 </pre>
