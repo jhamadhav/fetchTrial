@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If we are not fully ourselves, truly in the present moment, we miss everything.
-- Thích Nhất Hạnh
+The longer we dwell on our misfortunes, the greater is their power to harm us.
+- Voltaire
 
-Updated on: [1/27/2022]
+Updated on: [1/28/2022]
 <!-- #quoteEnd -->
 </pre>
