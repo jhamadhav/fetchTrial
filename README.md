@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The longer we dwell on our misfortunes, the greater is their power to harm us.
-- Voltaire
+Without some goals and some efforts to reach it, no man can live.
+- John Dewey
 
-Updated on: [1/28/2022]
+Updated on: [1/29/2022]
 <!-- #quoteEnd -->
 </pre>
