@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Without some goals and some efforts to reach it, no man can live.
-- John Dewey
+Trust your hunches. They're usually based on facts filed away just below the conscious level.
+- Joyce Brothers
 
-Updated on: [1/29/2022]
+Updated on: [1/30/2022]
 <!-- #quoteEnd -->
 </pre>
