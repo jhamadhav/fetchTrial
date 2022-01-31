@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Trust your hunches. They're usually based on facts filed away just below the conscious level.
-- Joyce Brothers
+Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+- Marcel Proust
 
-Updated on: [1/30/2022]
+Updated on: [1/31/2022]
 <!-- #quoteEnd -->
 </pre>
