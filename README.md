@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
-- Marcel Proust
+Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+- Friedrich Nietzsche
 
-Updated on: [1/31/2022]
+Updated on: [2/1/2022]
 <!-- #quoteEnd -->
 </pre>
