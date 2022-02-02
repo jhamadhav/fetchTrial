@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
-- Friedrich Nietzsche
+There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
+- Mark Twain
 
-Updated on: [2/1/2022]
+Updated on: [2/2/2022]
 <!-- #quoteEnd -->
 </pre>
