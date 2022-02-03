@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
-- Mark Twain
+Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+- Muhammad Ali
 
-Updated on: [2/2/2022]
+Updated on: [2/3/2022]
 <!-- #quoteEnd -->
 </pre>
