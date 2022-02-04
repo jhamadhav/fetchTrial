@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
-- Muhammad Ali
+Even youngish men can acquire wisdom as time goes by.
+- John Bercow
 
-Updated on: [2/3/2022]
+Updated on: [2/4/2022]
 <!-- #quoteEnd -->
 </pre>
