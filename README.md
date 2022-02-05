@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Even youngish men can acquire wisdom as time goes by.
-- John Bercow
+Memory is the mother of all wisdom.
+- Samuel Johnson
 
-Updated on: [2/4/2022]
+Updated on: [2/5/2022]
 <!-- #quoteEnd -->
 </pre>
