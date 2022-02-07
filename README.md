@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every great advance in science has issued from a new audacity of the imagination.
-- John Dewey
+The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
+- Kahlil Gibran
 
-Updated on: [2/6/2022]
+Updated on: [2/7/2022]
 <!-- #quoteEnd -->
 </pre>
