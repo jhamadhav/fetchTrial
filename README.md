@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
-- Kahlil Gibran
+There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+- Albert Einstein
 
-Updated on: [2/7/2022]
+Updated on: [2/8/2022]
 <!-- #quoteEnd -->
 </pre>
