@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
-- Albert Einstein
+Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+- Marcus Aurelius
 
-Updated on: [2/8/2022]
+Updated on: [2/9/2022]
 <!-- #quoteEnd -->
 </pre>
