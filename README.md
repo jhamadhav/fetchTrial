@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-- Marcus Aurelius
+Whether you think you can or you think you can't, you are right.
+- Henry Ford
 
-Updated on: [2/9/2022]
+Updated on: [2/10/2022]
 <!-- #quoteEnd -->
 </pre>
