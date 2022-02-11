@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whether you think you can or you think you can't, you are right.
-- Henry Ford
+In every walk with nature, one receives far more than he seeks.
+- John Muir
 
-Updated on: [2/10/2022]
+Updated on: [2/11/2022]
 <!-- #quoteEnd -->
 </pre>
