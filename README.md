@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In every walk with nature, one receives far more than he seeks.
-- John Muir
+Action is eloquence.
+- William Shakespeare
 
-Updated on: [2/11/2022]
+Updated on: [2/12/2022]
 <!-- #quoteEnd -->
 </pre>
