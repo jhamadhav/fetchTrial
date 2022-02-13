@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Action is eloquence.
-- William Shakespeare
+Ideals are an imaginative understanding of that which is desirable in that which is possible.
+- Walter Lippmann
 
-Updated on: [2/12/2022]
+Updated on: [2/13/2022]
 <!-- #quoteEnd -->
 </pre>
