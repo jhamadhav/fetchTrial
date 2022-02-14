@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Ideals are an imaginative understanding of that which is desirable in that which is possible.
-- Walter Lippmann
+You can stand tall without standing on someone. You can be a victor without having victims.
+- Harriet Woods
 
-Updated on: [2/13/2022]
+Updated on: [2/14/2022]
 <!-- #quoteEnd -->
 </pre>
