@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can stand tall without standing on someone. You can be a victor without having victims.
-- Harriet Woods
+If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+- Jim Rohn
 
-Updated on: [2/14/2022]
+Updated on: [2/15/2022]
 <!-- #quoteEnd -->
 </pre>
