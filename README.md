@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
-- Jim Rohn
+A friendship founded on business is better than a business founded on friendship.
+- John Locke
 
-Updated on: [2/15/2022]
+Updated on: [2/16/2022]
 <!-- #quoteEnd -->
 </pre>
