@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A friendship founded on business is better than a business founded on friendship.
-- John Locke
+You'll see it when you believe it.
+- Wayne Dyer
 
-Updated on: [2/16/2022]
+Updated on: [2/17/2022]
 <!-- #quoteEnd -->
 </pre>
