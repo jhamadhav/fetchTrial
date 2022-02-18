@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You'll see it when you believe it.
-- Wayne Dyer
+Reality leaves a lot to the imagination.
+- John Lennon
 
-Updated on: [2/17/2022]
+Updated on: [2/18/2022]
 <!-- #quoteEnd -->
 </pre>
