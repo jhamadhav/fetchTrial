@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No man was ever wise by chance.
-- Seneca the Younger
+The heart has its reasons which reason knows not of.
+- Blaise Pascal
 
-Updated on: [2/20/2022]
+Updated on: [2/21/2022]
 <!-- #quoteEnd -->
 </pre>
