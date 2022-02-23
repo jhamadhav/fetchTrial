@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
-- Melody Beattie
+A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+- Thomas Paine
 
-Updated on: [2/22/2022]
+Updated on: [2/23/2022]
 <!-- #quoteEnd -->
 </pre>
