@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
-- Thomas Paine
+Every gift from a friend is a wish for your happiness.
+- Richard Bach
 
-Updated on: [2/23/2022]
+Updated on: [2/24/2022]
 <!-- #quoteEnd -->
 </pre>
