@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Believe deep down in your heart that you're destined to do great things.
-- Joe Paterno
+It is good even for old men to learn wisdom.
+- Aeschylus
 
-Updated on: [2/25/2022]
+Updated on: [2/26/2022]
 <!-- #quoteEnd -->
 </pre>
