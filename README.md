@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is good even for old men to learn wisdom.
-- Aeschylus
+If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+- Nelson Mandela
 
-Updated on: [2/26/2022]
+Updated on: [2/27/2022]
 <!-- #quoteEnd -->
 </pre>
