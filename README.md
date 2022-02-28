@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
-- Nelson Mandela
+I don't want to achieve immortality through my work... I want to achieve it through not dying.
+- Woody Allen
 
-Updated on: [2/27/2022]
+Updated on: [2/28/2022]
 <!-- #quoteEnd -->
 </pre>
