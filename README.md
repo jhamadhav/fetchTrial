@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I don't want to achieve immortality through my work... I want to achieve it through not dying.
-- Woody Allen
+To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+- Anatole France
 
-Updated on: [2/28/2022]
+Updated on: [3/1/2022]
 <!-- #quoteEnd -->
 </pre>
