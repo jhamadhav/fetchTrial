@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
-- Anatole France
+Knowing is not enough; we must apply!
+- Johann Wolfgang von Goethe
 
-Updated on: [3/1/2022]
+Updated on: [3/2/2022]
 <!-- #quoteEnd -->
 </pre>
