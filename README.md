@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Knowing is not enough; we must apply!
-- Johann Wolfgang von Goethe
+Life is what happens while you are making other plans.
+- John Lennon
 
-Updated on: [3/2/2022]
+Updated on: [3/3/2022]
 <!-- #quoteEnd -->
 </pre>
