@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A man cannot be said to succeed in this life who does not satisfy one friend.
-- Henry David Thoreau
+We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+- Chuck Swindoll
 
-Updated on: [3/4/2022]
+Updated on: [3/5/2022]
 <!-- #quoteEnd -->
 </pre>
