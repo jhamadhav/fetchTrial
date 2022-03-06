@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
-- Chuck Swindoll
+A leader is one who knows the way, goes the way, and shows the way.
+- John C. Maxwell
 
-Updated on: [3/5/2022]
+Updated on: [3/6/2022]
 <!-- #quoteEnd -->
 </pre>
