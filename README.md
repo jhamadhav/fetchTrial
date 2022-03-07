@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A leader is one who knows the way, goes the way, and shows the way.
-- John C. Maxwell
+There is nothing on this earth more to be prized than true friendship.
+- Thomas Aquinas
 
-Updated on: [3/6/2022]
+Updated on: [3/7/2022]
 <!-- #quoteEnd -->
 </pre>
