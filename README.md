@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is nothing on this earth more to be prized than true friendship.
-- Thomas Aquinas
+Once you choose hope, anything's possible.
+- Christopher Reeve
 
-Updated on: [3/7/2022]
+Updated on: [3/8/2022]
 <!-- #quoteEnd -->
 </pre>
