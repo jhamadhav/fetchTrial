@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Once you choose hope, anything's possible.
-- Christopher Reeve
+You have to believe in yourself.
+- Sun Tzu
 
-Updated on: [3/8/2022]
+Updated on: [3/9/2022]
 <!-- #quoteEnd -->
 </pre>
