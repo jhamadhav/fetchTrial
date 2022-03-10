@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You have to believe in yourself.
-- Sun Tzu
+Life is what happens while you are making other plans.
+- John Lennon
 
-Updated on: [3/9/2022]
+Updated on: [3/10/2022]
 <!-- #quoteEnd -->
 </pre>
