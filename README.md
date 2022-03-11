@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is what happens while you are making other plans.
-- John Lennon
+Miracles come in moments. Be ready and willing.
+- Wayne Dyer
 
-Updated on: [3/10/2022]
+Updated on: [3/11/2022]
 <!-- #quoteEnd -->
 </pre>
