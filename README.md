@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Miracles come in moments. Be ready and willing.
-- Wayne Dyer
+When I let go of what I am, I become what I might be.
+- Laozi
 
-Updated on: [3/11/2022]
+Updated on: [3/12/2022]
 <!-- #quoteEnd -->
 </pre>
