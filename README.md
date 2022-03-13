@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When I let go of what I am, I become what I might be.
-- Laozi
+When we are no longer able to change a situation - we are challenged to change ourselves.
+- Viktor Frankl
 
-Updated on: [3/12/2022]
+Updated on: [3/13/2022]
 <!-- #quoteEnd -->
 </pre>
