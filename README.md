@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When we are no longer able to change a situation - we are challenged to change ourselves.
-- Viktor Frankl
+Anybody can make history. Only a great man can write it.
+- Oscar Wilde
 
-Updated on: [3/13/2022]
+Updated on: [3/14/2022]
 <!-- #quoteEnd -->
 </pre>
