@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Anybody can make history. Only a great man can write it.
+Be yourself; everyone else is already taken.
 - Oscar Wilde
 
-Updated on: [3/14/2022]
+Updated on: [3/15/2022]
 <!-- #quoteEnd -->
 </pre>
