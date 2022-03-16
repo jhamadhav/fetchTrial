@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be yourself; everyone else is already taken.
-- Oscar Wilde
+You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+- Naguib Mahfouz
 
-Updated on: [3/15/2022]
+Updated on: [3/16/2022]
 <!-- #quoteEnd -->
 </pre>
