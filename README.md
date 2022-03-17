@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
-- Naguib Mahfouz
+All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+- Kathleen Norris
 
-Updated on: [3/16/2022]
+Updated on: [3/17/2022]
 <!-- #quoteEnd -->
 </pre>
