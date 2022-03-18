@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
-- Kathleen Norris
+Peace cannot be kept by force. It can only be achieved by understanding.
+- Albert Einstein
 
-Updated on: [3/17/2022]
+Updated on: [3/18/2022]
 <!-- #quoteEnd -->
 </pre>
