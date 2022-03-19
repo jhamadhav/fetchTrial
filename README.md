@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Peace cannot be kept by force. It can only be achieved by understanding.
-- Albert Einstein
+It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+- Antoine de Saint-Exupéry
 
-Updated on: [3/18/2022]
+Updated on: [3/19/2022]
 <!-- #quoteEnd -->
 </pre>
