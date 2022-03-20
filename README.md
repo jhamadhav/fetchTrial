@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is only with the heart that one can see rightly, what is essential is invisible to the eye.
-- Antoine de Saint-Exupéry
+Do all things with love.
+- Og Mandino
 
-Updated on: [3/19/2022]
+Updated on: [3/20/2022]
 <!-- #quoteEnd -->
 </pre>
