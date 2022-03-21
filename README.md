@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Do all things with love.
-- Og Mandino
+Trouble is only opportunity in work clothes.
+- Henry J. Kaiser
 
-Updated on: [3/20/2022]
+Updated on: [3/21/2022]
 <!-- #quoteEnd -->
 </pre>
