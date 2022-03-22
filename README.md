@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Trouble is only opportunity in work clothes.
-- Henry J. Kaiser
+Happiness does not come from having much, but from being attached to little.
+- Cheng Yen
 
-Updated on: [3/21/2022]
+Updated on: [3/22/2022]
 <!-- #quoteEnd -->
 </pre>
