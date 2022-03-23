@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Happiness does not come from having much, but from being attached to little.
-- Cheng Yen
+Great ideas often receive violent opposition from mediocre minds.
+- Albert Einstein
 
-Updated on: [3/22/2022]
+Updated on: [3/23/2022]
 <!-- #quoteEnd -->
 </pre>
