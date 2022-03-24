@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Great ideas often receive violent opposition from mediocre minds.
-- Albert Einstein
+Only do what your heart tells you.
+- Princess Diana
 
-Updated on: [3/23/2022]
+Updated on: [3/24/2022]
 <!-- #quoteEnd -->
 </pre>
