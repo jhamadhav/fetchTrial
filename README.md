@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Only do what your heart tells you.
-- Princess Diana
+All achievements, all earned riches, have their beginning in an idea.
+- Napoleon Hill
 
-Updated on: [3/24/2022]
+Updated on: [3/25/2022]
 <!-- #quoteEnd -->
 </pre>
