@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All achievements, all earned riches, have their beginning in an idea.
-- Napoleon Hill
+If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+- Morris West
 
-Updated on: [3/25/2022]
+Updated on: [3/26/2022]
 <!-- #quoteEnd -->
 </pre>
