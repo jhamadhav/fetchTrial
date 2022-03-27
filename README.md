@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
-- Morris West
+Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+- Oscar Wilde
 
-Updated on: [3/26/2022]
+Updated on: [3/27/2022]
 <!-- #quoteEnd -->
 </pre>
