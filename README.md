@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
-- Oscar Wilde
+I allow my intuition to lead my path.
+- Manuel Puig
 
-Updated on: [3/27/2022]
+Updated on: [3/28/2022]
 <!-- #quoteEnd -->
 </pre>
