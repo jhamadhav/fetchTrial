@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
-- Dalai Lama
+Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+- Rumi
 
-Updated on: [3/29/2022]
+Updated on: [3/30/2022]
 <!-- #quoteEnd -->
 </pre>
