@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
-- Rumi
+Kindness is the language which the deaf can hear and the blind can see.
+- Mark Twain
 
-Updated on: [3/30/2022]
+Updated on: [3/31/2022]
 <!-- #quoteEnd -->
 </pre>
