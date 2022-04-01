@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Kindness is the language which the deaf can hear and the blind can see.
-- Mark Twain
+To climb steep hills requires a slow pace at first.
+- William Shakespeare
 
-Updated on: [3/31/2022]
+Updated on: [4/1/2022]
 <!-- #quoteEnd -->
 </pre>
