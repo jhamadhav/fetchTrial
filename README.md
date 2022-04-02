@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To climb steep hills requires a slow pace at first.
-- William Shakespeare
+Science is organized knowledge. Wisdom is organized life.
+- Immanuel Kant
 
-Updated on: [4/1/2022]
+Updated on: [4/2/2022]
 <!-- #quoteEnd -->
 </pre>
