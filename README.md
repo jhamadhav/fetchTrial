@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Science is organized knowledge. Wisdom is organized life.
-- Immanuel Kant
+Cleverness is not wisdom.
+- Euripides
 
-Updated on: [4/2/2022]
+Updated on: [4/3/2022]
 <!-- #quoteEnd -->
 </pre>
