@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is no way to happiness, happiness is the way.
-- Thích Nhất Hạnh
+Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+- Thomas Carlyle
 
-Updated on: [4/4/2022]
+Updated on: [4/5/2022]
 <!-- #quoteEnd -->
 </pre>
