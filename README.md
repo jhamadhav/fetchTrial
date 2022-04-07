@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
-- Dalai Lama
+Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+- Nikola Tesla
 
-Updated on: [4/6/2022]
+Updated on: [4/7/2022]
 <!-- #quoteEnd -->
 </pre>
