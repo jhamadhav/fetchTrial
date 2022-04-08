@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
-- Nikola Tesla
+Love is a friendship set to music.
+- Joseph Campbell
 
-Updated on: [4/7/2022]
+Updated on: [4/8/2022]
 <!-- #quoteEnd -->
 </pre>
