@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
-- Epictetus
+I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+- Og Mandino
 
-Updated on: [4/9/2022]
+Updated on: [4/10/2022]
 <!-- #quoteEnd -->
 </pre>
