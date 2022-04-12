@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
-- Thomas Fuller
+It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+- Jessamyn West
 
-Updated on: [4/11/2022]
+Updated on: [4/12/2022]
 <!-- #quoteEnd -->
 </pre>
