@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
-- Jessamyn West
+The only limit to our realization of tomorrow will be our doubts of today.
+- Franklin D. Roosevelt
 
-Updated on: [4/12/2022]
+Updated on: [4/13/2022]
 <!-- #quoteEnd -->
 </pre>
