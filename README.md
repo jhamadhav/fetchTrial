@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only limit to our realization of tomorrow will be our doubts of today.
-- Franklin D. Roosevelt
+No day in which you learn something is a complete loss.
+- David Eddings
 
-Updated on: [4/13/2022]
+Updated on: [4/14/2022]
 <!-- #quoteEnd -->
 </pre>
