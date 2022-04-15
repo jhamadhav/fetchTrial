@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No day in which you learn something is a complete loss.
-- David Eddings
+Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
+- Carrie Snow
 
-Updated on: [4/14/2022]
+Updated on: [4/15/2022]
 <!-- #quoteEnd -->
 </pre>
