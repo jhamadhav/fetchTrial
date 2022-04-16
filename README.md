@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
-- Carrie Snow
+You always have two choices: your commitment versus your fear.
+- Sammy Davis Jr.
 
-Updated on: [4/15/2022]
+Updated on: [4/16/2022]
 <!-- #quoteEnd -->
 </pre>
