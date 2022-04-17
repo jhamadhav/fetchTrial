@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You always have two choices: your commitment versus your fear.
-- Sammy Davis Jr.
+There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+- Chanakya
 
-Updated on: [4/16/2022]
+Updated on: [4/17/2022]
 <!-- #quoteEnd -->
 </pre>
