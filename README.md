@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
-- Chanakya
+Think for yourselves and let others enjoy the privilege to do so too.
+- Voltaire
 
-Updated on: [4/17/2022]
+Updated on: [4/18/2022]
 <!-- #quoteEnd -->
 </pre>
