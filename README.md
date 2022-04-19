@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Think for yourselves and let others enjoy the privilege to do so too.
-- Voltaire
+A good head and a good heart are always a formidable combination.
+- Nelson Mandela
 
-Updated on: [4/18/2022]
+Updated on: [4/19/2022]
 <!-- #quoteEnd -->
 </pre>
