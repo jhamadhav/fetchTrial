@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A good head and a good heart are always a formidable combination.
-- Nelson Mandela
+We don't stop playing because we grow old; we grow old because we stop playing.
+- Bernard Shaw
 
-Updated on: [4/19/2022]
+Updated on: [4/20/2022]
 <!-- #quoteEnd -->
 </pre>
