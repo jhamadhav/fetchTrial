@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We don't stop playing because we grow old; we grow old because we stop playing.
-- Bernard Shaw
+The truest wisdom is a resolute determination.
+- Napoleon
 
-Updated on: [4/20/2022]
+Updated on: [4/21/2022]
 <!-- #quoteEnd -->
 </pre>
