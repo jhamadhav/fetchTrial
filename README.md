@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The truest wisdom is a resolute determination.
-- Napoleon
+All know the way; few actually walk it.
+- Bodhidharma
 
-Updated on: [4/21/2022]
+Updated on: [4/22/2022]
 <!-- #quoteEnd -->
 </pre>
