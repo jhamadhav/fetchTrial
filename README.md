@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No yesterdays are ever wasted for those who give themselves to today.
-- Brendan Behan
+It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+- Jessamyn West
 
-Updated on: [4/23/2022]
+Updated on: [4/24/2022]
 <!-- #quoteEnd -->
 </pre>
