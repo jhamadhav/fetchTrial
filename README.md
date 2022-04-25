@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
-- Jessamyn West
+Anything you really want, you can attain, if you really go after it.
+- Wayne Dyer
 
-Updated on: [4/24/2022]
+Updated on: [4/25/2022]
 <!-- #quoteEnd -->
 </pre>
