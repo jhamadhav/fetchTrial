@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Anything you really want, you can attain, if you really go after it.
-- Wayne Dyer
+Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+- Voltaire
 
-Updated on: [4/25/2022]
+Updated on: [4/26/2022]
 <!-- #quoteEnd -->
 </pre>
