@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
-- Voltaire
+The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+- Johann Wolfgang von Goethe
 
-Updated on: [4/26/2022]
+Updated on: [4/27/2022]
 <!-- #quoteEnd -->
 </pre>
