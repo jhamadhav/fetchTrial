@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
-- Johann Wolfgang von Goethe
+It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+- Mignon McLaughlin
 
-Updated on: [4/27/2022]
+Updated on: [4/28/2022]
 <!-- #quoteEnd -->
 </pre>
