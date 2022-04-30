@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
-- G. K. Chesterton
+Take things as they are. Punch when you have to punch. Kick when you have to kick.
+- Bruce Lee
 
-Updated on: [4/29/2022]
+Updated on: [4/30/2022]
 <!-- #quoteEnd -->
 </pre>
