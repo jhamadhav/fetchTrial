@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love is blind; friendship closes its eyes.
-- Friedrich Nietzsche
+No man was ever wise by chance.
+- Seneca the Younger
 
-Updated on: [5/2/2022]
+Updated on: [5/3/2022]
 <!-- #quoteEnd -->
 </pre>
