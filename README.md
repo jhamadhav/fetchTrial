@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No man was ever wise by chance.
-- Seneca the Younger
+It is the quality of our work which will please God, not the quantity.
+- Mahatma Gandhi
 
-Updated on: [5/3/2022]
+Updated on: [5/4/2022]
 <!-- #quoteEnd -->
 </pre>
