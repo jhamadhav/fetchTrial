@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Try not to become a man of success, but rather try to become a man of value.
-- Albert Einstein
+Hope arouses, as nothing else can arouse, a passion for the possible.
+- William Sloane Coffin
 
-Updated on: [5/5/2022]
+Updated on: [5/6/2022]
 <!-- #quoteEnd -->
 </pre>
