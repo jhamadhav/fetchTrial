@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
-- Bill Bradley
+Beware of false knowledge; it is more dangerous than ignorance.
+- Bernard Shaw
 
-Updated on: [5/9/2022]
+Updated on: [5/10/2022]
 <!-- #quoteEnd -->
 </pre>
