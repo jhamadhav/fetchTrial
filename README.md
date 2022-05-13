@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is impossible for a man to learn what he thinks he already knows.
-- Epictetus
+Light tomorrow with today!
+- Elizabeth Browning
 
-Updated on: [5/12/2022]
+Updated on: [5/13/2022]
 <!-- #quoteEnd -->
 </pre>
