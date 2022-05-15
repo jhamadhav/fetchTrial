@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I don't believe in failure. It's not failure if you enjoyed the process.
-- Oprah Winfrey
+Don't compromise yourself. You are all you've got.
+- Janis Joplin
 
-Updated on: [5/14/2022]
+Updated on: [5/15/2022]
 <!-- #quoteEnd -->
 </pre>
