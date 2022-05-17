@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Change your thoughts and you change your world.
-- Norman Vincent Peale
+The only true wisdom is in knowing you know nothing.
+- Isocrates
 
-Updated on: [5/16/2022]
+Updated on: [5/17/2022]
 <!-- #quoteEnd -->
 </pre>
