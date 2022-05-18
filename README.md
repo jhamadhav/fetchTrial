@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only true wisdom is in knowing you know nothing.
-- Isocrates
+A failure is a man who has blundered but is not capable of cashing in on the experience.
+- Elbert Hubbard
 
-Updated on: [5/17/2022]
+Updated on: [5/18/2022]
 <!-- #quoteEnd -->
 </pre>
