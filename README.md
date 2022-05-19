@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A failure is a man who has blundered but is not capable of cashing in on the experience.
-- Elbert Hubbard
+Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+- Aristotle
 
-Updated on: [5/18/2022]
+Updated on: [5/19/2022]
 <!-- #quoteEnd -->
 </pre>
