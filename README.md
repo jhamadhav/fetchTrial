@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
-- Aristotle
+Friendship at first sight, like love at first sight, is said to be the only truth.
+- Herman Melville
 
-Updated on: [5/19/2022]
+Updated on: [5/20/2022]
 <!-- #quoteEnd -->
 </pre>
