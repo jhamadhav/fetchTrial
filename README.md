@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Our intention creates our reality.
-- Wayne Dyer
+All I required to be happy was friendship and people I could admire.
+- Christian Dior
 
-Updated on: [5/21/2022]
+Updated on: [5/22/2022]
 <!-- #quoteEnd -->
 </pre>
