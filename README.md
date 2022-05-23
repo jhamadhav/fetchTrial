@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All I required to be happy was friendship and people I could admire.
-- Christian Dior
+Communications tools don't get socially interesting until they get technologically boring.
+- Clay Shirky
 
-Updated on: [5/22/2022]
+Updated on: [5/23/2022]
 <!-- #quoteEnd -->
 </pre>
