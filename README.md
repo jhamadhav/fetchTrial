@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Communications tools don't get socially interesting until they get technologically boring.
-- Clay Shirky
+The beginning is always today.
+- Mary Wollstonecraft
 
-Updated on: [5/23/2022]
+Updated on: [5/24/2022]
 <!-- #quoteEnd -->
 </pre>
