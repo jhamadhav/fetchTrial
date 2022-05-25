@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The beginning is always today.
-- Mary Wollstonecraft
+To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+- Marilyn vos Savant
 
-Updated on: [5/24/2022]
+Updated on: [5/25/2022]
 <!-- #quoteEnd -->
 </pre>
