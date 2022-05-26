@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To acquire knowledge, one must study; but to acquire wisdom, one must observe.
-- Marilyn vos Savant
+He who knows, does not speak. He who speaks, does not know.
+- Laozi
 
-Updated on: [5/25/2022]
+Updated on: [5/26/2022]
 <!-- #quoteEnd -->
 </pre>
