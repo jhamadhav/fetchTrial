@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Gratitude is not only the greatest of virtues, but the parent of all the others.
-- Cicero
+Pick battles big enough to matter, small enough to win.
+- Jonathan Kozol
 
-Updated on: [5/27/2022]
+Updated on: [5/28/2022]
 <!-- #quoteEnd -->
 </pre>
