@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Pick battles big enough to matter, small enough to win.
-- Jonathan Kozol
+There's power in looking silly and not caring that you do.
+- Amy Poehler
 
-Updated on: [5/28/2022]
+Updated on: [5/29/2022]
 <!-- #quoteEnd -->
 </pre>
