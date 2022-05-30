@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There's power in looking silly and not caring that you do.
-- Amy Poehler
+Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+- Samuel Johnson
 
-Updated on: [5/29/2022]
+Updated on: [5/30/2022]
 <!-- #quoteEnd -->
 </pre>
