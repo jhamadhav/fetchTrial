@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
-- Samuel Johnson
+Life is like riding a bicycle. To keep your balance you must keep moving.
+- Albert Einstein
 
-Updated on: [5/30/2022]
+Updated on: [5/31/2022]
 <!-- #quoteEnd -->
 </pre>
