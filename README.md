@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is like riding a bicycle. To keep your balance you must keep moving.
-- Albert Einstein
+All that we see or seem is but a dream within a dream.
+- Edgar Allan Poe
 
-Updated on: [5/31/2022]
+Updated on: [6/1/2022]
 <!-- #quoteEnd -->
 </pre>
