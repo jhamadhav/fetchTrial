@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All that we see or seem is but a dream within a dream.
-- Edgar Allan Poe
+We all live with the objective of being happy; our lives are all different and yet the same.
+- Anne Frank
 
-Updated on: [6/1/2022]
+Updated on: [6/2/2022]
 <!-- #quoteEnd -->
 </pre>
