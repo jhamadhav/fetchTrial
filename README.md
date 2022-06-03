@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We all live with the objective of being happy; our lives are all different and yet the same.
-- Anne Frank
+When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+- Helen Keller
 
-Updated on: [6/2/2022]
+Updated on: [6/3/2022]
 <!-- #quoteEnd -->
 </pre>
