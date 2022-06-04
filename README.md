@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
-- Helen Keller
+There never was a good knife made of bad steel.
+- Benjamin Franklin
 
-Updated on: [6/3/2022]
+Updated on: [6/4/2022]
 <!-- #quoteEnd -->
 </pre>
