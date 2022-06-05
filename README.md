@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There never was a good knife made of bad steel.
-- Benjamin Franklin
+The only way to have a friend is to be one.
+- Ralph Waldo Emerson
 
-Updated on: [6/4/2022]
+Updated on: [6/5/2022]
 <!-- #quoteEnd -->
 </pre>
