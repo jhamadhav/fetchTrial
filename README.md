@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only way to have a friend is to be one.
-- Ralph Waldo Emerson
+The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+- Johann Wolfgang von Goethe
 
-Updated on: [6/5/2022]
+Updated on: [6/6/2022]
 <!-- #quoteEnd -->
 </pre>
