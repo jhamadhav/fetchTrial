@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
-- Johann Wolfgang von Goethe
+All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+- Bruce Lee
 
-Updated on: [6/6/2022]
+Updated on: [6/7/2022]
 <!-- #quoteEnd -->
 </pre>
