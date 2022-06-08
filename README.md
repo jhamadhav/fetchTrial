@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
-- Bruce Lee
+Independence is happiness.
+- Susan B. Anthony
 
-Updated on: [6/7/2022]
+Updated on: [6/8/2022]
 <!-- #quoteEnd -->
 </pre>
