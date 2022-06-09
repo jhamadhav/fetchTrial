@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Independence is happiness.
-- Susan B. Anthony
+Silence is deep as Eternity; Speech is shallow as Time.
+- Thomas Carlyle
 
-Updated on: [6/8/2022]
+Updated on: [6/9/2022]
 <!-- #quoteEnd -->
 </pre>
