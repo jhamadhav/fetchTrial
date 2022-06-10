@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Silence is deep as Eternity; Speech is shallow as Time.
-- Thomas Carlyle
+Irony is the gaiety of reflection and the joy of wisdom.
+- Anatole France
 
-Updated on: [6/9/2022]
+Updated on: [6/10/2022]
 <!-- #quoteEnd -->
 </pre>
