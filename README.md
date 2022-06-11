@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Irony is the gaiety of reflection and the joy of wisdom.
-- Anatole France
+You cannot travel the path until you have become the path itself.
+- Buddha
 
-Updated on: [6/10/2022]
+Updated on: [6/11/2022]
 <!-- #quoteEnd -->
 </pre>
