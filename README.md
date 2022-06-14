@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love is flower like; Friendship is like a sheltering tree.
-- Samuel Taylor Coleridge
+Do something wonderful, people may imitate it.
+- Albert Schweitzer
 
-Updated on: [6/13/2022]
+Updated on: [6/14/2022]
 <!-- #quoteEnd -->
 </pre>
