@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Do something wonderful, people may imitate it.
-- Albert Schweitzer
+With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+- Amber Valletta
 
-Updated on: [6/14/2022]
+Updated on: [6/15/2022]
 <!-- #quoteEnd -->
 </pre>
