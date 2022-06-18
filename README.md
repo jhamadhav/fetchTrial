@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Better be ignorant of a matter than half know it.
-- Publilius Syrus
+A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+- Elbert Hubbard
 
-Updated on: [6/17/2022]
+Updated on: [6/18/2022]
 <!-- #quoteEnd -->
 </pre>
