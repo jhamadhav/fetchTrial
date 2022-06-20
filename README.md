@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whatever happens, take responsibility.
-- Tony Robbins
+Nothing in life is to be feared. It is only to be understood.
+- Marie Curie
 
-Updated on: [6/19/2022]
+Updated on: [6/20/2022]
 <!-- #quoteEnd -->
 </pre>
