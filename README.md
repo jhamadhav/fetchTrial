@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nothing in life is to be feared. It is only to be understood.
-- Marie Curie
+Make the best use of what is in your power and take the rest as it happens.
+- Epictetus
 
-Updated on: [6/20/2022]
+Updated on: [6/23/2022]
 <!-- #quoteEnd -->
 </pre>
