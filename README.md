@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
-- Richard Burton
+The truest greatness lies in being kind, the truest wisdom in a happy mind.
+- Ella Wheeler Wilcox
 
-Updated on: [6/24/2022]
+Updated on: [6/25/2022]
 <!-- #quoteEnd -->
 </pre>
