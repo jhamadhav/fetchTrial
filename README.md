@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The truest greatness lies in being kind, the truest wisdom in a happy mind.
-- Ella Wheeler Wilcox
+You are the only person on earth who can use your ability.
+- Zig Ziglar
 
-Updated on: [6/25/2022]
+Updated on: [6/26/2022]
 <!-- #quoteEnd -->
 </pre>
