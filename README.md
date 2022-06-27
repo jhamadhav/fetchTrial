@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You are the only person on earth who can use your ability.
-- Zig Ziglar
+If you can dream it, you can do it.
+- Walt Disney
 
-Updated on: [6/26/2022]
+Updated on: [6/27/2022]
 <!-- #quoteEnd -->
 </pre>
