@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you can dream it, you can do it.
-- Walt Disney
+Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+- Rumi
 
-Updated on: [6/27/2022]
+Updated on: [6/28/2022]
 <!-- #quoteEnd -->
 </pre>
