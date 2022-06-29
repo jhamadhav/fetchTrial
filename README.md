@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everyone has been made for some particular work, and the desire for that work has been put in every heart.
-- Rumi
+Freedom is the right to live as we wish.
+- Epictetus
 
-Updated on: [6/28/2022]
+Updated on: [6/29/2022]
 <!-- #quoteEnd -->
 </pre>
