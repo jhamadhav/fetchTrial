@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Freedom is the right to live as we wish.
-- Epictetus
+Everything that exists is in a manner the seed of that which will be.
+- Marcus Aurelius
 
-Updated on: [6/29/2022]
+Updated on: [6/30/2022]
 <!-- #quoteEnd -->
 </pre>
