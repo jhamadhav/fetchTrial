@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everything that exists is in a manner the seed of that which will be.
-- Marcus Aurelius
+Be like the flower, turn your face to the sun.
+- Kahlil Gibran
 
-Updated on: [6/30/2022]
+Updated on: [7/1/2022]
 <!-- #quoteEnd -->
 </pre>
