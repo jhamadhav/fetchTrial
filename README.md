@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-How far that little candle throws its beams! So shines a good deed in a naughty world.
-- William Shakespeare
+Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+- Dalai Lama
 
-Updated on: [7/2/2022]
+Updated on: [7/3/2022]
 <!-- #quoteEnd -->
 </pre>
