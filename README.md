@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All is flux; nothing stays still.
-- Heraclitus
+Any sufficiently advanced technology is equivalent to magic.
+- Arthur C. Clarke
 
-Updated on: [7/6/2022]
+Updated on: [7/7/2022]
 <!-- #quoteEnd -->
 </pre>
