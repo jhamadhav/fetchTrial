@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Any sufficiently advanced technology is equivalent to magic.
-- Arthur C. Clarke
+All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+- Albert Camus
 
-Updated on: [7/7/2022]
+Updated on: [7/8/2022]
 <!-- #quoteEnd -->
 </pre>
