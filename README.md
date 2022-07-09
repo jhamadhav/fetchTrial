@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
-- Albert Camus
+No valid plans for the future can be made by those who have no capacity for living now.
+- Alan Watts
 
-Updated on: [7/8/2022]
+Updated on: [7/9/2022]
 <!-- #quoteEnd -->
 </pre>
