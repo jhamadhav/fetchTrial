@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No valid plans for the future can be made by those who have no capacity for living now.
-- Alan Watts
+Meetings are indispensable when you don't want to do anything.
+- John Kenneth Galbraith
 
-Updated on: [7/9/2022]
+Updated on: [7/10/2022]
 <!-- #quoteEnd -->
 </pre>
