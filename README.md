@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Meetings are indispensable when you don't want to do anything.
-- John Kenneth Galbraith
+It's easier to resist at the beginning than at the end.
+- Leonardo da Vinci
 
-Updated on: [7/10/2022]
+Updated on: [7/11/2022]
 <!-- #quoteEnd -->
 </pre>
