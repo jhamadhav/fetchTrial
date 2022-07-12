@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It's easier to resist at the beginning than at the end.
-- Leonardo da Vinci
+We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+- Stephen Covey
 
-Updated on: [7/11/2022]
+Updated on: [7/12/2022]
 <!-- #quoteEnd -->
 </pre>
