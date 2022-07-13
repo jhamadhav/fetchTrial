@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
-- Stephen Covey
+Whenever something negative happens to you, there is a deep lesson concealed within it.
+- Eckhart Tolle
 
-Updated on: [7/12/2022]
+Updated on: [7/13/2022]
 <!-- #quoteEnd -->
 </pre>
