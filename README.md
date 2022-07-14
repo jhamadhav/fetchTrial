@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whenever something negative happens to you, there is a deep lesson concealed within it.
-- Eckhart Tolle
+Peace begins with a smile.
+- Mother Teresa
 
-Updated on: [7/13/2022]
+Updated on: [7/14/2022]
 <!-- #quoteEnd -->
 </pre>
