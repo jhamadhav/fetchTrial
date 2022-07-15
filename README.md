@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Peace begins with a smile.
-- Mother Teresa
+The time to repair the roof is when the sun is shining.
+- John F. Kennedy
 
-Updated on: [7/14/2022]
+Updated on: [7/15/2022]
 <!-- #quoteEnd -->
 </pre>
