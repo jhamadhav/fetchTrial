@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The time to repair the roof is when the sun is shining.
-- John F. Kennedy
+Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
+- Washington Irving
 
-Updated on: [7/15/2022]
+Updated on: [7/16/2022]
 <!-- #quoteEnd -->
 </pre>
