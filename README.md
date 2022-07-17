@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
-- Washington Irving
+Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+- Jerome
 
-Updated on: [7/16/2022]
+Updated on: [7/17/2022]
 <!-- #quoteEnd -->
 </pre>
