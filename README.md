@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
-- Jerome
+The real problem is not whether machines think but whether men do.
+- B. F. Skinner
 
-Updated on: [7/17/2022]
+Updated on: [7/18/2022]
 <!-- #quoteEnd -->
 </pre>
