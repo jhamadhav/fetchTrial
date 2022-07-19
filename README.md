@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The real problem is not whether machines think but whether men do.
-- B. F. Skinner
+Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+- Bruce Lee
 
-Updated on: [7/18/2022]
+Updated on: [7/19/2022]
 <!-- #quoteEnd -->
 </pre>
