@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
-- Bruce Lee
+If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
+- Samuel Johnson
 
-Updated on: [7/19/2022]
+Updated on: [7/20/2022]
 <!-- #quoteEnd -->
 </pre>
