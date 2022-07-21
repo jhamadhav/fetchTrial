@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
-- Samuel Johnson
+If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+- Holly Near
 
-Updated on: [7/20/2022]
+Updated on: [7/21/2022]
 <!-- #quoteEnd -->
 </pre>
