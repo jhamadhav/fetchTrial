@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
-- Holly Near
+Hope arouses, as nothing else can arouse, a passion for the possible.
+- William Sloane Coffin
 
-Updated on: [7/21/2022]
+Updated on: [7/22/2022]
 <!-- #quoteEnd -->
 </pre>
