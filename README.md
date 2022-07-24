@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Chaos is inherent in all compounded things. Strive on with diligence.
-- Buddha
+I love you the more in that I believe you had liked me for my own sake and for nothing else.
+- John Keats
 
-Updated on: [7/23/2022]
+Updated on: [7/24/2022]
 <!-- #quoteEnd -->
 </pre>
