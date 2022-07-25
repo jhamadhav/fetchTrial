@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I love you the more in that I believe you had liked me for my own sake and for nothing else.
-- John Keats
+God always takes the simplest way.
+- Albert Einstein
 
-Updated on: [7/24/2022]
+Updated on: [7/25/2022]
 <!-- #quoteEnd -->
 </pre>
