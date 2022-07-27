@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
-- Simone de Beauvoir
+True friendship ought never to conceal what it thinks.
+- Jerome
 
-Updated on: [7/26/2022]
+Updated on: [7/27/2022]
 <!-- #quoteEnd -->
 </pre>
