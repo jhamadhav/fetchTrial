@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-True friendship ought never to conceal what it thinks.
-- Jerome
+Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+- Paul Theroux
 
-Updated on: [7/27/2022]
+Updated on: [7/28/2022]
 <!-- #quoteEnd -->
 </pre>
