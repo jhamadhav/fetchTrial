@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
-- Paul Theroux
+I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+- Og Mandino
 
-Updated on: [7/28/2022]
+Updated on: [7/29/2022]
 <!-- #quoteEnd -->
 </pre>
