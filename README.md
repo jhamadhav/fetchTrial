@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Character develops itself in the stream of life.
-- Johann Wolfgang von Goethe
+To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+- Joan Didion
 
-Updated on: [7/31/2022]
+Updated on: [8/1/2022]
 <!-- #quoteEnd -->
 </pre>
