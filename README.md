@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
-- Joan Didion
+Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
+- Mariella Frostrup
 
-Updated on: [8/1/2022]
+Updated on: [8/2/2022]
 <!-- #quoteEnd -->
 </pre>
