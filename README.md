@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together.
-- Mariella Frostrup
+It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+- Dalai Lama
 
-Updated on: [8/2/2022]
+Updated on: [8/3/2022]
 <!-- #quoteEnd -->
 </pre>
