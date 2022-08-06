@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
-- George S. Patton
+In the depth of winter, I finally learned that there was within me an invincible summer.
+- Albert Camus
 
-Updated on: [8/5/2022]
+Updated on: [8/6/2022]
 <!-- #quoteEnd -->
 </pre>
