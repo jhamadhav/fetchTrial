@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In the depth of winter, I finally learned that there was within me an invincible summer.
-- Albert Camus
+Time you enjoy wasting, was not wasted.
+- John Lennon
 
-Updated on: [8/6/2022]
+Updated on: [8/7/2022]
 <!-- #quoteEnd -->
 </pre>
