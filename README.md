@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Well begun is half done.
-- Aristotle
+The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+- René Descartes
 
-Updated on: [8/9/2022]
+Updated on: [8/10/2022]
 <!-- #quoteEnd -->
 </pre>
