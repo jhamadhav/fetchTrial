@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The greatest minds are capable of the greatest vices as well as of the greatest virtues.
-- René Descartes
+We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
+- Abraham Lincoln
 
-Updated on: [8/10/2022]
+Updated on: [8/11/2022]
 <!-- #quoteEnd -->
 </pre>
