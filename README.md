@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
-- Abraham Lincoln
+Don't be afraid to go out on a limb. That's where the fruit is.
+- H. Jackson Brown Jr.
 
-Updated on: [8/11/2022]
+Updated on: [8/12/2022]
 <!-- #quoteEnd -->
 </pre>
