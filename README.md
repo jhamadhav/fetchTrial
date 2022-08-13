@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't be afraid to go out on a limb. That's where the fruit is.
-- H. Jackson Brown Jr.
+Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
+- Mother Angelica
 
-Updated on: [8/12/2022]
+Updated on: [8/13/2022]
 <!-- #quoteEnd -->
 </pre>
