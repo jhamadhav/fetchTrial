@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
-- Mother Angelica
+A good decision is based on knowledge and not on numbers.
+- Plato
 
-Updated on: [8/13/2022]
+Updated on: [8/14/2022]
 <!-- #quoteEnd -->
 </pre>
