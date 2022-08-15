@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A good decision is based on knowledge and not on numbers.
-- Plato
+Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+- Johann Kaspar Lavater
 
-Updated on: [8/14/2022]
+Updated on: [8/15/2022]
 <!-- #quoteEnd -->
 </pre>
