@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The world turns aside to let any man pass who knows where he is going.
-- Epictetus
+So is cheerfulness, or a good temper, the more it is spent, the more remains.
+- Ralph Waldo Emerson
 
-Updated on: [8/16/2022]
+Updated on: [8/17/2022]
 <!-- #quoteEnd -->
 </pre>
