@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-So is cheerfulness, or a good temper, the more it is spent, the more remains.
-- Ralph Waldo Emerson
+I think somehow, we learn who we really are and then live with that decision.
+- Eleanor Roosevelt
 
-Updated on: [8/17/2022]
+Updated on: [8/18/2022]
 <!-- #quoteEnd -->
 </pre>
