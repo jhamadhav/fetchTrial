@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I think somehow, we learn who we really are and then live with that decision.
-- Eleanor Roosevelt
+Work for something because it is good, not just because it stands a chance to succeed.
+- Václav Havel
 
-Updated on: [8/18/2022]
+Updated on: [8/19/2022]
 <!-- #quoteEnd -->
 </pre>
