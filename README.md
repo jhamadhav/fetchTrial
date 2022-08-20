@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Work for something because it is good, not just because it stands a chance to succeed.
-- Václav Havel
+It is impossible to experience one's death objectively and still carry a tune.
+- Woody Allen
 
-Updated on: [8/19/2022]
+Updated on: [8/20/2022]
 <!-- #quoteEnd -->
 </pre>
