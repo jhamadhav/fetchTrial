@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You're not obligated to win. You're obligated to keep trying to do the best you can every day.
-- Marian Wright Edelman
+Don't judge each day by the harvest you reap but by the seeds that you plant.
+- Robert Louis Stevenson
 
-Updated on: [8/21/2022]
+Updated on: [8/22/2022]
 <!-- #quoteEnd -->
 </pre>
