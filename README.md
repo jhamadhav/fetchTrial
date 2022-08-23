@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't judge each day by the harvest you reap but by the seeds that you plant.
-- Robert Louis Stevenson
+Opportunity is missed by most because it is dressed in overalls and looks like work.
+- Thomas Edison
 
-Updated on: [8/22/2022]
+Updated on: [8/23/2022]
 <!-- #quoteEnd -->
 </pre>
