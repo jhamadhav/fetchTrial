@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Opportunity is missed by most because it is dressed in overalls and looks like work.
-- Thomas Edison
+The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
+- Buddha
 
-Updated on: [8/23/2022]
+Updated on: [8/24/2022]
 <!-- #quoteEnd -->
 </pre>
