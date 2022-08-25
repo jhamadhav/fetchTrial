@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.
-- Buddha
+When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+- Dalai Lama
 
-Updated on: [8/24/2022]
+Updated on: [8/25/2022]
 <!-- #quoteEnd -->
 </pre>
