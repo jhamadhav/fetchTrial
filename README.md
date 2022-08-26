@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
-- Dalai Lama
+Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
+- Kahlil Gibran
 
-Updated on: [8/25/2022]
+Updated on: [8/26/2022]
 <!-- #quoteEnd -->
 </pre>
