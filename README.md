@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.
-- Kahlil Gibran
+The journey of a thousand miles begins with one step.
+- Laozi
 
-Updated on: [8/26/2022]
+Updated on: [8/27/2022]
 <!-- #quoteEnd -->
 </pre>
