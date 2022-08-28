@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The journey of a thousand miles begins with one step.
-- Laozi
+The fall of dropping water wears away the Stone.
+- Lucretius
 
-Updated on: [8/27/2022]
+Updated on: [8/28/2022]
 <!-- #quoteEnd -->
 </pre>
