@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The fall of dropping water wears away the Stone.
-- Lucretius
+Where there is charity and wisdom, there is neither fear nor ignorance.
+- Francis of Assisi
 
-Updated on: [8/28/2022]
+Updated on: [8/29/2022]
 <!-- #quoteEnd -->
 </pre>
