@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Where there is charity and wisdom, there is neither fear nor ignorance.
-- Francis of Assisi
+The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+- Babe Ruth
 
-Updated on: [8/30/2022]
+Updated on: [8/31/2022]
 <!-- #quoteEnd -->
 </pre>
