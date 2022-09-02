@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Yesterday I dared to struggle. Today I dare to win.
-- Bernadette Devlin
+Finding good players is easy. Getting them to play as a team is another story.
+- Casey Stengel
 
-Updated on: [9/1/2022]
+Updated on: [9/2/2022]
 <!-- #quoteEnd -->
 </pre>
