@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Finding good players is easy. Getting them to play as a team is another story.
-- Casey Stengel
+A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
+- John C. Maxwell
 
-Updated on: [9/2/2022]
+Updated on: [9/3/2022]
 <!-- #quoteEnd -->
 </pre>
