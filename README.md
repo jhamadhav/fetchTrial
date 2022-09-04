@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them.
-- John C. Maxwell
+You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+- Albert Camus
 
-Updated on: [9/3/2022]
+Updated on: [9/4/2022]
 <!-- #quoteEnd -->
 </pre>
