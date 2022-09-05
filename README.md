@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
-- Albert Camus
+We are wiser than we know.
+- Ralph Waldo Emerson
 
-Updated on: [9/4/2022]
+Updated on: [9/5/2022]
 <!-- #quoteEnd -->
 </pre>
