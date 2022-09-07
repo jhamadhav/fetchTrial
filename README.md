@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never bend your head. Always hold it high. Look the world right in the eye.
-- Helen Keller
+I believe in one thing only, the power of human will.
+- Joseph Stalin
 
-Updated on: [9/6/2022]
+Updated on: [9/7/2022]
 <!-- #quoteEnd -->
 </pre>
