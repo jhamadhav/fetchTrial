@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I believe in one thing only, the power of human will.
-- Joseph Stalin
+If I were two-faced, would I be wearing this one?
+- Abraham Lincoln
 
-Updated on: [9/7/2022]
+Updated on: [9/8/2022]
 <!-- #quoteEnd -->
 </pre>
