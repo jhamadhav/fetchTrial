@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If I were two-faced, would I be wearing this one?
-- Abraham Lincoln
+Learn from yesterday, live for today, hope for tomorrow.
+- Albert Einstein
 
-Updated on: [9/8/2022]
+Updated on: [9/9/2022]
 <!-- #quoteEnd -->
 </pre>
