@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Learn from yesterday, live for today, hope for tomorrow.
-- Albert Einstein
+Technology is teaching us to be human again.
+- Simon Mainwaring
 
-Updated on: [9/9/2022]
+Updated on: [9/10/2022]
 <!-- #quoteEnd -->
 </pre>
