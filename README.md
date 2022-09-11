@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technology is teaching us to be human again.
-- Simon Mainwaring
+Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+- Cicero
 
-Updated on: [9/10/2022]
+Updated on: [9/11/2022]
 <!-- #quoteEnd -->
 </pre>
