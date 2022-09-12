@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
-- Cicero
+You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+- Marian Wright Edelman
 
-Updated on: [9/11/2022]
+Updated on: [9/12/2022]
 <!-- #quoteEnd -->
 </pre>
