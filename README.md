@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You're not obligated to win. You're obligated to keep trying to do the best you can every day.
-- Marian Wright Edelman
+You just can't beat the person who never gives up.
+- Babe Ruth
 
-Updated on: [9/12/2022]
+Updated on: [9/13/2022]
 <!-- #quoteEnd -->
 </pre>
