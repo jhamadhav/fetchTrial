@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You just can't beat the person who never gives up.
-- Babe Ruth
+I never see what has been done; I only see what remains to be done.
+- Marie Curie
 
-Updated on: [9/13/2022]
+Updated on: [9/14/2022]
 <!-- #quoteEnd -->
 </pre>
