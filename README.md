@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
-- Mary Kay Ash
+Never promise more than you can perform.
+- Publilius Syrus
 
-Updated on: [9/15/2022]
+Updated on: [9/16/2022]
 <!-- #quoteEnd -->
 </pre>
