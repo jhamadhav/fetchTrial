@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
-- Alfred Tennyson
+Always keep an open mind and a compassionate heart.
+- Phil Jackson
 
-Updated on: [9/17/2022]
+Updated on: [9/18/2022]
 <!-- #quoteEnd -->
 </pre>
