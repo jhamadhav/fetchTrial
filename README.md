@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always keep an open mind and a compassionate heart.
-- Phil Jackson
+Self-trust is the first secret of success.
+- Ralph Waldo Emerson
 
-Updated on: [9/18/2022]
+Updated on: [9/19/2022]
 <!-- #quoteEnd -->
 </pre>
