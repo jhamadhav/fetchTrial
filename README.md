@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Self-trust is the first secret of success.
-- Ralph Waldo Emerson
+What you get by achieving your goals is not as important as what you become by achieving your goals.
+- Zig Ziglar
 
-Updated on: [9/19/2022]
+Updated on: [9/20/2022]
 <!-- #quoteEnd -->
 </pre>
