@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What you get by achieving your goals is not as important as what you become by achieving your goals.
-- Zig Ziglar
+If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+- Nelson Mandela
 
-Updated on: [9/20/2022]
+Updated on: [9/21/2022]
 <!-- #quoteEnd -->
 </pre>
