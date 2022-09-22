@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
-- Nelson Mandela
+We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+- Aristotle
 
-Updated on: [9/21/2022]
+Updated on: [9/22/2022]
 <!-- #quoteEnd -->
 </pre>
