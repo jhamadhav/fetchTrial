@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We are what we repeatedly do. Excellence, then, is not an act, but a habit.
-- Aristotle
+Real magic in relationships means an absence of judgement of others.
+- Wayne Dyer
 
-Updated on: [9/22/2022]
+Updated on: [9/23/2022]
 <!-- #quoteEnd -->
 </pre>
