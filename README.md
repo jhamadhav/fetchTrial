@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Real magic in relationships means an absence of judgement of others.
-- Wayne Dyer
+Life has no blessing like a prudent friend.
+- Euripides
 
-Updated on: [9/23/2022]
+Updated on: [9/24/2022]
 <!-- #quoteEnd -->
 </pre>
