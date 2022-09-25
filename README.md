@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life has no blessing like a prudent friend.
-- Euripides
+Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+- William C. Menninger
 
-Updated on: [9/24/2022]
+Updated on: [9/25/2022]
 <!-- #quoteEnd -->
 </pre>
