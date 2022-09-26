@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
-- William C. Menninger
+There is only one success - to be able to spend your life in your own way.
+- Christopher Morley
 
-Updated on: [9/25/2022]
+Updated on: [9/26/2022]
 <!-- #quoteEnd -->
 </pre>
