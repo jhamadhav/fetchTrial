@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is only one success - to be able to spend your life in your own way.
-- Christopher Morley
+There is no greater harm than that of time wasted.
+- Michelangelo
 
-Updated on: [9/26/2022]
+Updated on: [9/27/2022]
 <!-- #quoteEnd -->
 </pre>
