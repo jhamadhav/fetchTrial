@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is no greater harm than that of time wasted.
-- Michelangelo
+Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+- William Arthur Ward
 
-Updated on: [9/27/2022]
+Updated on: [9/28/2022]
 <!-- #quoteEnd -->
 </pre>
