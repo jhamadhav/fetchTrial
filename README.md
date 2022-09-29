@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
-- William Arthur Ward
+It is not uncommon for people to spend their whole life waiting to start living.
+- Eckhart Tolle
 
-Updated on: [9/28/2022]
+Updated on: [9/29/2022]
 <!-- #quoteEnd -->
 </pre>
