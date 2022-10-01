@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To avoid criticism, do nothing, say nothing, be nothing.
-- Elbert Hubbard
+Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+- Tony Blair
 
-Updated on: [9/30/2022]
+Updated on: [10/1/2022]
 <!-- #quoteEnd -->
 </pre>
