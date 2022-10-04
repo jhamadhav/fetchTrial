@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nobody will believe in you unless you believe in yourself.
-- Liberace
+Chaos and Order are not enemies, only opposites.
+- Richard Garriott
 
-Updated on: [10/3/2022]
+Updated on: [10/4/2022]
 <!-- #quoteEnd -->
 </pre>
