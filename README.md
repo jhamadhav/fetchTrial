@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
-- Michelle Obama
+Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+- Hannah Arendt
 
-Updated on: [10/5/2022]
+Updated on: [10/6/2022]
 <!-- #quoteEnd -->
 </pre>
