@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I allow my intuition to lead my path.
-- Manuel Puig
+No yesterdays are ever wasted for those who give themselves to today.
+- Brendan Behan
 
-Updated on: [10/8/2022]
+Updated on: [10/9/2022]
 <!-- #quoteEnd -->
 </pre>
