@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
-- Charlotte Perkins Gilman
+Good judgment comes from experience, and a lot of that comes from bad judgment.
+- Will Rogers
 
-Updated on: [10/12/2022]
+Updated on: [10/13/2022]
 <!-- #quoteEnd -->
 </pre>
