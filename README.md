@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good judgment comes from experience, and a lot of that comes from bad judgment.
-- Will Rogers
+Eternal nothingness is fine if you happen to be dressed for it.
+- Woody Allen
 
-Updated on: [10/13/2022]
+Updated on: [10/14/2022]
 <!-- #quoteEnd -->
 </pre>
