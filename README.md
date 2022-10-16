@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You don't look out there for God, something in the sky, you look in you.
-- Alan Watts
+If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+- Pema Chödrön
 
-Updated on: [10/15/2022]
+Updated on: [10/16/2022]
 <!-- #quoteEnd -->
 </pre>
