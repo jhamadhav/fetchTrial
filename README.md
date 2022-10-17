@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
-- Pema Chödrön
+All love that has not friendship for its base, is like a mansion built upon the sand.
+- Ella Wheeler Wilcox
 
-Updated on: [10/16/2022]
+Updated on: [10/17/2022]
 <!-- #quoteEnd -->
 </pre>
