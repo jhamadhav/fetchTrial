@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All love that has not friendship for its base, is like a mansion built upon the sand.
-- Ella Wheeler Wilcox
+Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+- Margaret Cousins
 
-Updated on: [10/17/2022]
+Updated on: [10/18/2022]
 <!-- #quoteEnd -->
 </pre>
