@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
-- Margaret Cousins
+The doors of wisdom are never shut.
+- Benjamin Franklin
 
-Updated on: [10/18/2022]
+Updated on: [10/19/2022]
 <!-- #quoteEnd -->
 </pre>
