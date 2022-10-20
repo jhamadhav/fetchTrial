@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The doors of wisdom are never shut.
-- Benjamin Franklin
+Your friend is your needs answered.
+- Kahlil Gibran
 
-Updated on: [10/19/2022]
+Updated on: [10/20/2022]
 <!-- #quoteEnd -->
 </pre>
