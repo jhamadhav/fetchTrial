@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Your friend is your needs answered.
-- Kahlil Gibran
+I believe in one thing only, the power of human will.
+- Joseph Stalin
 
-Updated on: [10/20/2022]
+Updated on: [10/21/2022]
 <!-- #quoteEnd -->
 </pre>
