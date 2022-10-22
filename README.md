@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I believe in one thing only, the power of human will.
-- Joseph Stalin
+All things must come to the soul from its roots, from where it is planted.
+- Teresa of Ávila
 
-Updated on: [10/21/2022]
+Updated on: [10/22/2022]
 <!-- #quoteEnd -->
 </pre>
