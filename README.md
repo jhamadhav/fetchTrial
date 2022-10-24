@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Effort only fully releases its reward after a person refuses to quit.
-- Napoleon Hill
+It is fatal to enter any war without the will to win it.
+- Douglas MacArthur
 
-Updated on: [10/23/2022]
+Updated on: [10/24/2022]
 <!-- #quoteEnd -->
 </pre>
