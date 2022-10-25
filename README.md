@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is fatal to enter any war without the will to win it.
-- Douglas MacArthur
+I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+- Laozi
 
-Updated on: [10/24/2022]
+Updated on: [10/25/2022]
 <!-- #quoteEnd -->
 </pre>
