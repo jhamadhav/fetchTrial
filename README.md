@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
-- Laozi
+Friendship may, and often does, grow into love, but love never subsides into friendship.
+- Lord Byron
 
-Updated on: [10/25/2022]
+Updated on: [10/26/2022]
 <!-- #quoteEnd -->
 </pre>
