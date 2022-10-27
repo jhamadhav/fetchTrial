@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship may, and often does, grow into love, but love never subsides into friendship.
-- Lord Byron
+The energy of the mind is the essence of life.
+- Aristotle
 
-Updated on: [10/26/2022]
+Updated on: [10/27/2022]
 <!-- #quoteEnd -->
 </pre>
