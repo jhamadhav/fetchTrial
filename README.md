@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The energy of the mind is the essence of life.
-- Aristotle
+Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+- Chanakya
 
-Updated on: [10/27/2022]
+Updated on: [10/28/2022]
 <!-- #quoteEnd -->
 </pre>
