@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
-- Chanakya
+In the middle of every difficulty lies opportunity.
+- Albert Einstein
 
-Updated on: [10/28/2022]
+Updated on: [10/29/2022]
 <!-- #quoteEnd -->
 </pre>
