@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In the middle of every difficulty lies opportunity.
-- Albert Einstein
+Life is really simple, but we insist on making it complicated.
+- Confucius
 
-Updated on: [10/29/2022]
+Updated on: [10/30/2022]
 <!-- #quoteEnd -->
 </pre>
