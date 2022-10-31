@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is really simple, but we insist on making it complicated.
-- Confucius
+Efficiency is doing things right; effectiveness is doing the right things.
+- Peter Drucker
 
-Updated on: [10/30/2022]
+Updated on: [10/31/2022]
 <!-- #quoteEnd -->
 </pre>
