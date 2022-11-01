@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Efficiency is doing things right; effectiveness is doing the right things.
-- Peter Drucker
+Life is a travelling to the edge of knowledge, then a leap taken.
+- Laurence J. Peter
 
-Updated on: [10/31/2022]
+Updated on: [11/1/2022]
 <!-- #quoteEnd -->
 </pre>
