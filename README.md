@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is a travelling to the edge of knowledge, then a leap taken.
-- Laurence J. Peter
+Knowing is not enough; we must apply. Willing is not enough; we must do.
+- Johann Wolfgang von Goethe
 
-Updated on: [11/1/2022]
+Updated on: [11/2/2022]
 <!-- #quoteEnd -->
 </pre>
