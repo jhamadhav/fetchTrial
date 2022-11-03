@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Knowing is not enough; we must apply. Willing is not enough; we must do.
+Ignorant men raise questions that wise men answered a thousand years ago.
 - Johann Wolfgang von Goethe
 
-Updated on: [11/2/2022]
+Updated on: [11/3/2022]
 <!-- #quoteEnd -->
 </pre>
