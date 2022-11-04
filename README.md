@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Ignorant men raise questions that wise men answered a thousand years ago.
-- Johann Wolfgang von Goethe
+The cause is hidden. The effect is visible to all.
+- Ovid
 
-Updated on: [11/3/2022]
+Updated on: [11/4/2022]
 <!-- #quoteEnd -->
 </pre>
