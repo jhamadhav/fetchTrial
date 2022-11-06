@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
-- Thomas Carlyle
+The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+- Johann Wolfgang von Goethe
 
-Updated on: [11/5/2022]
+Updated on: [11/6/2022]
 <!-- #quoteEnd -->
 </pre>
