@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
-- Johann Wolfgang von Goethe
+Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+- Marie Curie
 
-Updated on: [11/6/2022]
+Updated on: [11/7/2022]
 <!-- #quoteEnd -->
 </pre>
