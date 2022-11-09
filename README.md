@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
-- Plato
+There are no limitations to the mind except those we acknowledge.
+- Napoleon Hill
 
-Updated on: [11/8/2022]
+Updated on: [11/9/2022]
 <!-- #quoteEnd -->
 </pre>
