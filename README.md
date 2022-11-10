@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are no limitations to the mind except those we acknowledge.
-- Napoleon Hill
+God always takes the simplest way.
+- Albert Einstein
 
-Updated on: [11/9/2022]
+Updated on: [11/10/2022]
 <!-- #quoteEnd -->
 </pre>
