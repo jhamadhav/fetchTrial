@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-God always takes the simplest way.
+Life is like riding a bicycle. To keep your balance you must keep moving.
 - Albert Einstein
 
-Updated on: [11/10/2022]
+Updated on: [11/11/2022]
 <!-- #quoteEnd -->
 </pre>
