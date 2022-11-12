@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is like riding a bicycle. To keep your balance you must keep moving.
-- Albert Einstein
+Independence is happiness.
+- Susan B. Anthony
 
-Updated on: [11/11/2022]
+Updated on: [11/12/2022]
 <!-- #quoteEnd -->
 </pre>
