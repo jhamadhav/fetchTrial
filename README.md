@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Independence is happiness.
-- Susan B. Anthony
+Education is the most powerful weapon which you can use to change the world.
+- Nelson Mandela
 
-Updated on: [11/12/2022]
+Updated on: [11/13/2022]
 <!-- #quoteEnd -->
 </pre>
