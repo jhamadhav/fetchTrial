@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Education is the most powerful weapon which you can use to change the world.
-- Nelson Mandela
+One man practicing sportsmanship is far better than a hundred teaching it.
+- Knute Rockne
 
-Updated on: [11/13/2022]
+Updated on: [11/14/2022]
 <!-- #quoteEnd -->
 </pre>
