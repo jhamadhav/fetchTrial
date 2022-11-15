@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-One man practicing sportsmanship is far better than a hundred teaching it.
-- Knute Rockne
+You can stand tall without standing on someone. You can be a victor without having victims.
+- Harriet Woods
 
-Updated on: [11/14/2022]
+Updated on: [11/15/2022]
 <!-- #quoteEnd -->
 </pre>
