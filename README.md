@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can stand tall without standing on someone. You can be a victor without having victims.
-- Harriet Woods
+Life is the flower for which love is the honey.
+- Victor Hugo
 
-Updated on: [11/15/2022]
+Updated on: [11/16/2022]
 <!-- #quoteEnd -->
 </pre>
