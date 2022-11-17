@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is the flower for which love is the honey.
-- Victor Hugo
+A man cannot be said to succeed in this life who does not satisfy one friend.
+- Henry David Thoreau
 
-Updated on: [11/16/2022]
+Updated on: [11/17/2022]
 <!-- #quoteEnd -->
 </pre>
