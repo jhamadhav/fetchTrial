@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A man cannot be said to succeed in this life who does not satisfy one friend.
-- Henry David Thoreau
+Nothing ever goes away until it has taught us what we need to know.
+- Pema Chödrön
 
-Updated on: [11/17/2022]
+Updated on: [11/18/2022]
 <!-- #quoteEnd -->
 </pre>
