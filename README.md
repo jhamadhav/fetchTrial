@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nothing ever goes away until it has taught us what we need to know.
-- Pema Chödrön
+Without some goals and some efforts to reach it, no man can live.
+- John Dewey
 
-Updated on: [11/18/2022]
+Updated on: [11/19/2022]
 <!-- #quoteEnd -->
 </pre>
