@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Without some goals and some efforts to reach it, no man can live.
-- John Dewey
+The world is round so that friendship may encircle it.
+- Pierre Teilhard de Chardin
 
-Updated on: [11/19/2022]
+Updated on: [11/20/2022]
 <!-- #quoteEnd -->
 </pre>
