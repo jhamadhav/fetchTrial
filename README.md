@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The world is round so that friendship may encircle it.
-- Pierre Teilhard de Chardin
+Some people go to priests; others to poetry; I to my friends.
+- Virginia Woolf
 
-Updated on: [11/20/2022]
+Updated on: [11/21/2022]
 <!-- #quoteEnd -->
 </pre>
