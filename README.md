@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Some people go to priests; others to poetry; I to my friends.
-- Virginia Woolf
+Sustaining true friendship is a lot more challenging than we give it credit for.
+- Mariella Frostrup
 
-Updated on: [11/21/2022]
+Updated on: [11/22/2022]
 <!-- #quoteEnd -->
 </pre>
