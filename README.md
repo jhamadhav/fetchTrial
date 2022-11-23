@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Sustaining true friendship is a lot more challenging than we give it credit for.
-- Mariella Frostrup
+What other people may find in poetry or art museums, I find in the flight of a good drive.
+- Arnold Palmer
 
-Updated on: [11/22/2022]
+Updated on: [11/23/2022]
 <!-- #quoteEnd -->
 </pre>
