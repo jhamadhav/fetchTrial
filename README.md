@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What other people may find in poetry or art museums, I find in the flight of a good drive.
-- Arnold Palmer
+Education is the most powerful weapon which you can use to change the world.
+- Nelson Mandela
 
-Updated on: [11/23/2022]
+Updated on: [11/24/2022]
 <!-- #quoteEnd -->
 </pre>
