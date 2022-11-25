@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Education is the most powerful weapon which you can use to change the world.
-- Nelson Mandela
+Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+- Dalai Lama
 
-Updated on: [11/24/2022]
+Updated on: [11/25/2022]
 <!-- #quoteEnd -->
 </pre>
