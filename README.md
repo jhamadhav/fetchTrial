@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love and compassion open our own inner life, reducing stress, distrust and loneliness.
-- Dalai Lama
+The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+- Thomas Edison
 
-Updated on: [11/25/2022]
+Updated on: [11/28/2022]
 <!-- #quoteEnd -->
 </pre>
