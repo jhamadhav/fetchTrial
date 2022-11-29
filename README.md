@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
-- Thomas Edison
+Remember that a gesture of friendship, no matter how small, is always appreciated.
+- H. Jackson Brown Jr.
 
-Updated on: [11/28/2022]
+Updated on: [11/29/2022]
 <!-- #quoteEnd -->
 </pre>
