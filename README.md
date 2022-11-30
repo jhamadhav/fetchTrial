@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Remember that a gesture of friendship, no matter how small, is always appreciated.
-- H. Jackson Brown Jr.
+Nothing in life is so exhilarating as to be shot at without result.
+- Winston Churchill
 
-Updated on: [11/29/2022]
+Updated on: [11/30/2022]
 <!-- #quoteEnd -->
 </pre>
