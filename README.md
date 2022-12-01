@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nothing in life is so exhilarating as to be shot at without result.
-- Winston Churchill
+He has no enemies, but is intensely disliked by his friends.
+- Oscar Wilde
 
-Updated on: [11/30/2022]
+Updated on: [12/1/2022]
 <!-- #quoteEnd -->
 </pre>
