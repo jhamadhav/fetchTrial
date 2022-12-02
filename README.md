@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He has no enemies, but is intensely disliked by his friends.
-- Oscar Wilde
+What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+- Sai Baba
 
-Updated on: [12/1/2022]
+Updated on: [12/2/2022]
 <!-- #quoteEnd -->
 </pre>
