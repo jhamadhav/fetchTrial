@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
-- Sai Baba
+When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+- Wayne Dyer
 
-Updated on: [12/2/2022]
+Updated on: [12/3/2022]
 <!-- #quoteEnd -->
 </pre>
