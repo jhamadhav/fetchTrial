@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
-- Wayne Dyer
+If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+- Woody Allen
 
-Updated on: [12/3/2022]
+Updated on: [12/4/2022]
 <!-- #quoteEnd -->
 </pre>
