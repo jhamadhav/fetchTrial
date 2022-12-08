@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The thing always happens that you really believe in; and the belief in a thing makes it happen.
-- Frank Lloyd Wright
+Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+- Salman Rushdie
 
-Updated on: [12/7/2022]
+Updated on: [12/8/2022]
 <!-- #quoteEnd -->
 </pre>
