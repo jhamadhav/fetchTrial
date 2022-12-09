@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
-- Salman Rushdie
+Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+- Anaïs Nin
 
-Updated on: [12/8/2022]
+Updated on: [12/9/2022]
 <!-- #quoteEnd -->
 </pre>
