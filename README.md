@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No garden is without its weeds.
-- Thomas Fuller
+Everything you can imagine is real.
+- Pablo Picasso
 
-Updated on: [12/10/2022]
+Updated on: [12/11/2022]
 <!-- #quoteEnd -->
 </pre>
