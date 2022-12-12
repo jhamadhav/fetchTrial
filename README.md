@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everything you can imagine is real.
-- Pablo Picasso
+All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+- Albert Camus
 
-Updated on: [12/11/2022]
+Updated on: [12/12/2022]
 <!-- #quoteEnd -->
 </pre>
