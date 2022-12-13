@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
-- Albert Camus
+When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+- Joseph Campbell
 
-Updated on: [12/12/2022]
+Updated on: [12/13/2022]
 <!-- #quoteEnd -->
 </pre>
