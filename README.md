@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
-- Joseph Campbell
+It is not uncommon for people to spend their whole life waiting to start living.
+- Eckhart Tolle
 
-Updated on: [12/13/2022]
+Updated on: [12/14/2022]
 <!-- #quoteEnd -->
 </pre>
