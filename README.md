@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Discipline is the bridge between goals and accomplishment.
-- Jim Rohn
+Attitude is a little thing that makes a big difference.
+- Winston Churchill
 
-Updated on: [12/16/2022]
+Updated on: [12/17/2022]
 <!-- #quoteEnd -->
 </pre>
