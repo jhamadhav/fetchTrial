@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Attitude is a little thing that makes a big difference.
-- Winston Churchill
+All action results from thought, so it is thoughts that matter.
+- Sai Baba
 
-Updated on: [12/17/2022]
+Updated on: [12/18/2022]
 <!-- #quoteEnd -->
 </pre>
