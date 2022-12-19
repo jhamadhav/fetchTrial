@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All action results from thought, so it is thoughts that matter.
-- Sai Baba
+There is a wisdom of the head, and a wisdom of the heart.
+- Charles Dickens
 
-Updated on: [12/18/2022]
+Updated on: [12/19/2022]
 <!-- #quoteEnd -->
 </pre>
