@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is a wisdom of the head, and a wisdom of the heart.
-- Charles Dickens
+Joy is the best makeup.
+- Anne Lamott
 
-Updated on: [12/19/2022]
+Updated on: [12/20/2022]
 <!-- #quoteEnd -->
 </pre>
