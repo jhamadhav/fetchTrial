@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We do not quit playing because we grow old, we grow old because we quit playing.
-- Oliver Wendell Holmes Jr.
+The self is not something ready-made, but something in continuous formation through choice of action.
+- John Dewey
 
-Updated on: [12/21/2022]
+Updated on: [12/22/2022]
 <!-- #quoteEnd -->
 </pre>
