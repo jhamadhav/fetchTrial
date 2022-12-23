@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The self is not something ready-made, but something in continuous formation through choice of action.
-- John Dewey
+A friend to all is a friend to none.
+- Aristotle
 
-Updated on: [12/22/2022]
+Updated on: [12/23/2022]
 <!-- #quoteEnd -->
 </pre>
