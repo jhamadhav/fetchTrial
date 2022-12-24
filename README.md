@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A friend to all is a friend to none.
-- Aristotle
+Peace begins with a smile.
+- Mother Teresa
 
-Updated on: [12/23/2022]
+Updated on: [12/24/2022]
 <!-- #quoteEnd -->
 </pre>
