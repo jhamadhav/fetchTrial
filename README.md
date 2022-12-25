@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Peace begins with a smile.
-- Mother Teresa
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+- Carl Jung
 
-Updated on: [12/24/2022]
+Updated on: [12/25/2022]
 <!-- #quoteEnd -->
 </pre>
