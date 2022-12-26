@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
-- Carl Jung
+We lost because we told ourselves we lost.
+- Leo Tolstoy
 
-Updated on: [12/25/2022]
+Updated on: [12/26/2022]
 <!-- #quoteEnd -->
 </pre>
