@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A day of worry is more exhausting than a day of work.
-- John Lubbock
+We should not give up and we should not allow the problem to defeat us.
+- A. P. J. Abdul Kalam
 
-Updated on: [12/27/2022]
+Updated on: [12/28/2022]
 <!-- #quoteEnd -->
 </pre>
