@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We should not give up and we should not allow the problem to defeat us.
-- A. P. J. Abdul Kalam
+The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+- Anaïs Nin
 
-Updated on: [12/28/2022]
+Updated on: [12/29/2022]
 <!-- #quoteEnd -->
 </pre>
