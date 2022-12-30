@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
-- Anaïs Nin
+Life is about timing.
+- Carl Lewis
 
-Updated on: [12/29/2022]
+Updated on: [12/30/2022]
 <!-- #quoteEnd -->
 </pre>
