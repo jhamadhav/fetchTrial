@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is about timing.
-- Carl Lewis
+The beginning is always today.
+- Mary Wollstonecraft
 
-Updated on: [12/30/2022]
+Updated on: [12/31/2022]
 <!-- #quoteEnd -->
 </pre>
