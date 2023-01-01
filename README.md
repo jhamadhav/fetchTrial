@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The beginning is always today.
-- Mary Wollstonecraft
+Before we acquire great power, we must acquire wisdom to use it well.
+- Ralph Waldo Emerson
 
-Updated on: [12/31/2022]
+Updated on: [1/1/2023]
 <!-- #quoteEnd -->
 </pre>
