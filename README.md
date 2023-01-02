@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Before we acquire great power, we must acquire wisdom to use it well.
-- Ralph Waldo Emerson
+The fewer rules a coach has, the fewer rules there are for players to break.
+- John Madden
 
-Updated on: [1/1/2023]
+Updated on: [1/2/2023]
 <!-- #quoteEnd -->
 </pre>
