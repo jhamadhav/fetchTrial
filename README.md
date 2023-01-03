@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The fewer rules a coach has, the fewer rules there are for players to break.
-- John Madden
+Fortune befriends the bold.
+- John Dryden
 
-Updated on: [1/2/2023]
+Updated on: [1/3/2023]
 <!-- #quoteEnd -->
 </pre>
