@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If I know what love is, it is because of you.
-- Hermann Hesse
+One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+- A. A. Milne
 
-Updated on: [1/4/2023]
+Updated on: [1/5/2023]
 <!-- #quoteEnd -->
 </pre>
