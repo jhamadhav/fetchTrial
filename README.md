@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-One of the advantages of being disorderly is that one is constantly making exciting discoveries.
-- A. A. Milne
+We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.
+- Buddha
 
-Updated on: [1/5/2023]
+Updated on: [1/6/2023]
 <!-- #quoteEnd -->
 </pre>
