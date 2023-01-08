@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
-- Eleanor Roosevelt
+It is better to travel well than to arrive.
+- Buddha
 
-Updated on: [1/7/2023]
+Updated on: [1/8/2023]
 <!-- #quoteEnd -->
 </pre>
