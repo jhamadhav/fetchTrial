@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Genius is one percent inspiration and ninety-nine percent perspiration.
-- Thomas Edison
+We are made wise not by the recollection of our past, but by the responsibility for our future.
+- Bernard Shaw
 
-Updated on: [1/10/2023]
+Updated on: [1/11/2023]
 <!-- #quoteEnd -->
 </pre>
