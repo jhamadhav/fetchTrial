@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We are made wise not by the recollection of our past, but by the responsibility for our future.
-- Bernard Shaw
+Success is getting what you want. Happiness is wanting what you get.
+- Dale Carnegie
 
-Updated on: [1/11/2023]
+Updated on: [1/12/2023]
 <!-- #quoteEnd -->
 </pre>
