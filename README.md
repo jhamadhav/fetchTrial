@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Success is getting what you want. Happiness is wanting what you get.
-- Dale Carnegie
+It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
+- Elbert Hubbard
 
-Updated on: [1/12/2023]
+Updated on: [1/13/2023]
 <!-- #quoteEnd -->
 </pre>
