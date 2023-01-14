@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
-- Elbert Hubbard
+Technology has to be invented or adopted.
+- Jared Diamond
 
-Updated on: [1/13/2023]
+Updated on: [1/14/2023]
 <!-- #quoteEnd -->
 </pre>
