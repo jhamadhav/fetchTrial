@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technology has to be invented or adopted.
-- Jared Diamond
+All of our technology is completely unnecessary to a happy life.
+- Tom Hodgkinson
 
-Updated on: [1/14/2023]
+Updated on: [1/15/2023]
 <!-- #quoteEnd -->
 </pre>
