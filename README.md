@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All of our technology is completely unnecessary to a happy life.
-- Tom Hodgkinson
+We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+- Uta Hagen
 
-Updated on: [1/15/2023]
+Updated on: [1/16/2023]
 <!-- #quoteEnd -->
 </pre>
