@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
-- Uta Hagen
+We must not allow ourselves to become like the system we oppose.
+- Desmond Tutu
 
-Updated on: [1/16/2023]
+Updated on: [1/17/2023]
 <!-- #quoteEnd -->
 </pre>
