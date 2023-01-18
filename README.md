@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We must not allow ourselves to become like the system we oppose.
-- Desmond Tutu
+The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+- Booker T. Washington
 
-Updated on: [1/17/2023]
+Updated on: [1/18/2023]
 <!-- #quoteEnd -->
 </pre>
