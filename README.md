@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
-- Booker T. Washington
+Learning without reflection is a waste, reflection without learning is dangerous.
+- Confucius
 
-Updated on: [1/18/2023]
+Updated on: [1/19/2023]
 <!-- #quoteEnd -->
 </pre>
