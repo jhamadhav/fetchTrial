@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Learning without reflection is a waste, reflection without learning is dangerous.
-- Confucius
+Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+- J. Willard Marriott
 
-Updated on: [1/19/2023]
+Updated on: [1/20/2023]
 <!-- #quoteEnd -->
 </pre>
