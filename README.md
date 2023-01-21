@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good timber does not grow with ease; the stronger the wind, the stronger the trees.
-- J. Willard Marriott
+I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+- Amy Tan
 
-Updated on: [1/20/2023]
+Updated on: [1/21/2023]
 <!-- #quoteEnd -->
 </pre>
