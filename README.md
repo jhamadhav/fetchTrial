@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
-- Amy Tan
+But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
+- Alan Watts
 
-Updated on: [1/21/2023]
+Updated on: [1/22/2023]
 <!-- #quoteEnd -->
 </pre>
