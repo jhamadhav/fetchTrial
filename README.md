@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A thing well said will be wit in all languages.
-- John Dryden
+Don't compromise yourself. You are all you've got.
+- Janis Joplin
 
-Updated on: [1/23/2023]
+Updated on: [1/24/2023]
 <!-- #quoteEnd -->
 </pre>
