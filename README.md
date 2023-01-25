@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't compromise yourself. You are all you've got.
-- Janis Joplin
+The journey of a thousand miles begins with one step.
+- Laozi
 
-Updated on: [1/24/2023]
+Updated on: [1/25/2023]
 <!-- #quoteEnd -->
 </pre>
