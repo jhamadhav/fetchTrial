@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The journey of a thousand miles begins with one step.
-- Laozi
+Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+- Johann Wolfgang von Goethe
 
-Updated on: [1/25/2023]
+Updated on: [1/26/2023]
 <!-- #quoteEnd -->
 </pre>
