@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
-- Johann Wolfgang von Goethe
+Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+- Horace
 
-Updated on: [1/26/2023]
+Updated on: [1/27/2023]
 <!-- #quoteEnd -->
 </pre>
