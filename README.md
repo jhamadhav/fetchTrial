@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
-- Horace
+One today is worth two tomorrows.
+- Benjamin Franklin
 
-Updated on: [1/27/2023]
+Updated on: [1/28/2023]
 <!-- #quoteEnd -->
 </pre>
