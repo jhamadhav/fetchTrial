@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
-- Nora Roberts
+Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+- Robert F. Kennedy
 
-Updated on: [1/29/2023]
+Updated on: [1/30/2023]
 <!-- #quoteEnd -->
 </pre>
