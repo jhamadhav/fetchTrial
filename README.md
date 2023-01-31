@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
-- Robert F. Kennedy
+There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+- Benjamin Haydon
 
-Updated on: [1/30/2023]
+Updated on: [1/31/2023]
 <!-- #quoteEnd -->
 </pre>
