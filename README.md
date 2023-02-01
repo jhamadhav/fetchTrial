@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There surely is in human nature an inherent propensity to extract all the good out of all the evil.
-- Benjamin Haydon
+Courage is going from failure to failure without losing enthusiasm.
+- Winston Churchill
 
-Updated on: [1/31/2023]
+Updated on: [2/1/2023]
 <!-- #quoteEnd -->
 </pre>
