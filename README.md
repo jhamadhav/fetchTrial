@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Courage is going from failure to failure without losing enthusiasm.
-- Winston Churchill
+Every man is a volume if you know how to read him.
+- William Ellery Channing
 
-Updated on: [2/1/2023]
+Updated on: [2/2/2023]
 <!-- #quoteEnd -->
 </pre>
