@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every man is a volume if you know how to read him.
-- William Ellery Channing
+The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+- Walter Benjamin
 
-Updated on: [2/2/2023]
+Updated on: [2/3/2023]
 <!-- #quoteEnd -->
 </pre>
