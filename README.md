@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
-- Walter Benjamin
+I love wisdom. And you can never be great at anything unless you love it. Not be in love with it, but love the thing, admire the thing. And it seems that if you love the thing, and you don't just want to possess it, it will find you.
+- Maya Angelou
 
-Updated on: [2/3/2023]
+Updated on: [2/4/2023]
 <!-- #quoteEnd -->
 </pre>
