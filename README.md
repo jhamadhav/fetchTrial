@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Just because something doesn't do what you planned it to do doesn't mean it's useless.
-- Thomas Edison
+Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+- Dalai Lama
 
-Updated on: [2/5/2023]
+Updated on: [2/6/2023]
 <!-- #quoteEnd -->
 </pre>
