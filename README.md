@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love and compassion open our own inner life, reducing stress, distrust and loneliness.
-- Dalai Lama
+Loss is nothing else but change, and change is Nature's delight.
+- Marcus Aurelius
 
-Updated on: [2/6/2023]
+Updated on: [2/7/2023]
 <!-- #quoteEnd -->
 </pre>
