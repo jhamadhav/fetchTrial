@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Loss is nothing else but change, and change is Nature's delight.
-- Marcus Aurelius
+Every man is a volume if you know how to read him.
+- William Ellery Channing
 
-Updated on: [2/7/2023]
+Updated on: [2/8/2023]
 <!-- #quoteEnd -->
 </pre>
