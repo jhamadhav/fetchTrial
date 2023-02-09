@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every man is a volume if you know how to read him.
-- William Ellery Channing
+There is only one success: to be able to spend your life in your own way.
+- Christopher Morley
 
-Updated on: [2/8/2023]
+Updated on: [2/9/2023]
 <!-- #quoteEnd -->
 </pre>
