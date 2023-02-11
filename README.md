@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
-- Ralph Waldo Emerson
+To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+- Confucius
 
-Updated on: [2/10/2023]
+Updated on: [2/11/2023]
 <!-- #quoteEnd -->
 </pre>
