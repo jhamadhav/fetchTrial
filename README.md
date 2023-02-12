@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
-- Confucius
+The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+- Helen Keller
 
-Updated on: [2/11/2023]
+Updated on: [2/12/2023]
 <!-- #quoteEnd -->
 </pre>
