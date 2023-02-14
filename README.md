@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You win the victory when you yield to friends.
-- Sophocles
+Knowledge is of no value unless you put it into practice.
+- Anton Chekhov
 
-Updated on: [2/13/2023]
+Updated on: [2/14/2023]
 <!-- #quoteEnd -->
 </pre>
