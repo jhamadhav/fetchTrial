@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The young man knows the rules, but the old man knows the exceptions.
-- Oliver Wendell Holmes Jr.
+You might well remember that nothing can bring you success but yourself.
+- Napoleon Hill
 
-Updated on: [2/17/2023]
+Updated on: [2/18/2023]
 <!-- #quoteEnd -->
 </pre>
