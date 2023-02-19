@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You might well remember that nothing can bring you success but yourself.
-- Napoleon Hill
+You need chaos in your soul to give birth to a dancing star.
+- Friedrich Nietzsche
 
-Updated on: [2/18/2023]
+Updated on: [2/19/2023]
 <!-- #quoteEnd -->
 </pre>
