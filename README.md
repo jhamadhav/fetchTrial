@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You need chaos in your soul to give birth to a dancing star.
-- Friedrich Nietzsche
+Friends show their love in times of trouble, not in happiness.
+- Euripides
 
-Updated on: [2/19/2023]
+Updated on: [2/20/2023]
 <!-- #quoteEnd -->
 </pre>
