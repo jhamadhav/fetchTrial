@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friends show their love in times of trouble, not in happiness.
-- Euripides
+Love all, trust a few, do wrong to none.
+- William Shakespeare
 
-Updated on: [2/20/2023]
+Updated on: [2/21/2023]
 <!-- #quoteEnd -->
 </pre>
