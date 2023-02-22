@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love all, trust a few, do wrong to none.
-- William Shakespeare
+If you aren't going all the way, why go at all?
+- Joe Namath
 
-Updated on: [2/21/2023]
+Updated on: [2/22/2023]
 <!-- #quoteEnd -->
 </pre>
