@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
-- John Lennon
+The friendship that can cease has never been real.
+- Jerome
 
-Updated on: [2/24/2023]
+Updated on: [2/25/2023]
 <!-- #quoteEnd -->
 </pre>
