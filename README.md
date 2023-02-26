@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The friendship that can cease has never been real.
-- Jerome
+Where there is great love, there are always miracles.
+- Willa Cather
 
-Updated on: [2/25/2023]
+Updated on: [2/26/2023]
 <!-- #quoteEnd -->
 </pre>
