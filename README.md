@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
-- Gloria Steinem
+The best way to pay for a lovely moment is to enjoy it.
+- Richard Bach
 
-Updated on: [2/27/2023]
+Updated on: [2/28/2023]
 <!-- #quoteEnd -->
 </pre>
