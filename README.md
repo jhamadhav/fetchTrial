@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The pain passes, but the beauty remains.
-- Pierre-Auguste Renoir
+The key is to keep company only with people who uplift you, whose presence calls forth your best.
+- Epictetus
 
-Updated on: [3/1/2023]
+Updated on: [3/2/2023]
 <!-- #quoteEnd -->
 </pre>
