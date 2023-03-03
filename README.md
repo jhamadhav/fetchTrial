@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The key is to keep company only with people who uplift you, whose presence calls forth your best.
-- Epictetus
+Love is a friendship set to music.
+- Joseph Campbell
 
-Updated on: [3/2/2023]
+Updated on: [3/3/2023]
 <!-- #quoteEnd -->
 </pre>
