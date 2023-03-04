@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love is a friendship set to music.
-- Joseph Campbell
+Life is not a problem to be solved, but a reality to be experienced.
+- Søren Kierkegaard
 
-Updated on: [3/3/2023]
+Updated on: [3/4/2023]
 <!-- #quoteEnd -->
 </pre>
