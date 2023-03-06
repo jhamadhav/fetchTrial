@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He who talks more is sooner exhausted.
-- Laozi
+The most certain sign of wisdom is cheerfulness.
+- Michel de Montaigne
 
-Updated on: [3/5/2023]
+Updated on: [3/6/2023]
 <!-- #quoteEnd -->
 </pre>
