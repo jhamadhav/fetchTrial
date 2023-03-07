@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The most certain sign of wisdom is cheerfulness.
-- Michel de Montaigne
+One loyal friend is worth ten thousand relatives.
+- Euripides
 
-Updated on: [3/6/2023]
+Updated on: [3/7/2023]
 <!-- #quoteEnd -->
 </pre>
