@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-One loyal friend is worth ten thousand relatives.
-- Euripides
+The man who trusts men will make fewer mistakes than he who distrusts them.
+- Camillo Benso, Count of Cavour
 
-Updated on: [3/7/2023]
+Updated on: [3/8/2023]
 <!-- #quoteEnd -->
 </pre>
