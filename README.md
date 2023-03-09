@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The man who trusts men will make fewer mistakes than he who distrusts them.
-- Camillo Benso, Count of Cavour
+If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+- Anne Bradstreet
 
-Updated on: [3/8/2023]
+Updated on: [3/9/2023]
 <!-- #quoteEnd -->
 </pre>
