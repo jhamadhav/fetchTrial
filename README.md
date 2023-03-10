@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
-- Anne Bradstreet
+Peace comes from within. Do not seek it without.
+- Buddha
 
-Updated on: [3/9/2023]
+Updated on: [3/10/2023]
 <!-- #quoteEnd -->
 </pre>
