@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Peace comes from within. Do not seek it without.
-- Buddha
+Imagination is the highest kite one can fly.
+- Lauren Bacall
 
-Updated on: [3/10/2023]
+Updated on: [3/11/2023]
 <!-- #quoteEnd -->
 </pre>
