@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Imagination is the highest kite one can fly.
-- Lauren Bacall
+The only way to prove that you're a good sport is to lose.
+- Ernie Banks
 
-Updated on: [3/11/2023]
+Updated on: [3/12/2023]
 <!-- #quoteEnd -->
 </pre>
