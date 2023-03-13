@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only way to prove that you're a good sport is to lose.
-- Ernie Banks
+You can't cross the sea merely by standing and staring at the water.
+- Rabindranath Tagore
 
-Updated on: [3/12/2023]
+Updated on: [3/13/2023]
 <!-- #quoteEnd -->
 </pre>
