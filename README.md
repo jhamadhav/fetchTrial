@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can't cross the sea merely by standing and staring at the water.
-- Rabindranath Tagore
+Success is getting what you want. Happiness is wanting what you get.
+- Dale Carnegie
 
-Updated on: [3/13/2023]
+Updated on: [3/14/2023]
 <!-- #quoteEnd -->
 </pre>
