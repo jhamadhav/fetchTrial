@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Success is getting what you want. Happiness is wanting what you get.
-- Dale Carnegie
+Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+- Jane Addams
 
-Updated on: [3/14/2023]
+Updated on: [3/15/2023]
 <!-- #quoteEnd -->
 </pre>
