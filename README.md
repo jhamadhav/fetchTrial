@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
-- Jane Addams
+The language of friendship is not words but meanings.
+- Henry David Thoreau
 
-Updated on: [3/15/2023]
+Updated on: [3/16/2023]
 <!-- #quoteEnd -->
 </pre>
