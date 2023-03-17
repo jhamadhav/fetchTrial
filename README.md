@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The language of friendship is not words but meanings.
-- Henry David Thoreau
+I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+- Mia Hamm
 
-Updated on: [3/16/2023]
+Updated on: [3/17/2023]
 <!-- #quoteEnd -->
 </pre>
