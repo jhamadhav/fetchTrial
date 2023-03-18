@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
-- Mia Hamm
+The greatest remedy for anger is delay.
+- Seneca the Younger
 
-Updated on: [3/17/2023]
+Updated on: [3/18/2023]
 <!-- #quoteEnd -->
 </pre>
