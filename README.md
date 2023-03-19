@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The greatest remedy for anger is delay.
-- Seneca the Younger
+The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+- Richard Bach
 
-Updated on: [3/18/2023]
+Updated on: [3/19/2023]
 <!-- #quoteEnd -->
 </pre>
