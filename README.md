@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Do you know what my favorite part of the game is? The opportunity to play.
-- Mike Singletary (basketball)
+Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
+- Morihei Ueshiba
 
-Updated on: [3/21/2023]
+Updated on: [3/22/2023]
 <!-- #quoteEnd -->
 </pre>
