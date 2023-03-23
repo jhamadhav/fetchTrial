@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
-- Morihei Ueshiba
+The amount of happiness that you have depends on the amount of freedom you have in your heart.
+- Thích Nhất Hạnh
 
-Updated on: [3/22/2023]
+Updated on: [3/23/2023]
 <!-- #quoteEnd -->
 </pre>
