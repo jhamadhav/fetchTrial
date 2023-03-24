@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The amount of happiness that you have depends on the amount of freedom you have in your heart.
-- Thích Nhất Hạnh
+The secret of getting ahead is getting started.
+- Mark Twain
 
-Updated on: [3/23/2023]
+Updated on: [3/24/2023]
 <!-- #quoteEnd -->
 </pre>
