@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The secret of getting ahead is getting started.
-- Mark Twain
+Be kind whenever possible. It is always possible.
+- Dalai Lama
 
-Updated on: [3/24/2023]
+Updated on: [3/25/2023]
 <!-- #quoteEnd -->
 </pre>
