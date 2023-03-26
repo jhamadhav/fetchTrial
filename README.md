@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be kind whenever possible. It is always possible.
-- Dalai Lama
+There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+- Plato
 
-Updated on: [3/25/2023]
+Updated on: [3/26/2023]
 <!-- #quoteEnd -->
 </pre>
