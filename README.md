@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
-- Plato
+Friendship increases in visiting friends, but in visiting them seldom.
+- Francis Bacon
 
-Updated on: [3/26/2023]
+Updated on: [3/27/2023]
 <!-- #quoteEnd -->
 </pre>
