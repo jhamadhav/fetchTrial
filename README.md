@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship increases in visiting friends, but in visiting them seldom.
-- Francis Bacon
+I will prepare and someday my chance will come.
+- Abraham Lincoln
 
-Updated on: [3/27/2023]
+Updated on: [3/28/2023]
 <!-- #quoteEnd -->
 </pre>
