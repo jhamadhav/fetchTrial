@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The biggest room in the world is room for improvement.
-- Helmut Schmidt
+Most people never run far enough on their first wind to find out they've got a second.
+- William James
 
-Updated on: [3/29/2023]
+Updated on: [3/30/2023]
 <!-- #quoteEnd -->
 </pre>
