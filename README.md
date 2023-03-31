@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Most people never run far enough on their first wind to find out they've got a second.
-- William James
+The foot feels the foot when it feels the ground.
+- Buddha
 
-Updated on: [3/30/2023]
+Updated on: [3/31/2023]
 <!-- #quoteEnd -->
 </pre>
