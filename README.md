@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The foot feels the foot when it feels the ground.
-- Buddha
+Commitment is an act, not a word.
+- Jean-Paul Sartre
 
-Updated on: [3/31/2023]
+Updated on: [4/1/2023]
 <!-- #quoteEnd -->
 </pre>
