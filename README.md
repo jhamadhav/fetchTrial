@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Commitment is an act, not a word.
-- Jean-Paul Sartre
+If the stars should appear but one night every thousand years how man would marvel and adore.
+- Ralph Waldo Emerson
 
-Updated on: [4/1/2023]
+Updated on: [4/2/2023]
 <!-- #quoteEnd -->
 </pre>
