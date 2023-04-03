@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If the stars should appear but one night every thousand years how man would marvel and adore.
+Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
 - Ralph Waldo Emerson
 
-Updated on: [4/2/2023]
+Updated on: [4/3/2023]
 <!-- #quoteEnd -->
 </pre>
