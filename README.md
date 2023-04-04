@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
-- Ralph Waldo Emerson
+Think as a wise man but communicate in the language of the people.
+- William Butler Yeats
 
-Updated on: [4/3/2023]
+Updated on: [4/4/2023]
 <!-- #quoteEnd -->
 </pre>
