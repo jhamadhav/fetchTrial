@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Think as a wise man but communicate in the language of the people.
-- William Butler Yeats
+How is it possible to find meaning in a finite world, given my waist and shirt size?
+- Woody Allen
 
-Updated on: [4/4/2023]
+Updated on: [4/5/2023]
 <!-- #quoteEnd -->
 </pre>
