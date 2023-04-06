@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-How is it possible to find meaning in a finite world, given my waist and shirt size?
-- Woody Allen
+When you realize there is nothing lacking, the whole world belongs to you.
+- Laozi
 
-Updated on: [4/5/2023]
+Updated on: [4/6/2023]
 <!-- #quoteEnd -->
 </pre>
