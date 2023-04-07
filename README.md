@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When you realize there is nothing lacking, the whole world belongs to you.
-- Laozi
+Intuition will tell the thinking mind where to look next.
+- Jonas Salk
 
-Updated on: [4/6/2023]
+Updated on: [4/7/2023]
 <!-- #quoteEnd -->
 </pre>
