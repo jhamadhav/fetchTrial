@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Intuition will tell the thinking mind where to look next.
-- Jonas Salk
+Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
+- The Buddha
 
-Updated on: [4/7/2023]
+Updated on: [4/8/2023]
 <!-- #quoteEnd -->
 </pre>
