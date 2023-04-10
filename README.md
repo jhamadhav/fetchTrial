@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-One today is worth two tomorrows.
-- Benjamin Franklin
+You can always count on Americans to do the right thing - after they've tried everything else.
+- Winston Churchill
 
-Updated on: [4/9/2023]
+Updated on: [4/10/2023]
 <!-- #quoteEnd -->
 </pre>
