@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can always count on Americans to do the right thing - after they've tried everything else.
-- Winston Churchill
+Not all those who wander are lost.
+- J. R. R. Tolkien
 
-Updated on: [4/10/2023]
+Updated on: [4/11/2023]
 <!-- #quoteEnd -->
 </pre>
