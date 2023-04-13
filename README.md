@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
-- Epictetus
+'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+- The Buddha
 
-Updated on: [4/12/2023]
+Updated on: [4/13/2023]
 <!-- #quoteEnd -->
 </pre>
