@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
-- The Buddha
+Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+- Sophocles
 
-Updated on: [4/13/2023]
+Updated on: [4/14/2023]
 <!-- #quoteEnd -->
 </pre>
