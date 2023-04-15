@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
-- Sophocles
+To succeed, we must first believe that we can.
+- Michael Korda
 
-Updated on: [4/14/2023]
+Updated on: [4/15/2023]
 <!-- #quoteEnd -->
 </pre>
