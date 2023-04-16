@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To succeed, we must first believe that we can.
-- Michael Korda
+Once you label me you negate me.
+- Søren Kierkegaard
 
-Updated on: [4/15/2023]
+Updated on: [4/16/2023]
 <!-- #quoteEnd -->
 </pre>
