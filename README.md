@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Once you label me you negate me.
-- Søren Kierkegaard
+Beware of missing chances; otherwise it may be altogether too late someday.
+- Franz Liszt
 
-Updated on: [4/16/2023]
+Updated on: [4/17/2023]
 <!-- #quoteEnd -->
 </pre>
