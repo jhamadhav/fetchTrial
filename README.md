@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Beware of missing chances; otherwise it may be altogether too late someday.
-- Franz Liszt
+Ethics change with technology.
+- Larry Niven
 
-Updated on: [4/17/2023]
+Updated on: [4/18/2023]
 <!-- #quoteEnd -->
 </pre>
