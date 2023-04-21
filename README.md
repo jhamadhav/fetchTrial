@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In three words I can sum up everything I've learned about life: it goes on.
-- Robert Frost
+Don't settle for a relationship that won't let you be yourself.
+- Oprah Winfrey
 
-Updated on: [4/20/2023]
+Updated on: [4/21/2023]
 <!-- #quoteEnd -->
 </pre>
