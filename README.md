@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't settle for a relationship that won't let you be yourself.
-- Oprah Winfrey
+Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+- Bruce Lee
 
-Updated on: [4/21/2023]
+Updated on: [4/22/2023]
 <!-- #quoteEnd -->
 </pre>
