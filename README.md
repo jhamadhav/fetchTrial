@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
-- Bruce Lee
+There are many ways of going forward, but only one way of standing still.
+- Franklin D. Roosevelt
 
-Updated on: [4/22/2023]
+Updated on: [4/23/2023]
 <!-- #quoteEnd -->
 </pre>
