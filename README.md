@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In seed time learn, in harvest teach, in winter enjoy.
-- William Blake
+A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+- Fawn M. Brodie
 
-Updated on: [4/24/2023]
+Updated on: [4/25/2023]
 <!-- #quoteEnd -->
 </pre>
