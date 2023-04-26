@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
-- Fawn M. Brodie
+Trust your hunches. They're usually based on facts filed away just below the conscious level.
+- Joyce Brothers
 
-Updated on: [4/25/2023]
+Updated on: [4/26/2023]
 <!-- #quoteEnd -->
 </pre>
