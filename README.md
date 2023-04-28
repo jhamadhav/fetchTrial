@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
-- John Astin
+Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
+- Margaret Mead
 
-Updated on: [4/27/2023]
+Updated on: [4/28/2023]
 <!-- #quoteEnd -->
 </pre>
