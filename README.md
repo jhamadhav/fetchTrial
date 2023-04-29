@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
-- Margaret Mead
+The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+- Oscar Wilde
 
-Updated on: [4/28/2023]
+Updated on: [4/29/2023]
 <!-- #quoteEnd -->
 </pre>
