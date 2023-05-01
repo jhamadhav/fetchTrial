@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Set your goals high, and don't stop till you get there.
-- Bo Jackson
+Positive thinking will let you do everything better than negative thinking will.
+- Zig Ziglar
 
-Updated on: [4/30/2023]
+Updated on: [5/1/2023]
 <!-- #quoteEnd -->
 </pre>
