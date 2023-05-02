@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Positive thinking will let you do everything better than negative thinking will.
-- Zig Ziglar
+It is not wisdom but Authority that makes a law.
+- Thomas Hobbes
 
-Updated on: [5/1/2023]
+Updated on: [5/2/2023]
 <!-- #quoteEnd -->
 </pre>
