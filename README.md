@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is not wisdom but Authority that makes a law.
-- Thomas Hobbes
+Coming together is a beginning; keeping together is progress; working together is success.
+- Edward Everett Hale
 
-Updated on: [5/2/2023]
+Updated on: [5/3/2023]
 <!-- #quoteEnd -->
 </pre>
