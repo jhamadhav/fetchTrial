@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Coming together is a beginning; keeping together is progress; working together is success.
-- Edward Everett Hale
+Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+- Benjamin Franklin
 
-Updated on: [5/3/2023]
+Updated on: [5/4/2023]
 <!-- #quoteEnd -->
 </pre>
