@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Dost thou love life? Then do not squander time, for that is the stuff life is made of.
-- Benjamin Franklin
+The heart has its reasons which reason knows not of.
+- Blaise Pascal
 
-Updated on: [5/4/2023]
+Updated on: [5/5/2023]
 <!-- #quoteEnd -->
 </pre>
