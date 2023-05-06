@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The heart has its reasons which reason knows not of.
-- Blaise Pascal
+God has given you one face, and you make yourself another.
+- William Shakespeare
 
-Updated on: [5/5/2023]
+Updated on: [5/6/2023]
 <!-- #quoteEnd -->
 </pre>
