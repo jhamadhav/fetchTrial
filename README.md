@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you do not change direction, you may end up where you are heading.
-- Laozi
+If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
+- Elon Musk
 
-Updated on: [5/10/2023]
+Updated on: [5/11/2023]
 <!-- #quoteEnd -->
 </pre>
