@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
-- Audrey Hepburn
+If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+- Pema Chödrön
 
-Updated on: [5/12/2023]
+Updated on: [5/13/2023]
 <!-- #quoteEnd -->
 </pre>
