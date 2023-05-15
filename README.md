@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship without self-interest is one of the rare and beautiful things of life.
-- James F. Byrnes
+If we did the things we are capable of, we would astound ourselves.
+- Thomas Edison
 
-Updated on: [5/14/2023]
+Updated on: [5/15/2023]
 <!-- #quoteEnd -->
 </pre>
