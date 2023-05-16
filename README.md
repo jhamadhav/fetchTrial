@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If we did the things we are capable of, we would astound ourselves.
-- Thomas Edison
+The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+- John Burroughs
 
-Updated on: [5/15/2023]
+Updated on: [5/16/2023]
 <!-- #quoteEnd -->
 </pre>
