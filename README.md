@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
-- John Burroughs
+Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged.
+- Ben Fountain
 
-Updated on: [5/16/2023]
+Updated on: [5/17/2023]
 <!-- #quoteEnd -->
 </pre>
