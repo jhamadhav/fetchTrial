@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It's important to know that words don't move mountains. Work, exacting work moves mountains.
-- Danilo Dolci
+You can observe a lot just by watching.
+- Yogi Berra
 
-Updated on: [5/19/2023]
+Updated on: [5/20/2023]
 <!-- #quoteEnd -->
 </pre>
