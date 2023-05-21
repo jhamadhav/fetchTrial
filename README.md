@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can observe a lot just by watching.
-- Yogi Berra
+He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+- Tryon Edwards
 
-Updated on: [5/20/2023]
+Updated on: [5/21/2023]
 <!-- #quoteEnd -->
 </pre>
