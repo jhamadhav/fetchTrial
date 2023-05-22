@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
-- Tryon Edwards
+A man's growth is seen in the successive choirs of his friends
+- Ralph Waldo Emerson
 
-Updated on: [5/21/2023]
+Updated on: [5/22/2023]
 <!-- #quoteEnd -->
 </pre>
