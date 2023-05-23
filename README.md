@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A man's growth is seen in the successive choirs of his friends
-- Ralph Waldo Emerson
+Ideals are an imaginative understanding of that which is desirable in that which is possible.
+- Walter Lippmann
 
-Updated on: [5/22/2023]
+Updated on: [5/23/2023]
 <!-- #quoteEnd -->
 </pre>
