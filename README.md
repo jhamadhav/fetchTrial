@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Ideals are an imaginative understanding of that which is desirable in that which is possible.
-- Walter Lippmann
+Everything you are against weakens you. Everything you are for empowers you.
+- Wayne Dyer
 
-Updated on: [5/23/2023]
+Updated on: [5/24/2023]
 <!-- #quoteEnd -->
 </pre>
