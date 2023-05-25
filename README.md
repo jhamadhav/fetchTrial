@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everything you are against weakens you. Everything you are for empowers you.
-- Wayne Dyer
+The fox has many tricks. The hedgehog has but one. But that is the best of all.
+- Erasmus
 
-Updated on: [5/24/2023]
+Updated on: [5/25/2023]
 <!-- #quoteEnd -->
 </pre>
