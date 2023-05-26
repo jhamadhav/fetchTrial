@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The fox has many tricks. The hedgehog has but one. But that is the best of all.
-- Erasmus
+It is not wisdom but Authority that makes a law.
+- Thomas Hobbes
 
-Updated on: [5/25/2023]
+Updated on: [5/26/2023]
 <!-- #quoteEnd -->
 </pre>
