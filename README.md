@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is not wisdom but Authority that makes a law.
-- Thomas Hobbes
+There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+- Dalai Lama
 
-Updated on: [5/26/2023]
+Updated on: [5/27/2023]
 <!-- #quoteEnd -->
 </pre>
