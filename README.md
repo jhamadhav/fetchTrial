@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
-- Dalai Lama
+It's supposed to be automatic, but actually you have to push this button.
+- John Brunner
 
-Updated on: [5/27/2023]
+Updated on: [5/28/2023]
 <!-- #quoteEnd -->
 </pre>
