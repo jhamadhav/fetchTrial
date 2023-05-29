@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It's supposed to be automatic, but actually you have to push this button.
-- John Brunner
+Always seek out the seed of triumph in every adversity.
+- Og Mandino
 
-Updated on: [5/28/2023]
+Updated on: [5/29/2023]
 <!-- #quoteEnd -->
 </pre>
