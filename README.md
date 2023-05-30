@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always seek out the seed of triumph in every adversity.
-- Og Mandino
+Courage is going from failure to failure without losing enthusiasm.
+- Winston Churchill
 
-Updated on: [5/29/2023]
+Updated on: [5/30/2023]
 <!-- #quoteEnd -->
 </pre>
