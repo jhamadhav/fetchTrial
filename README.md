@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Real magic in relationships means an absence of judgement of others.
-- Wayne Dyer
+Decision is a risk rooted in the courage of being free.
+- Paul Tillich
 
-Updated on: [5/31/2023]
+Updated on: [6/1/2023]
 <!-- #quoteEnd -->
 </pre>
