@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
-- John F. Kennedy
+Love is the only force capable of transforming an enemy into a friend.
+- Martin Luther King Jr.
 
-Updated on: [6/6/2023]
+Updated on: [6/7/2023]
 <!-- #quoteEnd -->
 </pre>
