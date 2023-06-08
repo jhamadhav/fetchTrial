@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love is the only force capable of transforming an enemy into a friend.
-- Martin Luther King Jr.
+No valid plans for the future can be made by those who have no capacity for living now.
+- Alan Watts
 
-Updated on: [6/7/2023]
+Updated on: [6/8/2023]
 <!-- #quoteEnd -->
 </pre>
