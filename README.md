@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No valid plans for the future can be made by those who have no capacity for living now.
-- Alan Watts
+Wise men speak because they have something to say; Fools because they have to say something.
+- Plato
 
-Updated on: [6/8/2023]
+Updated on: [6/9/2023]
 <!-- #quoteEnd -->
 </pre>
