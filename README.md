@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wise men speak because they have something to say; Fools because they have to say something.
-- Plato
+What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+- Sai Baba
 
-Updated on: [6/9/2023]
+Updated on: [6/10/2023]
 <!-- #quoteEnd -->
 </pre>
