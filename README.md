@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
-- Sai Baba
+To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
+- The Buddha
 
-Updated on: [6/10/2023]
+Updated on: [6/11/2023]
 <!-- #quoteEnd -->
 </pre>
