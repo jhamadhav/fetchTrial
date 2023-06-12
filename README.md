@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing.
-- The Buddha
+The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+- Henry David Thoreau
 
-Updated on: [6/11/2023]
+Updated on: [6/12/2023]
 <!-- #quoteEnd -->
 </pre>
