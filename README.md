@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
-- Henry David Thoreau
+Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+- Henry Reed
 
-Updated on: [6/12/2023]
+Updated on: [6/13/2023]
 <!-- #quoteEnd -->
 </pre>
