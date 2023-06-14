@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
-- Henry Reed
+Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
+- Albert Einstein
 
-Updated on: [6/13/2023]
+Updated on: [6/14/2023]
 <!-- #quoteEnd -->
 </pre>
