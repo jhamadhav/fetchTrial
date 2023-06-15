@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
-- Albert Einstein
+Be sure you put your feet in the right place, then stand firm.
+- Abraham Lincoln
 
-Updated on: [6/14/2023]
+Updated on: [6/15/2023]
 <!-- #quoteEnd -->
 </pre>
