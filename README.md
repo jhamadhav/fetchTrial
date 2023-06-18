@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
-- Peter Abelard
+Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+- Friedrich Nietzsche
 
-Updated on: [6/17/2023]
+Updated on: [6/18/2023]
 <!-- #quoteEnd -->
 </pre>
