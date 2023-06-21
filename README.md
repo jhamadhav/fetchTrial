@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-O, what a tangled web we weave when first we practice to deceive!
-- Walter Scott
+Action is eloquence.
+- William Shakespeare
 
-Updated on: [6/20/2023]
+Updated on: [6/21/2023]
 <!-- #quoteEnd -->
 </pre>
