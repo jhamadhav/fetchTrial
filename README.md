@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
-- Eckhart Tolle
+A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+- François de La Rochefoucauld
 
-Updated on: [6/22/2023]
+Updated on: [6/23/2023]
 <!-- #quoteEnd -->
 </pre>
