@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
-- François de La Rochefoucauld
+Technology has to be invented or adopted.
+- Jared Diamond
 
-Updated on: [6/23/2023]
+Updated on: [6/24/2023]
 <!-- #quoteEnd -->
 </pre>
