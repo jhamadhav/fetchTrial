@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technology has to be invented or adopted.
-- Jared Diamond
+Friendship is like money, easier made than kept.
+- Samuel Butler
 
-Updated on: [6/24/2023]
+Updated on: [6/25/2023]
 <!-- #quoteEnd -->
 </pre>
