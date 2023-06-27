@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A lie gets halfway around the world before the truth has a chance to get its pants on.
-- Winston Churchill
+It is a characteristic of wisdom not to do desperate things.
+- Henry David Thoreau
 
-Updated on: [6/26/2023]
+Updated on: [6/27/2023]
 <!-- #quoteEnd -->
 </pre>
