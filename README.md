@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is a characteristic of wisdom not to do desperate things.
-- Henry David Thoreau
+Don't compromise yourself. You are all you've got.
+- Janis Joplin
 
-Updated on: [6/27/2023]
+Updated on: [6/28/2023]
 <!-- #quoteEnd -->
 </pre>
