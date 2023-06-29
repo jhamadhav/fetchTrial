@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't compromise yourself. You are all you've got.
-- Janis Joplin
+For everything that lives is holy, life delights in life.
+- William Blake
 
-Updated on: [6/28/2023]
+Updated on: [6/29/2023]
 <!-- #quoteEnd -->
 </pre>
