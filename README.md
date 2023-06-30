@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-For everything that lives is holy, life delights in life.
-- William Blake
+It isn't where you come from, it's where you're going that counts.
+- Ella Fitzgerald
 
-Updated on: [6/29/2023]
+Updated on: [6/30/2023]
 <!-- #quoteEnd -->
 </pre>
