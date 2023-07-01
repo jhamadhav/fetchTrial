@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It isn't where you come from, it's where you're going that counts.
-- Ella Fitzgerald
+Follow your instincts. That is where true wisdom manifests itself.
+- Oprah Winfrey
 
-Updated on: [6/30/2023]
+Updated on: [7/1/2023]
 <!-- #quoteEnd -->
 </pre>
