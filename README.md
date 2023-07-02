@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Follow your instincts. That is where true wisdom manifests itself.
-- Oprah Winfrey
+Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+- Billy Wilder
 
-Updated on: [7/1/2023]
+Updated on: [7/2/2023]
 <!-- #quoteEnd -->
 </pre>
