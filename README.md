@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
-- Billy Wilder
+In all things of nature there is something of the marvelous.
+- Aristotle
 
-Updated on: [7/2/2023]
+Updated on: [7/3/2023]
 <!-- #quoteEnd -->
 </pre>
