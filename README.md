@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In all things of nature there is something of the marvelous.
-- Aristotle
+Watch the little things; a small leak will sink a great ship.
+- Benjamin Franklin
 
-Updated on: [7/3/2023]
+Updated on: [7/4/2023]
 <!-- #quoteEnd -->
 </pre>
