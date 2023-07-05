@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Watch the little things; a small leak will sink a great ship.
-- Benjamin Franklin
+The best way to predict your future is to create it.
+- Peter Drucker
 
-Updated on: [7/4/2023]
+Updated on: [7/5/2023]
 <!-- #quoteEnd -->
 </pre>
