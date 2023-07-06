@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The best way to predict your future is to create it.
-- Peter Drucker
+It's so simple to be wise. Just think of something stupid to say and then don't say it.
+- Sam Levenson
 
-Updated on: [7/5/2023]
+Updated on: [7/6/2023]
 <!-- #quoteEnd -->
 </pre>
