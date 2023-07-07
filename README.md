@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It's so simple to be wise. Just think of something stupid to say and then don't say it.
-- Sam Levenson
+You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
+- Caroline Myss
 
-Updated on: [7/6/2023]
+Updated on: [7/7/2023]
 <!-- #quoteEnd -->
 </pre>
