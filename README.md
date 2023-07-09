@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Time stays long enough for anyone who will use it.
-- Leonardo da Vinci
+The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+- Charles Du Bos
 
-Updated on: [7/8/2023]
+Updated on: [7/9/2023]
 <!-- #quoteEnd -->
 </pre>
