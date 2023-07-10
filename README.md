@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
-- Charles Du Bos
+Cunning... is but the low mimic of wisdom.
+- Plato
 
-Updated on: [7/9/2023]
+Updated on: [7/10/2023]
 <!-- #quoteEnd -->
 </pre>
