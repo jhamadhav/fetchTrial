@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Cunning... is but the low mimic of wisdom.
-- Plato
+Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+- Mother Teresa
 
-Updated on: [7/10/2023]
+Updated on: [7/11/2023]
 <!-- #quoteEnd -->
 </pre>
