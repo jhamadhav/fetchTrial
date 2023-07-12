@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
-- Mother Teresa
+The universe is made of stories, not atoms.
+- Muriel Rukeyser
 
-Updated on: [7/11/2023]
+Updated on: [7/12/2023]
 <!-- #quoteEnd -->
 </pre>
