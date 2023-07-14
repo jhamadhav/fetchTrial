@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The ultimate promise of technology is to make us master of a world that we command by the push of a button.
-- Volker Grassmuck
+Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+- Jane Addams
 
-Updated on: [7/13/2023]
+Updated on: [7/14/2023]
 <!-- #quoteEnd -->
 </pre>
