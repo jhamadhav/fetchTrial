@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Without hard work, nothing grows but weeds.
-- Gordon Hinckley
+Our work is the presentation of our capabilities.
+- Edward Gibbon
 
-Updated on: [7/15/2023]
+Updated on: [7/16/2023]
 <!-- #quoteEnd -->
 </pre>
