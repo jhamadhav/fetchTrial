@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always keep an open mind and a compassionate heart.
-- Phil Jackson
+Commitment is an act, not a word.
+- Jean-Paul Sartre
 
-Updated on: [7/17/2023]
+Updated on: [7/18/2023]
 <!-- #quoteEnd -->
 </pre>
