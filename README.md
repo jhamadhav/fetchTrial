@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Commitment is an act, not a word.
-- Jean-Paul Sartre
+You really can change the world if you care enough.
+- Marian Wright Edelman
 
-Updated on: [7/18/2023]
+Updated on: [7/19/2023]
 <!-- #quoteEnd -->
 </pre>
