@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You were not born a winner, and you were not born a loser. You are what you make yourself be.
-- Lou Holtz
+Let the beauty of what you love be what you do.
+- Rumi
 
-Updated on: [7/20/2023]
+Updated on: [7/21/2023]
 <!-- #quoteEnd -->
 </pre>
