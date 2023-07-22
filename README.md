@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Let the beauty of what you love be what you do.
-- Rumi
+The supreme art of war is to subdue the enemy without fighting.
+- Sun Tzu
 
-Updated on: [7/21/2023]
+Updated on: [7/22/2023]
 <!-- #quoteEnd -->
 </pre>
