@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The supreme art of war is to subdue the enemy without fighting.
-- Sun Tzu
+To improve is to change; to be perfect is to change often.
+- Winston Churchill
 
-Updated on: [7/22/2023]
+Updated on: [7/23/2023]
 <!-- #quoteEnd -->
 </pre>
