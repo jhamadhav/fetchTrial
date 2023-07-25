@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
-- Wayne Dyer
+With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+- Amber Valletta
 
-Updated on: [7/24/2023]
+Updated on: [7/25/2023]
 <!-- #quoteEnd -->
 </pre>
