@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
-- Amber Valletta
+Even if you're on the right track, you'll get run over if you just sit there.
+- Will Rogers
 
-Updated on: [7/25/2023]
+Updated on: [7/26/2023]
 <!-- #quoteEnd -->
 </pre>
