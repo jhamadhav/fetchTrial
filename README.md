@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Even if you're on the right track, you'll get run over if you just sit there.
-- Will Rogers
+Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+- Henry van Dyke Jr.
 
-Updated on: [7/26/2023]
+Updated on: [7/27/2023]
 <!-- #quoteEnd -->
 </pre>
