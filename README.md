@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
-- Henry van Dyke Jr.
+Don't judge each day by the harvest you reap but by the seeds that you plant.
+- Robert Louis Stevenson
 
-Updated on: [7/27/2023]
+Updated on: [7/28/2023]
 <!-- #quoteEnd -->
 </pre>
