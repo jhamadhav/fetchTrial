@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Don't judge each day by the harvest you reap but by the seeds that you plant.
-- Robert Louis Stevenson
+The only person who never makes mistakes is the person who never does anything.
+- Denis Waitley
 
-Updated on: [7/28/2023]
+Updated on: [7/29/2023]
 <!-- #quoteEnd -->
 </pre>
