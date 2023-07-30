@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only person who never makes mistakes is the person who never does anything.
-- Denis Waitley
+Watch the little things; a small leak will sink a great ship.
+- Benjamin Franklin
 
-Updated on: [7/29/2023]
+Updated on: [7/30/2023]
 <!-- #quoteEnd -->
 </pre>
