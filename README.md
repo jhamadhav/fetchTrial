@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Watch the little things; a small leak will sink a great ship.
-- Benjamin Franklin
+The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
+- Cicero
 
-Updated on: [7/30/2023]
+Updated on: [7/31/2023]
 <!-- #quoteEnd -->
 </pre>
