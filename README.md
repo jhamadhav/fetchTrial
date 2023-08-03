@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Time you enjoy wasting, was not wasted.
-- John Lennon
+All serious daring starts from within.
+- Harriet Beecher Stowe
 
-Updated on: [8/2/2023]
+Updated on: [8/3/2023]
 <!-- #quoteEnd -->
 </pre>
