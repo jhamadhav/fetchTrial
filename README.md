@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
-- Mary Pickford
+Joy is what happens to us when we allow ourselves to recognize how good things really are.
+- Marianne Williamson
 
-Updated on: [8/4/2023]
+Updated on: [8/5/2023]
 <!-- #quoteEnd -->
 </pre>
