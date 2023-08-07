@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you wish to be a writer, write.
-- Epictetus
+Always seek out the seed of triumph in every adversity.
+- Og Mandino
 
-Updated on: [8/6/2023]
+Updated on: [8/7/2023]
 <!-- #quoteEnd -->
 </pre>
