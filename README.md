@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always seek out the seed of triumph in every adversity.
-- Og Mandino
+The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+- Anaïs Nin
 
-Updated on: [8/7/2023]
+Updated on: [8/8/2023]
 <!-- #quoteEnd -->
 </pre>
