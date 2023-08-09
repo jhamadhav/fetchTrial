@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
-- Anaïs Nin
+All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+- The Buddha
 
-Updated on: [8/8/2023]
+Updated on: [8/9/2023]
 <!-- #quoteEnd -->
 </pre>
