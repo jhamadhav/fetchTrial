@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
-- The Buddha
+Imagination is more important than knowledge...
+- Albert Einstein
 
-Updated on: [8/9/2023]
+Updated on: [8/10/2023]
 <!-- #quoteEnd -->
 </pre>
