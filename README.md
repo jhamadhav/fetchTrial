@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
-- Dhammapada
+No party has a monopoly on wisdom. No democracy works without compromise.
+- Barack Obama
 
-Updated on: [8/11/2023]
+Updated on: [8/12/2023]
 <!-- #quoteEnd -->
 </pre>
