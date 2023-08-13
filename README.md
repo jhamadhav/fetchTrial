@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No party has a monopoly on wisdom. No democracy works without compromise.
-- Barack Obama
+Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+- Bernice Reagon
 
-Updated on: [8/12/2023]
+Updated on: [8/13/2023]
 <!-- #quoteEnd -->
 </pre>
