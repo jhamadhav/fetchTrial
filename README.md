@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
-- Bernice Reagon
+We have two ears and one mouth so that we can listen twice as much as we speak.
+- Epictetus
 
-Updated on: [8/13/2023]
+Updated on: [8/14/2023]
 <!-- #quoteEnd -->
 </pre>
