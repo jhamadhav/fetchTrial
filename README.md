@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We have two ears and one mouth so that we can listen twice as much as we speak.
-- Epictetus
+Happiness often sneaks in through a door you didn't know you left open.
+- John Barrymore
 
-Updated on: [8/14/2023]
+Updated on: [8/15/2023]
 <!-- #quoteEnd -->
 </pre>
