@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Happiness often sneaks in through a door you didn't know you left open.
-- John Barrymore
+Technology has to be invented or adopted.
+- Jared Diamond
 
-Updated on: [8/15/2023]
+Updated on: [8/16/2023]
 <!-- #quoteEnd -->
 </pre>
