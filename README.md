@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technology has to be invented or adopted.
-- Jared Diamond
+All this worldly wisdom was once the unamiable heresy of some wise man.
+- Henry David Thoreau
 
-Updated on: [8/16/2023]
+Updated on: [8/17/2023]
 <!-- #quoteEnd -->
 </pre>
