@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All this worldly wisdom was once the unamiable heresy of some wise man.
-- Henry David Thoreau
+Give whatever you are doing and whoever you are with the gift of your attention.
+- Jim Rohn
 
-Updated on: [8/17/2023]
+Updated on: [8/18/2023]
 <!-- #quoteEnd -->
 </pre>
