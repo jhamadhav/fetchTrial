@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
-- Leonardo da Vinci
+Much wisdom often goes with fewer words.
+- Sophocles
 
-Updated on: [8/20/2023]
+Updated on: [8/21/2023]
 <!-- #quoteEnd -->
 </pre>
