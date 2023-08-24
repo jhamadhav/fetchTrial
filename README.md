@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
-- The Buddha
+Wisdom consists of the anticipation of consequences.
+- Norman Cousins
 
-Updated on: [8/23/2023]
+Updated on: [8/24/2023]
 <!-- #quoteEnd -->
 </pre>
