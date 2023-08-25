@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom consists of the anticipation of consequences.
-- Norman Cousins
+Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+- Nikola Tesla
 
-Updated on: [8/24/2023]
+Updated on: [8/25/2023]
 <!-- #quoteEnd -->
 </pre>
