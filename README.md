@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Having nothing, nothing can he lose.
-- William Shakespeare
+Love doesn't make the world go round; love is what makes the ride worthwhile.
+- Elizabeth Browning
 
-Updated on: [8/26/2023]
+Updated on: [8/27/2023]
 <!-- #quoteEnd -->
 </pre>
