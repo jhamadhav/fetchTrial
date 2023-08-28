@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love doesn't make the world go round; love is what makes the ride worthwhile.
-- Elizabeth Browning
+Be faithful in small things because it is in them that your strength lies.
+- Mother Teresa
 
-Updated on: [8/27/2023]
+Updated on: [8/28/2023]
 <!-- #quoteEnd -->
 </pre>
