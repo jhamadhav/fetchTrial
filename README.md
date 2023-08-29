@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be faithful in small things because it is in them that your strength lies.
-- Mother Teresa
+You cannot find yourself by going into the past. You can find yourself by coming into the present.
+- Eckhart Tolle
 
-Updated on: [8/28/2023]
+Updated on: [8/29/2023]
 <!-- #quoteEnd -->
 </pre>
