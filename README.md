@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You cannot find yourself by going into the past. You can find yourself by coming into the present.
-- Eckhart Tolle
+Trouble is only opportunity in work clothes.
+- Henry J. Kaiser
 
-Updated on: [8/29/2023]
+Updated on: [8/30/2023]
 <!-- #quoteEnd -->
 </pre>
