@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Trouble is only opportunity in work clothes.
-- Henry J. Kaiser
+Better be wise by the misfortunes of others than by your own.
+- Aesop
 
-Updated on: [8/30/2023]
+Updated on: [8/31/2023]
 <!-- #quoteEnd -->
 </pre>
