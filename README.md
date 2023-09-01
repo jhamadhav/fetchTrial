@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Better be wise by the misfortunes of others than by your own.
-- Aesop
+The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
+- The Buddha
 
-Updated on: [8/31/2023]
+Updated on: [9/1/2023]
 <!-- #quoteEnd -->
 </pre>
