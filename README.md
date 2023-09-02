@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?
-- The Buddha
+If we open a quarrel between past and present, we shall find that we have lost the future.
+- Winston Churchill
 
-Updated on: [9/1/2023]
+Updated on: [9/2/2023]
 <!-- #quoteEnd -->
 </pre>
