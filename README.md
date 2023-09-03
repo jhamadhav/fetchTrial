@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If we open a quarrel between past and present, we shall find that we have lost the future.
-- Winston Churchill
+Where there is great love, there are always miracles.
+- Willa Cather
 
-Updated on: [9/2/2023]
+Updated on: [9/3/2023]
 <!-- #quoteEnd -->
 </pre>
