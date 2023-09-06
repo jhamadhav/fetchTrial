@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
-- Lucille Ball
+I'm not afraid of storms, for I'm learning how to sail my ship.
+- Louisa May Alcott
 
-Updated on: [9/5/2023]
+Updated on: [9/6/2023]
 <!-- #quoteEnd -->
 </pre>
