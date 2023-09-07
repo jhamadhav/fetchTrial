@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I'm not afraid of storms, for I'm learning how to sail my ship.
-- Louisa May Alcott
+Learning is finding out what you already know.
+- Richard Bach
 
-Updated on: [9/6/2023]
+Updated on: [9/7/2023]
 <!-- #quoteEnd -->
 </pre>
