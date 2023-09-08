@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Learning is finding out what you already know.
-- Richard Bach
+If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+- John Quincy Adams
 
-Updated on: [9/7/2023]
+Updated on: [9/8/2023]
 <!-- #quoteEnd -->
 </pre>
