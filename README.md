@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
-- John Quincy Adams
+Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+- Salman Rushdie
 
-Updated on: [9/8/2023]
+Updated on: [9/9/2023]
 <!-- #quoteEnd -->
 </pre>
