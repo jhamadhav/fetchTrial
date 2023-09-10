@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
-- Salman Rushdie
+Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+- Winston Churchill
 
-Updated on: [9/9/2023]
+Updated on: [9/10/2023]
 <!-- #quoteEnd -->
 </pre>
