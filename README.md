@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
-- Winston Churchill
+Music is a higher revelation than all wisdom and philosophy.
+- Ludwig van Beethoven
 
-Updated on: [9/10/2023]
+Updated on: [9/11/2023]
 <!-- #quoteEnd -->
 </pre>
