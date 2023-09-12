@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Music is a higher revelation than all wisdom and philosophy.
-- Ludwig van Beethoven
+Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+- Friedrich Nietzsche
 
-Updated on: [9/11/2023]
+Updated on: [9/12/2023]
 <!-- #quoteEnd -->
 </pre>
