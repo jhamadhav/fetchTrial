@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
-- Friedrich Nietzsche
+Once you choose hope, anything's possible.
+- Christopher Reeve
 
-Updated on: [9/12/2023]
+Updated on: [9/13/2023]
 <!-- #quoteEnd -->
 </pre>
