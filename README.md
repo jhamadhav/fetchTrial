@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Once you choose hope, anything's possible.
-- Christopher Reeve
+Be here now. Be someplace else later. Is that so complicated?
+- David Bader
 
-Updated on: [9/13/2023]
+Updated on: [9/14/2023]
 <!-- #quoteEnd -->
 </pre>
