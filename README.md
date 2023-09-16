@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
-- Paul Theroux
+Important principles may, and must, be inflexible.
+- Abraham Lincoln
 
-Updated on: [9/15/2023]
+Updated on: [9/16/2023]
 <!-- #quoteEnd -->
 </pre>
