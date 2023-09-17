@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Important principles may, and must, be inflexible.
-- Abraham Lincoln
+Well begun is half done.
+- Aristotle
 
-Updated on: [9/16/2023]
+Updated on: [9/17/2023]
 <!-- #quoteEnd -->
 </pre>
