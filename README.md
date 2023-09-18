@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Well begun is half done.
-- Aristotle
+Music is a higher revelation than all wisdom and philosophy.
+- Ludwig van Beethoven
 
-Updated on: [9/17/2023]
+Updated on: [9/18/2023]
 <!-- #quoteEnd -->
 </pre>
