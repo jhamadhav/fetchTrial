@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Music is a higher revelation than all wisdom and philosophy.
-- Ludwig van Beethoven
+Through perseverance many people win success out of what seemed destined to be certain failure.
+- Benjamin Disraeli
 
-Updated on: [9/18/2023]
+Updated on: [9/19/2023]
 <!-- #quoteEnd -->
 </pre>
