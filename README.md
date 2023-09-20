@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Through perseverance many people win success out of what seemed destined to be certain failure.
-- Benjamin Disraeli
+You might well remember that nothing can bring you success but yourself.
+- Napoleon Hill
 
-Updated on: [9/19/2023]
+Updated on: [9/20/2023]
 <!-- #quoteEnd -->
 </pre>
