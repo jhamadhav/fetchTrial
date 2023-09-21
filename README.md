@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You might well remember that nothing can bring you success but yourself.
-- Napoleon Hill
+There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.
+- Francis Bacon
 
-Updated on: [9/20/2023]
+Updated on: [9/21/2023]
 <!-- #quoteEnd -->
 </pre>
