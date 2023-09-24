@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
-- Dale Turner
+It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
+- Sigmund Freud
 
-Updated on: [9/23/2023]
+Updated on: [9/24/2023]
 <!-- #quoteEnd -->
 </pre>
