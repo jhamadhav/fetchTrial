@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-People grow through experience if they meet life honestly and courageously. This is how character is built.
-- Eleanor Roosevelt
+Your sacred space is where you can find yourself again and again.
+- Joseph Campbell
 
-Updated on: [9/25/2023]
+Updated on: [9/26/2023]
 <!-- #quoteEnd -->
 </pre>
