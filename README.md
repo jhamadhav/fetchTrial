@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Your sacred space is where you can find yourself again and again.
-- Joseph Campbell
+Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+- Marie Curie
 
-Updated on: [9/26/2023]
+Updated on: [9/27/2023]
 <!-- #quoteEnd -->
 </pre>
