@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
-- Marie Curie
+To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+- Joan Didion
 
-Updated on: [9/27/2023]
+Updated on: [9/28/2023]
 <!-- #quoteEnd -->
 </pre>
