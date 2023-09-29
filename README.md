@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
-- Joan Didion
+A short saying often contains much wisdom.
+- Sophocles
 
-Updated on: [9/28/2023]
+Updated on: [9/29/2023]
 <!-- #quoteEnd -->
 </pre>
