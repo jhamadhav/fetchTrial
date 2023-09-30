@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A short saying often contains much wisdom.
-- Sophocles
+Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
+- John Dewey
 
-Updated on: [9/29/2023]
+Updated on: [9/30/2023]
 <!-- #quoteEnd -->
 </pre>
