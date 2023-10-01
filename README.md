@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
-- John Dewey
+We never live; we are always in the expectation of living.
+- Voltaire
 
-Updated on: [9/30/2023]
+Updated on: [10/1/2023]
 <!-- #quoteEnd -->
 </pre>
