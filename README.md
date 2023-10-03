@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Excellence is not a skill. It is an attitude.
-- Ralph Marston
+You can do it if you believe you can!
+- Napoleon Hill
 
-Updated on: [10/2/2023]
+Updated on: [10/3/2023]
 <!-- #quoteEnd -->
 </pre>
