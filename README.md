@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can do it if you believe you can!
-- Napoleon Hill
+Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+- Henry Reed
 
-Updated on: [10/3/2023]
+Updated on: [10/4/2023]
 <!-- #quoteEnd -->
 </pre>
