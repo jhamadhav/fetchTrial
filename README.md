@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship may, and often does, grow into love, but love never subsides into friendship.
-- Lord Byron
+Friendship is one mind in two bodies.
+- Mencius
 
-Updated on: [10/6/2023]
+Updated on: [10/7/2023]
 <!-- #quoteEnd -->
 </pre>
