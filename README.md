@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship is one mind in two bodies.
-- Mencius
+The world makes way for the man who knows where he is going.
+- Ralph Waldo Emerson
 
-Updated on: [10/7/2023]
+Updated on: [10/8/2023]
 <!-- #quoteEnd -->
 </pre>
