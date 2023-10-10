@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I gave my life to become the person I am right now. Was it worth it?
-- Richard Bach
+The art of progress is to preserve order amid change, and to preserve change amid order.
+- Alfred North Whitehead
 
-Updated on: [10/9/2023]
+Updated on: [10/10/2023]
 <!-- #quoteEnd -->
 </pre>
