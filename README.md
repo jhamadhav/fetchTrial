@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What happens is not as important as how you react to what happens.
-- Ellen Glasgow
+Where there is great love, there are always miracles.
+- Willa Cather
 
-Updated on: [10/11/2023]
+Updated on: [10/12/2023]
 <!-- #quoteEnd -->
 </pre>
