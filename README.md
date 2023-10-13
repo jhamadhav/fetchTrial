@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Where there is great love, there are always miracles.
-- Willa Cather
+Be as you wish to seem.
+- Socrates
 
-Updated on: [10/12/2023]
+Updated on: [10/13/2023]
 <!-- #quoteEnd -->
 </pre>
