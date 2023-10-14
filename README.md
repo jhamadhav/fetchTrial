@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be as you wish to seem.
-- Socrates
+Friends are the siblings God never gave us.
+- Mencius
 
-Updated on: [10/13/2023]
+Updated on: [10/14/2023]
 <!-- #quoteEnd -->
 </pre>
