@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friends are the siblings God never gave us.
-- Mencius
+A wise man will make more opportunities than he finds.
+- Francis Bacon
 
-Updated on: [10/14/2023]
+Updated on: [10/15/2023]
 <!-- #quoteEnd -->
 </pre>
