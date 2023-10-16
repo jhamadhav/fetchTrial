@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A wise man will make more opportunities than he finds.
-- Francis Bacon
+The things that one most wants to do are the things that are probably most worth doing.
+- Winifred Holtby
 
-Updated on: [10/15/2023]
+Updated on: [10/16/2023]
 <!-- #quoteEnd -->
 </pre>
