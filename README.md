@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The things that one most wants to do are the things that are probably most worth doing.
-- Winifred Holtby
+The awareness of our own strength makes us modest.
+- Paul Cézanne
 
-Updated on: [10/16/2023]
+Updated on: [10/17/2023]
 <!-- #quoteEnd -->
 </pre>
