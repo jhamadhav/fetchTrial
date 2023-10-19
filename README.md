@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The awareness of our own strength makes us modest.
-- Paul Cézanne
+Wisdom alone is the science of other sciences.
+- Plato
 
-Updated on: [10/17/2023]
+Updated on: [10/19/2023]
 <!-- #quoteEnd -->
 </pre>
