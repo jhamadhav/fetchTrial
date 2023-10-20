@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom alone is the science of other sciences.
-- Plato
+All love that has not friendship for its base, is like a mansion built upon the sand.
+- Ella Wheeler Wilcox
 
-Updated on: [10/19/2023]
+Updated on: [10/20/2023]
 <!-- #quoteEnd -->
 </pre>
