@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All love that has not friendship for its base, is like a mansion built upon the sand.
-- Ella Wheeler Wilcox
+Change is the law of life. And those who look only to the past or present are certain to miss the future.
+- John F. Kennedy
 
-Updated on: [10/20/2023]
+Updated on: [10/21/2023]
 <!-- #quoteEnd -->
 </pre>
