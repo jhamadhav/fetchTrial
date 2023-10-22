@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Change is the law of life. And those who look only to the past or present are certain to miss the future.
-- John F. Kennedy
+Experience is not what happens to you; it's what you do with what happens to you.
+- Aldous Huxley
 
-Updated on: [10/21/2023]
+Updated on: [10/22/2023]
 <!-- #quoteEnd -->
 </pre>
