@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Experience is not what happens to you; it's what you do with what happens to you.
-- Aldous Huxley
+Set your goals high, and don't stop till you get there.
+- Bo Jackson
 
-Updated on: [10/22/2023]
+Updated on: [10/23/2023]
 <!-- #quoteEnd -->
 </pre>
