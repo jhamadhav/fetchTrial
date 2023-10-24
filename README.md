@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Set your goals high, and don't stop till you get there.
-- Bo Jackson
+I'm a great believer in luck and I find the harder I work, the more I have of it.
+- Thomas Jefferson
 
-Updated on: [10/23/2023]
+Updated on: [10/24/2023]
 <!-- #quoteEnd -->
 </pre>
