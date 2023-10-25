@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I'm a great believer in luck and I find the harder I work, the more I have of it.
-- Thomas Jefferson
+Life is what happens to you while you're busy making other plans.
+- John Lennon
 
-Updated on: [10/24/2023]
+Updated on: [10/25/2023]
 <!-- #quoteEnd -->
 </pre>
