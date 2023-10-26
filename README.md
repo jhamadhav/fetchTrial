@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is what happens to you while you're busy making other plans.
-- John Lennon
+Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+- Douglas Adams
 
-Updated on: [10/25/2023]
+Updated on: [10/26/2023]
 <!-- #quoteEnd -->
 </pre>
