@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
-- Douglas Adams
+Whenever something negative happens to you, there is a deep lesson concealed within it.
+- Eckhart Tolle
 
-Updated on: [10/26/2023]
+Updated on: [10/27/2023]
 <!-- #quoteEnd -->
 </pre>
