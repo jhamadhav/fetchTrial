@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whenever something negative happens to you, there is a deep lesson concealed within it.
-- Eckhart Tolle
+People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+- Dalai Lama
 
-Updated on: [10/27/2023]
+Updated on: [10/28/2023]
 <!-- #quoteEnd -->
 </pre>
