@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
-- Dalai Lama
+If you change the way you look at things, the things you look at change.
+- Wayne Dyer
 
-Updated on: [10/28/2023]
+Updated on: [10/29/2023]
 <!-- #quoteEnd -->
 </pre>
