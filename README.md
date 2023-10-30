@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you change the way you look at things, the things you look at change.
-- Wayne Dyer
+Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
+- Hermann Hesse
 
-Updated on: [10/29/2023]
+Updated on: [10/30/2023]
 <!-- #quoteEnd -->
 </pre>
