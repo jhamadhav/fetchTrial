@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
-- Hermann Hesse
+Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+- Napoleon Hill
 
-Updated on: [10/30/2023]
+Updated on: [10/31/2023]
 <!-- #quoteEnd -->
 </pre>
