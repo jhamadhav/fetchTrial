@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Opportunity often comes disguised in the form of misfortune, or temporary defeat.
-- Napoleon Hill
+Love is the flower you've got to let grow.
+- John Lennon
 
-Updated on: [10/31/2023]
+Updated on: [11/1/2023]
 <!-- #quoteEnd -->
 </pre>
