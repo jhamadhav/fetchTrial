@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To be what we are, and to become what we are capable of becoming, is the only end of life.
-- Robert Louis Stevenson
+I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+- G. K. Chesterton
 
-Updated on: [11/2/2023]
+Updated on: [11/3/2023]
 <!-- #quoteEnd -->
 </pre>
