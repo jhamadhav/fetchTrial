@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is not wisdom but Authority that makes a law.
-- Thomas Hobbes
+The sincere friends of this world are as ship lights in the stormiest of nights.
+- Giotto
 
-Updated on: [11/4/2023]
+Updated on: [11/5/2023]
 <!-- #quoteEnd -->
 </pre>
