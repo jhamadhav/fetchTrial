@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The sincere friends of this world are as ship lights in the stormiest of nights.
-- Giotto
+The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+- Charles Lamb
 
-Updated on: [11/5/2023]
+Updated on: [11/6/2023]
 <!-- #quoteEnd -->
 </pre>
