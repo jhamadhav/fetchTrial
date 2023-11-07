@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
-- Charles Lamb
+Life's most persistent and urgent question is, 'What are you doing for others?'
+- Martin Luther King Jr.
 
-Updated on: [11/6/2023]
+Updated on: [11/7/2023]
 <!-- #quoteEnd -->
 </pre>
