@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life's most persistent and urgent question is, 'What are you doing for others?'
-- Martin Luther King Jr.
+Life is the flower for which love is the honey.
+- Victor Hugo
 
-Updated on: [11/7/2023]
+Updated on: [11/8/2023]
 <!-- #quoteEnd -->
 </pre>
