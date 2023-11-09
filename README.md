@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is the flower for which love is the honey.
-- Victor Hugo
+Courage is going from failure to failure without losing enthusiasm.
+- Winston Churchill
 
-Updated on: [11/8/2023]
+Updated on: [11/9/2023]
 <!-- #quoteEnd -->
 </pre>
