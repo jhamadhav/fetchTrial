@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Courage is going from failure to failure without losing enthusiasm.
-- Winston Churchill
+Time is the most valuable thing a man can spend.
+- Theophrastus
 
-Updated on: [11/9/2023]
+Updated on: [11/10/2023]
 <!-- #quoteEnd -->
 </pre>
