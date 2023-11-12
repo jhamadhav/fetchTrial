@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
-- Lisa Alther
+I begin with an idea and then it becomes something else.
+- Pablo Picasso
 
-Updated on: [11/11/2023]
+Updated on: [11/12/2023]
 <!-- #quoteEnd -->
 </pre>
