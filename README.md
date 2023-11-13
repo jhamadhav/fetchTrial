@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I begin with an idea and then it becomes something else.
-- Pablo Picasso
+Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+- Kahlil Gibran
 
-Updated on: [11/12/2023]
+Updated on: [11/13/2023]
 <!-- #quoteEnd -->
 </pre>
