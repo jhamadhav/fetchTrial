@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
-- Kahlil Gibran
+Whoso loves, believes the impossible.
+- Elizabeth Browning
 
-Updated on: [11/13/2023]
+Updated on: [11/14/2023]
 <!-- #quoteEnd -->
 </pre>
