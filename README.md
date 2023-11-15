@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whoso loves, believes the impossible.
-- Elizabeth Browning
+To hell with circumstances, I create opportunities.
+- Bruce Lee
 
-Updated on: [11/14/2023]
+Updated on: [11/15/2023]
 <!-- #quoteEnd -->
 </pre>
