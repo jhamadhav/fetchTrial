@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To hell with circumstances, I create opportunities.
-- Bruce Lee
+Life is just a chance to grow a soul.
+- A. Powell Davies
 
-Updated on: [11/15/2023]
+Updated on: [11/16/2023]
 <!-- #quoteEnd -->
 </pre>
