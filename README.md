@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is just a chance to grow a soul.
-- A. Powell Davies
+Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+- Johann Kaspar Lavater
 
-Updated on: [11/16/2023]
+Updated on: [11/17/2023]
 <!-- #quoteEnd -->
 </pre>
