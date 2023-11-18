@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
-- Johann Kaspar Lavater
+We love life, not because we are used to living but because we are used to loving.
+- Friedrich Nietzsche
 
-Updated on: [11/17/2023]
+Updated on: [11/18/2023]
 <!-- #quoteEnd -->
 </pre>
