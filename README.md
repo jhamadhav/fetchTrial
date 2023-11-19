@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We love life, not because we are used to living but because we are used to loving.
-- Friedrich Nietzsche
+Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+- Marie Curie
 
-Updated on: [11/18/2023]
+Updated on: [11/19/2023]
 <!-- #quoteEnd -->
 </pre>
