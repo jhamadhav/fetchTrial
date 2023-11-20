@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
-- Marie Curie
+Not all those who wander are lost.
+- J. R. R. Tolkien
 
-Updated on: [11/19/2023]
+Updated on: [11/20/2023]
 <!-- #quoteEnd -->
 </pre>
