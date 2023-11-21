@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Not all those who wander are lost.
-- J. R. R. Tolkien
+I violated the Noah rule: Predicting rain doesn't count; building arks does.
+- Warren Buffett
 
-Updated on: [11/20/2023]
+Updated on: [11/21/2023]
 <!-- #quoteEnd -->
 </pre>
