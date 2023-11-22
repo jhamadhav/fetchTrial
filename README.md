@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I violated the Noah rule: Predicting rain doesn't count; building arks does.
-- Warren Buffett
+If you can't feed a hundred people, then feed just one.
+- Mother Teresa
 
-Updated on: [11/21/2023]
+Updated on: [11/22/2023]
 <!-- #quoteEnd -->
 </pre>
