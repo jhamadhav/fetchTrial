@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you can't feed a hundred people, then feed just one.
-- Mother Teresa
+I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+- Albert Einstein
 
-Updated on: [11/22/2023]
+Updated on: [11/23/2023]
 <!-- #quoteEnd -->
 </pre>
