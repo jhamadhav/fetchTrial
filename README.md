@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
-- Albert Einstein
+The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
+- Carlos Castaneda
 
-Updated on: [11/23/2023]
+Updated on: [11/24/2023]
 <!-- #quoteEnd -->
 </pre>
