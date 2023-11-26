@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
-- Carlos Castaneda
+Kindness is the golden chain by which society is bound together.
+- Johann Wolfgang von Goethe
 
-Updated on: [11/24/2023]
+Updated on: [11/26/2023]
 <!-- #quoteEnd -->
 </pre>
