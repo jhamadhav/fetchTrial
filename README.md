@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Kindness is the golden chain by which society is bound together.
-- Johann Wolfgang von Goethe
+Absence makes the heart grow fonder.
+- Thomas Haynes Bayly
 
-Updated on: [11/26/2023]
+Updated on: [11/27/2023]
 <!-- #quoteEnd -->
 </pre>
