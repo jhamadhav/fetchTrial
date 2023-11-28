@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Absence makes the heart grow fonder.
-- Thomas Haynes Bayly
+We make our own fortunes and we call them fate.
+- Benjamin Disraeli
 
-Updated on: [11/27/2023]
+Updated on: [11/28/2023]
 <!-- #quoteEnd -->
 </pre>
