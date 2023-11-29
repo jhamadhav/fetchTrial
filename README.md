@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We make our own fortunes and we call them fate.
-- Benjamin Disraeli
+For everything that lives is holy, life delights in life.
+- William Blake
 
-Updated on: [11/28/2023]
+Updated on: [11/29/2023]
 <!-- #quoteEnd -->
 </pre>
