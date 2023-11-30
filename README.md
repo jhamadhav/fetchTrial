@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-For everything that lives is holy, life delights in life.
-- William Blake
+To be happy is to be able to become aware of oneself without fright.
+- Walter Benjamin
 
-Updated on: [11/29/2023]
+Updated on: [11/30/2023]
 <!-- #quoteEnd -->
 </pre>
