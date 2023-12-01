@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To be happy is to be able to become aware of oneself without fright.
-- Walter Benjamin
+The way you see people is the way you treat them, and the way you treat them is what they become.
+- Johann Wolfgang von Goethe
 
-Updated on: [11/30/2023]
+Updated on: [12/1/2023]
 <!-- #quoteEnd -->
 </pre>
