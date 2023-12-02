@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The way you see people is the way you treat them, and the way you treat them is what they become.
-- Johann Wolfgang von Goethe
+The exercise of an extraordinary gift is the supremist pleasure in life.
+- Mark Twain
 
-Updated on: [12/1/2023]
+Updated on: [12/2/2023]
 <!-- #quoteEnd -->
 </pre>
