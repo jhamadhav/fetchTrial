@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The exercise of an extraordinary gift is the supremist pleasure in life.
-- Mark Twain
+Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+- Marcel Proust
 
-Updated on: [12/2/2023]
+Updated on: [12/3/2023]
 <!-- #quoteEnd -->
 </pre>
