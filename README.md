@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
-- Marcel Proust
+Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
+- Mary Kay Ash
 
-Updated on: [12/3/2023]
+Updated on: [12/4/2023]
 <!-- #quoteEnd -->
 </pre>
