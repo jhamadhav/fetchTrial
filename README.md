@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
-- Mary Kay Ash
+Genuine sincerity opens people's hearts, while manipulation causes them to close.
+- Daisaku Ikeda
 
-Updated on: [12/4/2023]
+Updated on: [12/5/2023]
 <!-- #quoteEnd -->
 </pre>
