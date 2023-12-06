@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Genuine sincerity opens people's hearts, while manipulation causes them to close.
-- Daisaku Ikeda
+I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
+- Colette
 
-Updated on: [12/5/2023]
+Updated on: [12/6/2023]
 <!-- #quoteEnd -->
 </pre>
