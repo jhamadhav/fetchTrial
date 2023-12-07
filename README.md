@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer.
-- Colette
+You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
+- Laurence J. Peter
 
-Updated on: [12/6/2023]
+Updated on: [12/7/2023]
 <!-- #quoteEnd -->
 </pre>
