@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job.
-- Laurence J. Peter
+Make it your habit not to be critical about small things.
+- Edward Everett Hale
 
-Updated on: [12/7/2023]
+Updated on: [12/8/2023]
 <!-- #quoteEnd -->
 </pre>
