@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Make it your habit not to be critical about small things.
-- Edward Everett Hale
+Walking with a friend in the dark is better than walking alone in the light.
+- Helen Keller
 
-Updated on: [12/8/2023]
+Updated on: [12/9/2023]
 <!-- #quoteEnd -->
 </pre>
