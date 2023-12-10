@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Walking with a friend in the dark is better than walking alone in the light.
-- Helen Keller
+Always seek out the seed of triumph in every adversity.
+- Og Mandino
 
-Updated on: [12/9/2023]
+Updated on: [12/10/2023]
 <!-- #quoteEnd -->
 </pre>
