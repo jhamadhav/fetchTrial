@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always seek out the seed of triumph in every adversity.
-- Og Mandino
+He who talks more is sooner exhausted.
+- Laozi
 
-Updated on: [12/10/2023]
+Updated on: [12/12/2023]
 <!-- #quoteEnd -->
 </pre>
