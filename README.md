@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He who talks more is sooner exhausted.
-- Laozi
+Life is a succession of lessons, which must be lived to be understood.
+- Ralph Waldo Emerson
 
-Updated on: [12/12/2023]
+Updated on: [12/13/2023]
 <!-- #quoteEnd -->
 </pre>
