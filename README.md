@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is a succession of lessons, which must be lived to be understood.
-- Ralph Waldo Emerson
+One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
+- Eleanor Roosevelt
 
-Updated on: [12/13/2023]
+Updated on: [12/14/2023]
 <!-- #quoteEnd -->
 </pre>
