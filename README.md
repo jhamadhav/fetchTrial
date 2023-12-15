@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
-- Eleanor Roosevelt
+Truth is generally the best vindication against slander.
+- Abraham Lincoln
 
-Updated on: [12/14/2023]
+Updated on: [12/15/2023]
 <!-- #quoteEnd -->
 </pre>
