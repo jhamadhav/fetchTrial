@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Truth is generally the best vindication against slander.
-- Abraham Lincoln
+Those who are free of resentful thoughts surely find peace.
+- The Buddha
 
-Updated on: [12/15/2023]
+Updated on: [12/16/2023]
 <!-- #quoteEnd -->
 </pre>
