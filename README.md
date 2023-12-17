@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Those who are free of resentful thoughts surely find peace.
-- The Buddha
+The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+- Eckhart Tolle
 
-Updated on: [12/16/2023]
+Updated on: [12/17/2023]
 <!-- #quoteEnd -->
 </pre>
