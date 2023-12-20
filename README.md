@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All I can say about life is, Oh God, enjoy it!
-- Bob Newhart
+Technological progress has merely provided us with more efficient means for going backwards.
+- Aldous Huxley
 
-Updated on: [12/19/2023]
+Updated on: [12/20/2023]
 <!-- #quoteEnd -->
 </pre>
