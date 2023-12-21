@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technological progress has merely provided us with more efficient means for going backwards.
-- Aldous Huxley
+Life is the flower for which love is the honey.
+- Victor Hugo
 
-Updated on: [12/20/2023]
+Updated on: [12/21/2023]
 <!-- #quoteEnd -->
 </pre>
