@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is the flower for which love is the honey.
-- Victor Hugo
+The universe is transformation; our life is what our thoughts make it.
+- Marcus Aurelius
 
-Updated on: [12/21/2023]
+Updated on: [12/22/2023]
 <!-- #quoteEnd -->
 </pre>
