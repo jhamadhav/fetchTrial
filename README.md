@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The universe is transformation; our life is what our thoughts make it.
-- Marcus Aurelius
+God always takes the simplest way.
+- Albert Einstein
 
-Updated on: [12/22/2023]
+Updated on: [12/23/2023]
 <!-- #quoteEnd -->
 </pre>
