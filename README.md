@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-God always takes the simplest way.
-- Albert Einstein
+Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+- Rumi
 
-Updated on: [12/23/2023]
+Updated on: [12/24/2023]
 <!-- #quoteEnd -->
 </pre>
