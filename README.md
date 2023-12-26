@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Problems are not stop signs, they are guidelines.
-- Robert Schuller
+He who knows, does not speak. He who speaks, does not know.
+- Laozi
 
-Updated on: [12/25/2023]
+Updated on: [12/26/2023]
 <!-- #quoteEnd -->
 </pre>
