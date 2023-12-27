@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He who knows, does not speak. He who speaks, does not know.
-- Laozi
+We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+- Henry Ward Beecher
 
-Updated on: [12/26/2023]
+Updated on: [12/27/2023]
 <!-- #quoteEnd -->
 </pre>
