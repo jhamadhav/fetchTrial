@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
-- Henry Ward Beecher
+There are many ways of going forward, but only one way of standing still.
+- Franklin D. Roosevelt
 
-Updated on: [12/27/2023]
+Updated on: [12/28/2023]
 <!-- #quoteEnd -->
 </pre>
