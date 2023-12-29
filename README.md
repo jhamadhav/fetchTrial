@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There are many ways of going forward, but only one way of standing still.
-- Franklin D. Roosevelt
+What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+- Daisaku Ikeda
 
-Updated on: [12/28/2023]
+Updated on: [12/29/2023]
 <!-- #quoteEnd -->
 </pre>
