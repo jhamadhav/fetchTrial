@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It's better to be a lion for a day than a sheep all your life.
-- Elizabeth Kenny
+The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+- Benjamin Franklin
 
-Updated on: [12/30/2023]
+Updated on: [12/31/2023]
 <!-- #quoteEnd -->
 </pre>
