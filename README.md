@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The doorstep to the temple of wisdom is a knowledge of our own ignorance.
-- Benjamin Franklin
+Friends... they cherish one another's hopes. They are kind to one another's dreams.
+- Henry David Thoreau
 
-Updated on: [12/31/2023]
+Updated on: [1/1/2024]
 <!-- #quoteEnd -->
 </pre>
