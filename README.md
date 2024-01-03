@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Friendship is Love without his wings!
-- Lord Byron
+Remember that a gesture of friendship, no matter how small, is always appreciated.
+- H. Jackson Brown Jr.
 
-Updated on: [1/2/2024]
+Updated on: [1/3/2024]
 <!-- #quoteEnd -->
 </pre>
