@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Remember that a gesture of friendship, no matter how small, is always appreciated.
-- H. Jackson Brown Jr.
+Silence is a source of great strength.
+- Laozi
 
-Updated on: [1/3/2024]
+Updated on: [1/4/2024]
 <!-- #quoteEnd -->
 </pre>
