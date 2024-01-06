@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Imagination will often carry us to worlds that never were. But without it we go nowhere.
-- Carl Sagan
+Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+- Confucius
 
-Updated on: [1/5/2024]
+Updated on: [1/6/2024]
 <!-- #quoteEnd -->
 </pre>
