@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
-- Confucius
+If one does not know to which port one is sailing, no wind is favorable.
+- Seneca the Younger
 
-Updated on: [1/6/2024]
+Updated on: [1/7/2024]
 <!-- #quoteEnd -->
 </pre>
