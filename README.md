@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If one does not know to which port one is sailing, no wind is favorable.
-- Seneca the Younger
+Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+- Jerome
 
-Updated on: [1/7/2024]
+Updated on: [1/8/2024]
 <!-- #quoteEnd -->
 </pre>
