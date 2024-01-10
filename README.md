@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you want to go east, don't go west.
-- Ramakrishna
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
+- Carl Jung
 
-Updated on: [1/9/2024]
+Updated on: [1/10/2024]
 <!-- #quoteEnd -->
 </pre>
