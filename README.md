@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
-- Carl Jung
+We do not quit playing because we grow old, we grow old because we quit playing.
+- Oliver Wendell Holmes Jr.
 
-Updated on: [1/10/2024]
+Updated on: [1/11/2024]
 <!-- #quoteEnd -->
 </pre>
