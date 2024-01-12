@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We do not quit playing because we grow old, we grow old because we quit playing.
-- Oliver Wendell Holmes Jr.
+They can conquer who believe they can.
+- Virgil
 
-Updated on: [1/11/2024]
+Updated on: [1/12/2024]
 <!-- #quoteEnd -->
 </pre>
