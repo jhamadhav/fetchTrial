@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-They can conquer who believe they can.
-- Virgil
+No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+- Helen Keller
 
-Updated on: [1/12/2024]
+Updated on: [1/13/2024]
 <!-- #quoteEnd -->
 </pre>
