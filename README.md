@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
-- Helen Keller
+Your talent is God's gift to you. What you do with it is your gift back to God.
+- Leo Buscaglia
 
-Updated on: [1/13/2024]
+Updated on: [1/14/2024]
 <!-- #quoteEnd -->
 </pre>
