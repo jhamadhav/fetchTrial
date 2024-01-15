@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Your talent is God's gift to you. What you do with it is your gift back to God.
-- Leo Buscaglia
+The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+- William Blake
 
-Updated on: [1/14/2024]
+Updated on: [1/15/2024]
 <!-- #quoteEnd -->
 </pre>
