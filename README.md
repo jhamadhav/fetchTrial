@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The hours of folly are measured by the clock; but of wisdom, no clock can measure.
-- William Blake
+You do not become good by trying to be good, but by finding the goodness that is already within you.
+- Eckhart Tolle
 
-Updated on: [1/15/2024]
+Updated on: [1/16/2024]
 <!-- #quoteEnd -->
 </pre>
