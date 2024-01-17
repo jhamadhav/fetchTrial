@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You do not become good by trying to be good, but by finding the goodness that is already within you.
-- Eckhart Tolle
+He is no fool who gives what he cannot keep to gain what he cannot lose.
+- Jim Elliot
 
-Updated on: [1/16/2024]
+Updated on: [1/17/2024]
 <!-- #quoteEnd -->
 </pre>
