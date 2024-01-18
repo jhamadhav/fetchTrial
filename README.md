@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-He is no fool who gives what he cannot keep to gain what he cannot lose.
-- Jim Elliot
+Technology made large populations possible; large populations now make technology indispensable.
+- Joseph Wood Krutch
 
-Updated on: [1/17/2024]
+Updated on: [1/18/2024]
 <!-- #quoteEnd -->
 </pre>
