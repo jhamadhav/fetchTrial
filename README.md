@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Technology made large populations possible; large populations now make technology indispensable.
-- Joseph Wood Krutch
+Don't wait. The time will never be just right.
+- Napoleon Hill
 
-Updated on: [1/18/2024]
+Updated on: [1/19/2024]
 <!-- #quoteEnd -->
 </pre>
