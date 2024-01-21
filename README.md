@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is one of the blessings of old friends that you can afford to be stupid with them.
-- Ralph Waldo Emerson
+We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
+- Frank Abagnale
 
-Updated on: [1/20/2024]
+Updated on: [1/21/2024]
 <!-- #quoteEnd -->
 </pre>
