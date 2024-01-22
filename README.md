@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
-- Frank Abagnale
+Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+- Henry James
 
-Updated on: [1/21/2024]
+Updated on: [1/22/2024]
 <!-- #quoteEnd -->
 </pre>
