@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
-- Henry James
+As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+- Joseph Prince
 
-Updated on: [1/22/2024]
+Updated on: [1/23/2024]
 <!-- #quoteEnd -->
 </pre>
