@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
-- Joseph Prince
+A creative man is motivated by the desire to achieve, not by the desire to beat others.
+- Ayn Rand
 
-Updated on: [1/23/2024]
+Updated on: [1/24/2024]
 <!-- #quoteEnd -->
 </pre>
