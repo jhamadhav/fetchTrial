@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A creative man is motivated by the desire to achieve, not by the desire to beat others.
-- Ayn Rand
+Argue for your limitations, and sure enough they're yours.
+- Richard Bach
 
-Updated on: [1/24/2024]
+Updated on: [1/25/2024]
 <!-- #quoteEnd -->
 </pre>
