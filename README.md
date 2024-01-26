@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Argue for your limitations, and sure enough they're yours.
-- Richard Bach
+Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+- Dalai Lama
 
-Updated on: [1/25/2024]
+Updated on: [1/26/2024]
 <!-- #quoteEnd -->
 </pre>
