@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
-- Dalai Lama
+A thing long expected takes the form of the unexpected when at last it comes.
+- Mark Twain
 
-Updated on: [1/26/2024]
+Updated on: [1/27/2024]
 <!-- #quoteEnd -->
 </pre>
