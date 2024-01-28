@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A thing long expected takes the form of the unexpected when at last it comes.
-- Mark Twain
+It does not matter how slowly you go as long as you do not stop.
+- Confucius
 
-Updated on: [1/27/2024]
+Updated on: [1/28/2024]
 <!-- #quoteEnd -->
 </pre>
