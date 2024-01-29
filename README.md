@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It does not matter how slowly you go as long as you do not stop.
-- Confucius
+Failure doesn't mean you are a failure it just means you haven't succeeded yet.
+- Robert Schuller
 
-Updated on: [1/28/2024]
+Updated on: [1/29/2024]
 <!-- #quoteEnd -->
 </pre>
