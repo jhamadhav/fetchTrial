@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Failure doesn't mean you are a failure it just means you haven't succeeded yet.
-- Robert Schuller
+I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+- Everett Dirksen
 
-Updated on: [1/29/2024]
+Updated on: [1/30/2024]
 <!-- #quoteEnd -->
 </pre>
