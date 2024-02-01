@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-However rare true love may be, it is less so than true friendship.
-- François de La Rochefoucauld
+Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+- Arthur Conan Doyle
 
-Updated on: [1/31/2024]
+Updated on: [2/1/2024]
 <!-- #quoteEnd -->
 </pre>
