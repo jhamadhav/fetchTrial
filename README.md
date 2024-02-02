@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
-- Arthur Conan Doyle
+Believe you can and you're halfway there.
+- Theodore Roosevelt
 
-Updated on: [2/1/2024]
+Updated on: [2/2/2024]
 <!-- #quoteEnd -->
 </pre>
