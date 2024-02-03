@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Believe you can and you're halfway there.
-- Theodore Roosevelt
+I am an optimist. It does not seem too much use being anything else.
+- Winston Churchill
 
-Updated on: [2/2/2024]
+Updated on: [2/3/2024]
 <!-- #quoteEnd -->
 </pre>
