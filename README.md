@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
-- George Washington
+Every man takes the limits of his own field of vision for the limits of the world.
+- Arthur Schopenhauer
 
-Updated on: [2/4/2024]
+Updated on: [2/5/2024]
 <!-- #quoteEnd -->
 </pre>
