@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Every man takes the limits of his own field of vision for the limits of the world.
-- Arthur Schopenhauer
+I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+- Alan Watts
 
-Updated on: [2/5/2024]
+Updated on: [2/6/2024]
 <!-- #quoteEnd -->
 </pre>
