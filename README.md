@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In all chaos there is a cosmos, in all disorder a secret order.
-- Carl Jung
+If you cannot do great things, do small things in a great way.
+- Napoleon Hill
 
-Updated on: [2/7/2024]
+Updated on: [2/8/2024]
 <!-- #quoteEnd -->
 </pre>
