@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you cannot do great things, do small things in a great way.
-- Napoleon Hill
+Knowing others is wisdom, knowing yourself is Enlightenment.
+- Laozi
 
-Updated on: [2/8/2024]
+Updated on: [2/9/2024]
 <!-- #quoteEnd -->
 </pre>
