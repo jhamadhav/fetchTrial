@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
-- Dalai Lama
+All know the way; few actually walk it.
+- Bodhidharma
 
-Updated on: [2/14/2024]
+Updated on: [2/15/2024]
 <!-- #quoteEnd -->
 </pre>
