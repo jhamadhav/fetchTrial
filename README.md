@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All know the way; few actually walk it.
-- Bodhidharma
+No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
+- W. Clement Stone
 
-Updated on: [2/15/2024]
+Updated on: [2/16/2024]
 <!-- #quoteEnd -->
 </pre>
