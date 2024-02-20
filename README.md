@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
-- Napoleon Hill
+Pitching is the art of instilling fear.
+- Sandy Koufax
 
-Updated on: [2/19/2024]
+Updated on: [2/20/2024]
 <!-- #quoteEnd -->
 </pre>
