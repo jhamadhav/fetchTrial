@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Reviewing what you have learned and learning anew, you are fit to be a teacher.
-- Confucius
+An ant on the move does more than a dozing ox
+- Laozi
 
-Updated on: [2/21/2024]
+Updated on: [2/22/2024]
 <!-- #quoteEnd -->
 </pre>
