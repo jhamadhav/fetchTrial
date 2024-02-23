@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-An ant on the move does more than a dozing ox
-- Laozi
+We gain the strength of the temptation we resist.
+- Ralph Waldo Emerson
 
-Updated on: [2/22/2024]
+Updated on: [2/23/2024]
 <!-- #quoteEnd -->
 </pre>
