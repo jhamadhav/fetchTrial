@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-This is the final test of a gentleman: his respect for those who can be of no possible value to him.
-- William Lyon Phelps
+You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+- Alan Watts
 
-Updated on: [2/24/2024]
+Updated on: [2/25/2024]
 <!-- #quoteEnd -->
 </pre>
