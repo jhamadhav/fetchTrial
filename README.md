@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
-- Alan Watts
+Joy is the best makeup.
+- Anne Lamott
 
-Updated on: [2/25/2024]
+Updated on: [2/26/2024]
 <!-- #quoteEnd -->
 </pre>
