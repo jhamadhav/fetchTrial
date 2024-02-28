@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The person born with a talent they are meant to use will find their greatest happiness in using it.
-- Johann Wolfgang von Goethe
+All truths are easy to understand once they are discovered; the point is to discover them.
+- Galileo Galilei
 
-Updated on: [2/27/2024]
+Updated on: [2/28/2024]
 <!-- #quoteEnd -->
 </pre>
