@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Just trust yourself, then you will know how to live.
-- Johann Wolfgang von Goethe
+I never think of the future. It comes soon enough.
+- Albert Einstein
 
-Updated on: [2/29/2024]
+Updated on: [3/1/2024]
 <!-- #quoteEnd -->
 </pre>
