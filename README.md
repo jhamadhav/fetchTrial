@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I never think of the future. It comes soon enough.
-- Albert Einstein
+All things must come to the soul from its roots, from where it is planted.
+- Teresa of Ávila
 
-Updated on: [3/1/2024]
+Updated on: [3/2/2024]
 <!-- #quoteEnd -->
 </pre>
