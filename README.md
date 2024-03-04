@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A friendship founded on business is better than a business founded on friendship.
-- John Locke
+Know how to listen, and you will profit even from those who talk badly.
+- Plutarch
 
-Updated on: [3/3/2024]
+Updated on: [3/4/2024]
 <!-- #quoteEnd -->
 </pre>
