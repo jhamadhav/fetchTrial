@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Know how to listen, and you will profit even from those who talk badly.
-- Plutarch
+If I had only known, I would have been a locksmith.
+- Albert Einstein
 
-Updated on: [3/4/2024]
+Updated on: [3/5/2024]
 <!-- #quoteEnd -->
 </pre>
