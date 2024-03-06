@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If I had only known, I would have been a locksmith.
-- Albert Einstein
+All achievements, all earned riches, have their beginning in an idea.
+- Napoleon Hill
 
-Updated on: [3/5/2024]
+Updated on: [3/6/2024]
 <!-- #quoteEnd -->
 </pre>
