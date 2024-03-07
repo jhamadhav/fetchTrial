@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All achievements, all earned riches, have their beginning in an idea.
-- Napoleon Hill
+I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+- Og Mandino
 
-Updated on: [3/6/2024]
+Updated on: [3/7/2024]
 <!-- #quoteEnd -->
 </pre>
