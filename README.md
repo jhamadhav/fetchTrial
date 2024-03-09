@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
-- Og Mandino
+Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+- Richard Bach
 
-Updated on: [3/7/2024]
+Updated on: [3/9/2024]
 <!-- #quoteEnd -->
 </pre>
