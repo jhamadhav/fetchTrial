@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
-- Richard Bach
+You can't blame gravity for falling in love.
+- Albert Einstein
 
-Updated on: [3/9/2024]
+Updated on: [3/10/2024]
 <!-- #quoteEnd -->
 </pre>
