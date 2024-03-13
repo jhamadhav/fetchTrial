@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
-- Muhammad Ali
+I know but one freedom and that is the freedom of the mind.
+- Antoine de Saint-Exupéry
 
-Updated on: [3/12/2024]
+Updated on: [3/13/2024]
 <!-- #quoteEnd -->
 </pre>
