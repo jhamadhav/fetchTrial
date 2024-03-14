@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I know but one freedom and that is the freedom of the mind.
-- Antoine de Saint-Exupéry
+Know how to listen, and you will profit even from those who talk badly.
+- Plutarch
 
-Updated on: [3/13/2024]
+Updated on: [3/14/2024]
 <!-- #quoteEnd -->
 </pre>
