@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Know how to listen, and you will profit even from those who talk badly.
-- Plutarch
+Ignorant men raise questions that wise men answered a thousand years ago.
+- Johann Wolfgang von Goethe
 
-Updated on: [3/14/2024]
+Updated on: [3/15/2024]
 <!-- #quoteEnd -->
 </pre>
