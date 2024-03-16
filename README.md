@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Ignorant men raise questions that wise men answered a thousand years ago.
-- Johann Wolfgang von Goethe
+Knowledge speaks, but wisdom listens.
+- Jimi Hendrix
 
-Updated on: [3/15/2024]
+Updated on: [3/16/2024]
 <!-- #quoteEnd -->
 </pre>
