@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Knowledge speaks, but wisdom listens.
-- Jimi Hendrix
+Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
+- Charles Dickens
 
-Updated on: [3/16/2024]
+Updated on: [3/17/2024]
 <!-- #quoteEnd -->
 </pre>
