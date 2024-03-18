@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
-- Charles Dickens
+Keep your face always toward the sunshine - and shadows will fall behind you.
+- Walt Whitman
 
-Updated on: [3/17/2024]
+Updated on: [3/18/2024]
 <!-- #quoteEnd -->
 </pre>
