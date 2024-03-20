@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A wise man can learn more from a foolish question than a fool can learn from a wise answer.
-- Bruce Lee
+Do not turn back when you are just at the goal.
+- Publilius Syrus
 
-Updated on: [3/19/2024]
+Updated on: [3/20/2024]
 <!-- #quoteEnd -->
 </pre>
