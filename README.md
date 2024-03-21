@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Do not turn back when you are just at the goal.
-- Publilius Syrus
+Joy is what happens to us when we allow ourselves to recognize how good things really are.
+- Marianne Williamson
 
-Updated on: [3/20/2024]
+Updated on: [3/21/2024]
 <!-- #quoteEnd -->
 </pre>
