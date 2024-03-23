@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Joy is what happens to us when we allow ourselves to recognize how good things really are.
-- Marianne Williamson
+I want my friend to miss me as long as I miss him.
+- Augustine of Hippo
 
-Updated on: [3/21/2024]
+Updated on: [3/23/2024]
 <!-- #quoteEnd -->
 </pre>
