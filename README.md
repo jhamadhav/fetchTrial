@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Wisdom has its root in goodness, not goodness its root in wisdom.
-- Ralph Waldo Emerson
+The best preparation for tomorrow is doing your best today.
+- H. Jackson Brown Jr.
 
-Updated on: [3/24/2024]
+Updated on: [3/25/2024]
 <!-- #quoteEnd -->
 </pre>
