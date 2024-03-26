@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The best preparation for tomorrow is doing your best today.
-- H. Jackson Brown Jr.
+Life is what happens while you are making other plans.
+- John Lennon
 
-Updated on: [3/25/2024]
+Updated on: [3/26/2024]
 <!-- #quoteEnd -->
 </pre>
