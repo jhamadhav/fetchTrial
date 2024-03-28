@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
-- Abraham Lincoln
+It is not wisdom but Authority that makes a law.
+- Thomas Hobbes
 
-Updated on: [3/27/2024]
+Updated on: [3/28/2024]
 <!-- #quoteEnd -->
 </pre>
