@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It is not wisdom but Authority that makes a law.
-- Thomas Hobbes
+Nature takes away any faculty that is not used.
+- William Inge
 
-Updated on: [3/28/2024]
+Updated on: [3/29/2024]
 <!-- #quoteEnd -->
 </pre>
