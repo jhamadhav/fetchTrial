@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nature takes away any faculty that is not used.
-- William Inge
+Nature is a mutable cloud which is always and never the same.
+- Ralph Waldo Emerson
 
-Updated on: [3/29/2024]
+Updated on: [3/30/2024]
 <!-- #quoteEnd -->
 </pre>
