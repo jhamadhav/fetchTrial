@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nature is a mutable cloud which is always and never the same.
-- Ralph Waldo Emerson
+It isn't where you come from, it's where you're going that counts.
+- Ella Fitzgerald
 
-Updated on: [3/30/2024]
+Updated on: [3/31/2024]
 <!-- #quoteEnd -->
 </pre>
