@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It isn't where you come from, it's where you're going that counts.
-- Ella Fitzgerald
+Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+- Marcus Aurelius
 
-Updated on: [3/31/2024]
+Updated on: [4/3/2024]
 <!-- #quoteEnd -->
 </pre>
