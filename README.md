@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-- Marcus Aurelius
+Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+- Paavo Nurmi
 
-Updated on: [4/3/2024]
+Updated on: [4/4/2024]
 <!-- #quoteEnd -->
 </pre>
