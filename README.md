@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
-- M. Scott Peck
+Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+- Napoleon Hill
 
-Updated on: [4/5/2024]
+Updated on: [4/6/2024]
 <!-- #quoteEnd -->
 </pre>
