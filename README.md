@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Opportunity often comes disguised in the form of misfortune, or temporary defeat.
-- Napoleon Hill
+Motivation is the art of getting people to do what you want them to do because they want to do it.
+- Dwight D. Eisenhower
 
-Updated on: [4/6/2024]
+Updated on: [4/8/2024]
 <!-- #quoteEnd -->
 </pre>
