@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Motivation is the art of getting people to do what you want them to do because they want to do it.
-- Dwight D. Eisenhower
+We know what we are but know not what we may be.
+- William Shakespeare
 
-Updated on: [4/8/2024]
+Updated on: [4/9/2024]
 <!-- #quoteEnd -->
 </pre>
