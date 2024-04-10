@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We know what we are but know not what we may be.
-- William Shakespeare
+You cannot escape the responsibility of tomorrow by evading it today.
+- Abraham Lincoln
 
-Updated on: [4/9/2024]
+Updated on: [4/10/2024]
 <!-- #quoteEnd -->
 </pre>
