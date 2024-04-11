@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You cannot escape the responsibility of tomorrow by evading it today.
-- Abraham Lincoln
+Until you make peace with who you are, you'll never be content with what you have.
+- Doris Mortman
 
-Updated on: [4/10/2024]
+Updated on: [4/11/2024]
 <!-- #quoteEnd -->
 </pre>
