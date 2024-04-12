@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Until you make peace with who you are, you'll never be content with what you have.
-- Doris Mortman
+How we spend our days is, of course, how we spend our lives.
+- Annie Dillard
 
-Updated on: [4/11/2024]
+Updated on: [4/12/2024]
 <!-- #quoteEnd -->
 </pre>
