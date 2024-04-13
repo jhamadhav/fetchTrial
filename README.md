@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-How we spend our days is, of course, how we spend our lives.
-- Annie Dillard
+Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+- Bruce Lee
 
-Updated on: [4/12/2024]
+Updated on: [4/13/2024]
 <!-- #quoteEnd -->
 </pre>
