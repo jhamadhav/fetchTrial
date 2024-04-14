@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
-- Bruce Lee
+Our lives are a sum total of the choices we have made.
+- Wayne Dyer
 
-Updated on: [4/13/2024]
+Updated on: [4/14/2024]
 <!-- #quoteEnd -->
 </pre>
