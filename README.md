@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Our lives are a sum total of the choices we have made.
-- Wayne Dyer
+The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+- Daniel J. Boorstin
 
-Updated on: [4/14/2024]
+Updated on: [4/15/2024]
 <!-- #quoteEnd -->
 </pre>
