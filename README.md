@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
-- Daniel J. Boorstin
+Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+- Richard Bach
 
-Updated on: [4/15/2024]
+Updated on: [4/16/2024]
 <!-- #quoteEnd -->
 </pre>
