@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always tell the truth. That way, you don't have to remember what you said.
-- Mark Twain
+If you wish to be a writer, write.
+- Epictetus
 
-Updated on: [4/17/2024]
+Updated on: [4/18/2024]
 <!-- #quoteEnd -->
 </pre>
