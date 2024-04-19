@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you wish to be a writer, write.
-- Epictetus
+Always do your best. What you plant now, you will harvest later.
+- Og Mandino
 
-Updated on: [4/18/2024]
+Updated on: [4/19/2024]
 <!-- #quoteEnd -->
 </pre>
