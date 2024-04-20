@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Always do your best. What you plant now, you will harvest later.
-- Og Mandino
+The essence of true friendship is to make allowance for another's little lapses.
+- Ovid
 
-Updated on: [4/19/2024]
+Updated on: [4/20/2024]
 <!-- #quoteEnd -->
 </pre>
