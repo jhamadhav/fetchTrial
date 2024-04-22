@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
-- Warren Buffett
+Those who will play with cats must expect to be scratched.
+- Miguel de Cervantes
 
-Updated on: [4/21/2024]
+Updated on: [4/22/2024]
 <!-- #quoteEnd -->
 </pre>
