@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Listen to what you know instead of what you fear.
-- Richard Bach
+All wisdom does not reside in Delhi.
+- P. Chidambaram
 
-Updated on: [4/24/2024]
+Updated on: [4/25/2024]
 <!-- #quoteEnd -->
 </pre>
