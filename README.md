@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All wisdom does not reside in Delhi.
-- P. Chidambaram
+In action a great heart is the chief qualification. In work, a great head.
+- Arthur Schopenhauer
 
-Updated on: [4/25/2024]
+Updated on: [4/26/2024]
 <!-- #quoteEnd -->
 </pre>
