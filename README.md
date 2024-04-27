@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-In action a great heart is the chief qualification. In work, a great head.
-- Arthur Schopenhauer
+O, what a tangled web we weave when first we practice to deceive!
+- Walter Scott
 
-Updated on: [4/26/2024]
+Updated on: [4/27/2024]
 <!-- #quoteEnd -->
 </pre>
