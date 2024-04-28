@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-O, what a tangled web we weave when first we practice to deceive!
-- Walter Scott
+If you don't know where you are going, you will probably end up somewhere else.
+- Laurence J. Peter
 
-Updated on: [4/27/2024]
+Updated on: [4/28/2024]
 <!-- #quoteEnd -->
 </pre>
