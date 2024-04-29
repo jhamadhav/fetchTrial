@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you don't know where you are going, you will probably end up somewhere else.
-- Laurence J. Peter
+Happiness is when what you think, what you say, and what you do are in harmony.
+- Mahatma Gandhi
 
-Updated on: [4/28/2024]
+Updated on: [4/29/2024]
 <!-- #quoteEnd -->
 </pre>
