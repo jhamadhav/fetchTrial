@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Happiness is when what you think, what you say, and what you do are in harmony.
-- Mahatma Gandhi
+Remember that failure is an event, not a person.
+- Zig Ziglar
 
-Updated on: [4/29/2024]
+Updated on: [4/30/2024]
 <!-- #quoteEnd -->
 </pre>
