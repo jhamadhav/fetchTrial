@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Remember that failure is an event, not a person.
-- Zig Ziglar
+Life is like a sewer. What you get out of it depends on what you put into it.
+- Tom Lehrer
 
-Updated on: [4/30/2024]
+Updated on: [5/1/2024]
 <!-- #quoteEnd -->
 </pre>
