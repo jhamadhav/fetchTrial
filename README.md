@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is like a sewer. What you get out of it depends on what you put into it.
-- Tom Lehrer
+What is not started today is never finished tomorrow.
+- Johann Wolfgang von Goethe
 
-Updated on: [5/1/2024]
+Updated on: [5/2/2024]
 <!-- #quoteEnd -->
 </pre>
