@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Genuine sincerity opens people's hearts, while manipulation causes them to close.
-- Daisaku Ikeda
+Subdue your appetites, my dears, and you've conquered human nature.
+- Charles Dickens
 
-Updated on: [5/4/2024]
+Updated on: [5/5/2024]
 <!-- #quoteEnd -->
 </pre>
