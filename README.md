@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Subdue your appetites, my dears, and you've conquered human nature.
-- Charles Dickens
+The road of excess leads to the palace of wisdom.
+- William Blake
 
-Updated on: [5/5/2024]
+Updated on: [5/6/2024]
 <!-- #quoteEnd -->
 </pre>
