@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The road of excess leads to the palace of wisdom.
-- William Blake
+You are that vast thing that you see far, far off with great telescopes.
+- Alan Watts
 
-Updated on: [5/6/2024]
+Updated on: [5/7/2024]
 <!-- #quoteEnd -->
 </pre>
