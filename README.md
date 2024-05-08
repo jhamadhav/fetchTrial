@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You are that vast thing that you see far, far off with great telescopes.
-- Alan Watts
+Love is composed of a single soul inhabiting two bodies.
+- Aristotle
 
-Updated on: [5/7/2024]
+Updated on: [5/8/2024]
 <!-- #quoteEnd -->
 </pre>
