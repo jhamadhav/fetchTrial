@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Love is composed of a single soul inhabiting two bodies.
-- Aristotle
+To accomplish great things, we must dream as well as act.
+- Anatole France
 
-Updated on: [5/8/2024]
+Updated on: [5/9/2024]
 <!-- #quoteEnd -->
 </pre>
