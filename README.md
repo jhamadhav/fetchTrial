@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To accomplish great things, we must dream as well as act.
-- Anatole France
+The thing always happens that you really believe in; and the belief in a thing makes it happen.
+- Frank Lloyd Wright
 
-Updated on: [5/9/2024]
+Updated on: [5/11/2024]
 <!-- #quoteEnd -->
 </pre>
