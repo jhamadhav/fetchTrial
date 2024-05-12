@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The thing always happens that you really believe in; and the belief in a thing makes it happen.
-- Frank Lloyd Wright
+A thing long expected takes the form of the unexpected when at last it comes.
+- Mark Twain
 
-Updated on: [5/11/2024]
+Updated on: [5/12/2024]
 <!-- #quoteEnd -->
 </pre>
