@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A thing long expected takes the form of the unexpected when at last it comes.
-- Mark Twain
+I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+- Frederick Douglass
 
-Updated on: [5/12/2024]
+Updated on: [5/13/2024]
 <!-- #quoteEnd -->
 </pre>
