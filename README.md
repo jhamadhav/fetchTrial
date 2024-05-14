@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
-- Frederick Douglass
+To be wrong is nothing unless you continue to remember it.
+- Confucius
 
-Updated on: [5/13/2024]
+Updated on: [5/14/2024]
 <!-- #quoteEnd -->
 </pre>
