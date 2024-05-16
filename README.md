@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To be wrong is nothing unless you continue to remember it.
-- Confucius
+The superior man blames himself. The inferior man blames others.
+- Don Shula
 
-Updated on: [5/14/2024]
+Updated on: [5/16/2024]
 <!-- #quoteEnd -->
 </pre>
