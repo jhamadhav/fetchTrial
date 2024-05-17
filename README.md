@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The superior man blames himself. The inferior man blames others.
-- Don Shula
+Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+- Napoleon Hill
 
-Updated on: [5/16/2024]
+Updated on: [5/17/2024]
 <!-- #quoteEnd -->
 </pre>
