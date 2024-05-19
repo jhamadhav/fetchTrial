@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Opportunity often comes disguised in the form of misfortune, or temporary defeat.
-- Napoleon Hill
+I never did anything worth doing by accident, nor did any of my inventions come by accident
+- Thomas Edison
 
-Updated on: [5/17/2024]
+Updated on: [5/19/2024]
 <!-- #quoteEnd -->
 </pre>
