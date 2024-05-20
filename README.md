@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I never did anything worth doing by accident, nor did any of my inventions come by accident
-- Thomas Edison
+A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+- Oliver Wendell Holmes Jr.
 
-Updated on: [5/19/2024]
+Updated on: [5/20/2024]
 <!-- #quoteEnd -->
 </pre>
