@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Good judgment comes from experience, and a lot of that comes from bad judgment.
-- Will Rogers
+Most people are about as happy as they make up their minds to be
+- Abraham Lincoln
 
-Updated on: [5/21/2024]
+Updated on: [5/22/2024]
 <!-- #quoteEnd -->
 </pre>
