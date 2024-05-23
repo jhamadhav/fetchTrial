@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Most people are about as happy as they make up their minds to be
-- Abraham Lincoln
+Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+- Marcus Aurelius
 
-Updated on: [5/22/2024]
+Updated on: [5/23/2024]
 <!-- #quoteEnd -->
 </pre>
