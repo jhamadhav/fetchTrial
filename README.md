@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-- Marcus Aurelius
+Nothing diminishes anxiety faster than action.
+- Walter Inglis Anderson
 
-Updated on: [5/23/2024]
+Updated on: [5/24/2024]
 <!-- #quoteEnd -->
 </pre>
