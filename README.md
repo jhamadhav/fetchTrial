@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Nothing diminishes anxiety faster than action.
-- Walter Inglis Anderson
+Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
+- The Buddha
 
-Updated on: [5/24/2024]
+Updated on: [5/25/2024]
 <!-- #quoteEnd -->
 </pre>
