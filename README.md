@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Most great people have attained their greatest success just one step beyond their greatest failure.
-- Napoleon Hill
+Time stays long enough for anyone who will use it.
+- Leonardo da Vinci
 
-Updated on: [5/26/2024]
+Updated on: [5/27/2024]
 <!-- #quoteEnd -->
 </pre>
