@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Time stays long enough for anyone who will use it.
-- Leonardo da Vinci
+Hell, there are no rules here-- we're trying to accomplish something.
+- Thomas Edison
 
-Updated on: [5/27/2024]
+Updated on: [5/28/2024]
 <!-- #quoteEnd -->
 </pre>
