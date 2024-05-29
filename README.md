@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Hell, there are no rules here-- we're trying to accomplish something.
-- Thomas Edison
+We must learn our limits. We are all something, but none of us are everything.
+- Blaise Pascal
 
-Updated on: [5/28/2024]
+Updated on: [5/29/2024]
 <!-- #quoteEnd -->
 </pre>
