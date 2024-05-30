@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We must learn our limits. We are all something, but none of us are everything.
-- Blaise Pascal
+If you do what you've always done, you'll get what you've always gotten.
+- Tony Robbins
 
-Updated on: [5/29/2024]
+Updated on: [5/30/2024]
 <!-- #quoteEnd -->
 </pre>
