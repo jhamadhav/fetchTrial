@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you do what you've always done, you'll get what you've always gotten.
-- Tony Robbins
+As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.
+- The Buddha
 
-Updated on: [5/30/2024]
+Updated on: [5/31/2024]
 <!-- #quoteEnd -->
 </pre>
