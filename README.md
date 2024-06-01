@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.
-- The Buddha
+Mistakes are the usual bridge between inexperience and wisdom.
+- Phyllis Grissim-Theroux
 
-Updated on: [5/31/2024]
+Updated on: [6/1/2024]
 <!-- #quoteEnd -->
 </pre>
