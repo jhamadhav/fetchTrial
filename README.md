@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Mistakes are the usual bridge between inexperience and wisdom.
-- Phyllis Grissim-Theroux
+If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
+- Rollo May
 
-Updated on: [6/1/2024]
+Updated on: [6/2/2024]
 <!-- #quoteEnd -->
 </pre>
