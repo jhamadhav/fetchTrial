@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
-- Rollo May
+The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+- Booker T. Washington
 
-Updated on: [6/2/2024]
+Updated on: [6/3/2024]
 <!-- #quoteEnd -->
 </pre>
