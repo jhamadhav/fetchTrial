@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
-- Booker T. Washington
+Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
+- The Buddha
 
-Updated on: [6/3/2024]
+Updated on: [6/4/2024]
 <!-- #quoteEnd -->
 </pre>
