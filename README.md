@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.
-- The Buddha
+I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
+- Alan Watts
 
-Updated on: [6/4/2024]
+Updated on: [6/5/2024]
 <!-- #quoteEnd -->
 </pre>
