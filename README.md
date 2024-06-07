@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
-- Plotinus
+A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+- Molière
 
-Updated on: [6/6/2024]
+Updated on: [6/7/2024]
 <!-- #quoteEnd -->
 </pre>
