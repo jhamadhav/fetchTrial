@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
-- Molière
+It is good even for old men to learn wisdom.
+- Aeschylus
 
-Updated on: [6/7/2024]
+Updated on: [6/8/2024]
 <!-- #quoteEnd -->
 </pre>
