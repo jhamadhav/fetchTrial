@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We make our own fortunes and we call them fate.
-- Benjamin Disraeli
+A man is great by deeds, not by birth.
+- Chanakya
 
-Updated on: [6/9/2024]
+Updated on: [6/10/2024]
 <!-- #quoteEnd -->
 </pre>
