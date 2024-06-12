@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Failure will never overtake me if my determination to succeed is strong enough.
-- Og Mandino
+Listen to what you know instead of what you fear.
+- Richard Bach
 
-Updated on: [6/11/2024]
+Updated on: [6/12/2024]
 <!-- #quoteEnd -->
 </pre>
