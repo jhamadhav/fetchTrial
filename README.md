@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-At the center of your being, you have the answer; you know who you are, and you know what you want.
-- Laozi
+God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+- Voltaire
 
-Updated on: [6/14/2024]
+Updated on: [6/15/2024]
 <!-- #quoteEnd -->
 </pre>
