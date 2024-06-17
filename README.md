@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-God gave us the gift of life; it is up to us to give ourselves the gift of living well.
-- Voltaire
+Time is the most valuable thing a man can spend.
+- Theophrastus
 
-Updated on: [6/15/2024]
+Updated on: [6/17/2024]
 <!-- #quoteEnd -->
 </pre>
