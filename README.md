@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Time is the most valuable thing a man can spend.
-- Theophrastus
+Be less curious about people and more curious about ideas.
+- Marie Curie
 
-Updated on: [6/17/2024]
+Updated on: [6/18/2024]
 <!-- #quoteEnd -->
 </pre>
