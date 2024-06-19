@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Be less curious about people and more curious about ideas.
-- Marie Curie
+TV and the Internet are good because they keep stupid people from spending too much time out in public.
+- Douglas Coupland
 
-Updated on: [6/18/2024]
+Updated on: [6/19/2024]
 <!-- #quoteEnd -->
 </pre>
