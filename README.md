@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-TV and the Internet are good because they keep stupid people from spending too much time out in public.
-- Douglas Coupland
+The truest greatness lies in being kind, the truest wisdom in a happy mind.
+- Ella Wheeler Wilcox
 
-Updated on: [6/19/2024]
+Updated on: [6/20/2024]
 <!-- #quoteEnd -->
 </pre>
