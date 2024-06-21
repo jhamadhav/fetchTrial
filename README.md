@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The truest greatness lies in being kind, the truest wisdom in a happy mind.
-- Ella Wheeler Wilcox
+I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+- Kurt Vonnegut
 
-Updated on: [6/20/2024]
+Updated on: [6/21/2024]
 <!-- #quoteEnd -->
 </pre>
