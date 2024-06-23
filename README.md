@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
-- Kurt Vonnegut
+You don't choose your family. They are God's gift to you, as you are to them.
+- Desmond Tutu
 
-Updated on: [6/21/2024]
+Updated on: [6/23/2024]
 <!-- #quoteEnd -->
 </pre>
