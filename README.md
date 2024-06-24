@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You don't choose your family. They are God's gift to you, as you are to them.
-- Desmond Tutu
+You can always count on Americans to do the right thing - after they've tried everything else.
+- Winston Churchill
 
-Updated on: [6/23/2024]
+Updated on: [6/24/2024]
 <!-- #quoteEnd -->
 </pre>
