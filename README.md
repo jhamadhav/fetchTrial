@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You can always count on Americans to do the right thing - after they've tried everything else.
-- Winston Churchill
+Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+- Wayne Dyer
 
-Updated on: [6/24/2024]
+Updated on: [6/25/2024]
 <!-- #quoteEnd -->
 </pre>
