@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-No alibi will save you from accepting the responsibility.
-- Napoleon Hill
+I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+- Dalai Lama
 
-Updated on: [6/26/2024]
+Updated on: [6/27/2024]
 <!-- #quoteEnd -->
 </pre>
