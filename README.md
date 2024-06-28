@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
-- Dalai Lama
+Only put off until tomorrow what you are willing to die having left undone.
+- Pablo Picasso
 
-Updated on: [6/27/2024]
+Updated on: [6/28/2024]
 <!-- #quoteEnd -->
 </pre>
