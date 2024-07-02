@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
-- The Buddha
+Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+- Arthur Conan Doyle
 
-Updated on: [7/1/2024]
+Updated on: [7/2/2024]
 <!-- #quoteEnd -->
 </pre>
