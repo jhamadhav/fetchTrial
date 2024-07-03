@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
-- Arthur Conan Doyle
+There's power in looking silly and not caring that you do.
+- Amy Poehler
 
-Updated on: [7/2/2024]
+Updated on: [7/3/2024]
 <!-- #quoteEnd -->
 </pre>
