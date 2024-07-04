@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-There's power in looking silly and not caring that you do.
-- Amy Poehler
+I have always found that mercy bears richer fruits than strict justice.
+- Abraham Lincoln
 
-Updated on: [7/3/2024]
+Updated on: [7/4/2024]
 <!-- #quoteEnd -->
 </pre>
