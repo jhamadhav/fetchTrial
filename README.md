@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-I have always found that mercy bears richer fruits than strict justice.
-- Abraham Lincoln
+You got to be careful if you don't know where you're going, because you might not get there.
+- Yogi Berra
 
-Updated on: [7/4/2024]
+Updated on: [7/5/2024]
 <!-- #quoteEnd -->
 </pre>
