@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-You got to be careful if you don't know where you're going, because you might not get there.
-- Yogi Berra
+Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
+- Napoleon Hill
 
-Updated on: [7/5/2024]
+Updated on: [7/6/2024]
 <!-- #quoteEnd -->
 </pre>
