@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
-- Napoleon Hill
+The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+- Henry David Thoreau
 
-Updated on: [7/6/2024]
+Updated on: [7/7/2024]
 <!-- #quoteEnd -->
 </pre>
