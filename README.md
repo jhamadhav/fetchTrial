@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
-- Henry David Thoreau
+It does not matter how slowly you go as long as you do not stop.
+- Confucius
 
-Updated on: [7/7/2024]
+Updated on: [7/8/2024]
 <!-- #quoteEnd -->
 </pre>
