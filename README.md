@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-It does not matter how slowly you go as long as you do not stop.
-- Confucius
+All this modern technology just makes people try to do everything at once.
+- Bill Watterson
 
-Updated on: [7/8/2024]
+Updated on: [7/9/2024]
 <!-- #quoteEnd -->
 </pre>
