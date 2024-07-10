@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-All this modern technology just makes people try to do everything at once.
-- Bill Watterson
+If I were two-faced, would I be wearing this one?
+- Abraham Lincoln
 
-Updated on: [7/9/2024]
+Updated on: [7/10/2024]
 <!-- #quoteEnd -->
 </pre>
