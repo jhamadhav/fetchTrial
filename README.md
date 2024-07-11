@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If I were two-faced, would I be wearing this one?
-- Abraham Lincoln
+Things turn out best for those who make the best of the way things turn out.
+- Jack Buck
 
-Updated on: [7/10/2024]
+Updated on: [7/11/2024]
 <!-- #quoteEnd -->
 </pre>
