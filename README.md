@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never give up, for that is just the place and time that the tide will turn.
-- Harriet Beecher Stowe
+Happiness is the reward we get for living to the highest right we know.
+- Richard Bach
 
-Updated on: [7/13/2024]
+Updated on: [7/14/2024]
 <!-- #quoteEnd -->
 </pre>
