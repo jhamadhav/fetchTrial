@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Those who dream by day are cognizant of many things which escape those who dream only by night.
-- Edgar Allan Poe
+We can change our lives. We can do, have, and be exactly what we wish.
+- Tony Robbins
 
-Updated on: [7/16/2024]
+Updated on: [7/17/2024]
 <!-- #quoteEnd -->
 </pre>
