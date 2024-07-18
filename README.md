@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-We can change our lives. We can do, have, and be exactly what we wish.
-- Tony Robbins
+Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+- Barack Obama
 
-Updated on: [7/17/2024]
+Updated on: [7/18/2024]
 <!-- #quoteEnd -->
 </pre>
