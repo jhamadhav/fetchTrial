@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
-- Barack Obama
+Set your goals high, and don't stop till you get there.
+- Bo Jackson
 
-Updated on: [7/18/2024]
+Updated on: [7/20/2024]
 <!-- #quoteEnd -->
 </pre>
