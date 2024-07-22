@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Set your goals high, and don't stop till you get there.
-- Bo Jackson
+For everything that lives is holy, life delights in life.
+- William Blake
 
-Updated on: [7/20/2024]
+Updated on: [7/22/2024]
 <!-- #quoteEnd -->
 </pre>
