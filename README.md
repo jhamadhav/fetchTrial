@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-For everything that lives is holy, life delights in life.
-- William Blake
+When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+- W. Clement Stone
 
-Updated on: [7/22/2024]
+Updated on: [7/23/2024]
 <!-- #quoteEnd -->
 </pre>
