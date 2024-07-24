@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
-- W. Clement Stone
+If you focus on results, you will never change. If you focus on change, you will get results.
+- Jack Dixon
 
-Updated on: [7/23/2024]
+Updated on: [7/24/2024]
 <!-- #quoteEnd -->
 </pre>
