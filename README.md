@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-If you focus on results, you will never change. If you focus on change, you will get results.
-- Jack Dixon
+Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+- Howard H. Aiken
 
-Updated on: [7/24/2024]
+Updated on: [7/25/2024]
 <!-- #quoteEnd -->
 </pre>
