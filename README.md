@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-A goal is a dream with a deadline.
-- Napoleon Hill
+The root of suffering is attachment.
+- The Buddha
 
-Updated on: [7/27/2024]
+Updated on: [7/28/2024]
 <!-- #quoteEnd -->
 </pre>
