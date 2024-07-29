@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-The root of suffering is attachment.
-- The Buddha
+In the middle of every difficulty lies opportunity.
+- Albert Einstein
 
-Updated on: [7/28/2024]
+Updated on: [7/29/2024]
 <!-- #quoteEnd -->
 </pre>
