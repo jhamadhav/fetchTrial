@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
-- Carl Jung
+Everything that happens as it should, and if you observe carefully, you will find this to be so.
+- Marcus Aurelius
 
-Updated on: [7/30/2024]
+Updated on: [7/31/2024]
 <!-- #quoteEnd -->
 </pre>
