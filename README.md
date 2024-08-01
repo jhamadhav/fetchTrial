@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everything that happens as it should, and if you observe carefully, you will find this to be so.
-- Marcus Aurelius
+Never accept ultimatums, conventional wisdom, or absolutes.
+- Christopher Reeve
 
-Updated on: [7/31/2024]
+Updated on: [8/1/2024]
 <!-- #quoteEnd -->
 </pre>
