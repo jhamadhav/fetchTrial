@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Never accept ultimatums, conventional wisdom, or absolutes.
-- Christopher Reeve
+What lies behind us and what lies before us are tiny matters compared to what lies within us.
+- Ralph Waldo Emerson
 
-Updated on: [8/1/2024]
+Updated on: [8/2/2024]
 <!-- #quoteEnd -->
 </pre>
