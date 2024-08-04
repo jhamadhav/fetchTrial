@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Everything you are against weakens you. Everything you are for empowers you.
-- Wayne Dyer
+What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
+- The Buddha
 
-Updated on: [8/3/2024]
+Updated on: [8/4/2024]
 <!-- #quoteEnd -->
 </pre>
