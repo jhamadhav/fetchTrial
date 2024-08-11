@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
-- The Buddha
+Better to have loved and lost, than to have never loved at all.
+- Augustine of Hippo
 
-Updated on: [8/4/2024]
+Updated on: [8/11/2024]
 <!-- #quoteEnd -->
 </pre>
