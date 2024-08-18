@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Better to have loved and lost, than to have never loved at all.
-- Augustine of Hippo
+Let the beauty of what you love be what you do.
+- Rumi
 
-Updated on: [8/11/2024]
+Updated on: [8/18/2024]
 <!-- #quoteEnd -->
 </pre>
