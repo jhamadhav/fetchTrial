@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Let the beauty of what you love be what you do.
-- Rumi
+To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+- Dalai Lama
 
-Updated on: [8/18/2024]
+Updated on: [8/25/2024]
 <!-- #quoteEnd -->
 </pre>
