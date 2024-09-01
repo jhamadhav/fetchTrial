@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
-- Dalai Lama
+Life is not a problem to be solved, but a reality to be experienced.
+- Søren Kierkegaard
 
-Updated on: [8/25/2024]
+Updated on: [9/1/2024]
 <!-- #quoteEnd -->
 </pre>
