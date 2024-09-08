@@ -2,9 +2,9 @@
 
 <pre>
 <!-- #quote -->
-Life is not a problem to be solved, but a reality to be experienced.
-- Søren Kierkegaard
+I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+- Thomas Edison
 
-Updated on: [9/1/2024]
+Updated on: [9/8/2024]
 <!-- #quoteEnd -->
 </pre>
